@@ -128,4 +128,146 @@ if model is not None:
             tahun = st.number_input("📅 Tahun Target", min_value=2010, max_value=2035, value=2026, step=1)
             bulan = st.slider("📆 Bulan Target", min_value=1, max_value=12, value=7)
         with col_in3:
-            minggu = st.number_input("🔢 Minggu ke- (1
+            minggu = st.number_input("🔢 Minggu ke- (1-53)", min_value=1, max_value=53, value=1, step=1)
+
+        st.markdown(" ")
+        if st.button("🚀 Hitung Estimasi Penjualan", type="primary", use_container_width=True):
+            item_encoded = le.transform([jenis_item])[0]
+            history = weekly_sales[weekly_sales["jenis_item_encoded"] == item_encoded]
+
+            if history.empty:
+                st.warning("⚠️ Data historis item minim. Menggunakan fallback nilai default (0).")
+                lag_1 = lag_2 = lag_3 = lag_4 = 0
+                rolling_mean_4 = rolling_std_4 = 0
+            else:
+                last_row = history.sort_values(by=["tahun", "minggu"]).iloc[-1]
+                lag_1, lag_2, lag_3 = last_row["total_penjualan"], last_row["lag_1"], last_row["lag_2"]
+                lag_4 = last_row["lag_3"]
+                rolling_mean_4 = history["total_penjualan"].tail(4).mean()
+                rolling_std_4 = history["total_penjualan"].tail(4).std()
+                if pd.isna(rolling_std_4): rolling_std_4 = 0
+
+            input_df = pd.DataFrame([{
+                "tahun": tahun, "bulan": bulan, "minggu": minggu,
+                "jenis_item_encoded": item_encoded, "total_item": total_item,
+                "lag_1": lag_1, "lag_2": lag_2, "lag_3": lag_3, "lag_4": lag_4,
+                "rolling_mean_4": rolling_mean_4, "rolling_std_4": rolling_std_4
+            }])
+
+            hasil = predict(input_df)[0]
+
+            # Tampilan Hasil yang Mewah
+            st.markdown("### 📊 Hasil Analisis Prediksi")
+            res_col1, res_col2 = st.columns([1, 2])
+            with res_col1:
+                st.metric(
+                    label=f"Estimasi Pendapatan ({jenis_item})", 
+                    value=f"Rp {hasil:,.0f}"
+                )
+            with res_col2:
+                st.success(f"Model memprediksi penjualan untuk minggu ke-{minggu} di bulan ke-{bulan} akan menghasilkan pendapatan optimal sebesar **Rp {hasil:,.0f}** dengan estimasi kuantitas produk {total_item} pcs.")
+
+            # Visualisasi Tren Historis Item yang Dipilih
+            if not history.empty:
+                st.markdown("#### 📈 Tren Penjualan Historis Terakhir")
+                fig = px.line(
+                    history.tail(12), 
+                    x="minggu", 
+                    y="total_penjualan", 
+                    title=f"12 Catatan Transaksi Terakhir - Kategori {jenis_item}",
+                    labels={"total_penjualan": "Total Penjualan (Rp)", "minggu": "Minggu Ke-"},
+                    markers=True
+                )
+                fig.update_layout(hovermode="x unified", template="plotly_white")
+                st.plotly_chart(fig, use_container_width=True)
+
+            with st.expander("🛠️ Periksa Fitur Matriks Internal (X_Row Datatable)"):
+                st.dataframe(input_df, use_container_width=True)
+
+    # =========================================================
+    # TAB 2 - UPLOAD CSV (Modern Layout & Interactive Chart)
+    # =========================================================
+    with tab2:
+        st.subheader("Pemrosesan Data Skala Besar")
+        st.write("Unggah dokumen transaksi ritel untuk otomatisasi transformasi data dan pembuatan prediksi simultan.")
+        
+        uploaded_file = st.file_uploader("Seret dan letakkan file CSV di sini", type=["csv"])
+
+        if uploaded_file is not None:
+            try:
+                with st.spinner("Sedang mengekstrak dan menghitung data..."):
+                    raw = pd.read_csv(uploaded_file)
+                    raw.columns = ["id_transaksi", "jenis_item", "jumlah", "tanggal_pembelian", "nama_customer", "total"]
+                    raw = raw.dropna().drop_duplicates()
+                    raw["tanggal_pembelian"] = pd.to_datetime(raw["tanggal_pembelian"], errors="coerce")
+                    raw = raw.dropna()
+
+                    raw["tahun"] = raw["tanggal_pembelian"].dt.year
+                    raw["bulan"] = raw["tanggal_pembelian"].dt.month
+                    raw["minggu"] = raw["tanggal_pembelian"].dt.isocalendar().week.astype(int)
+
+                    ws = raw.groupby(["tahun", "bulan", "minggu", "jenis_item"]).agg({"total": "sum", "jumlah": "sum"}).reset_index()
+                    ws.rename(columns={"total": "total_penjualan", "jumlah": "total_item"}, inplace=True)
+
+                    dikenal = set(le.classes_)
+                    tidak_dikenal = set(ws["jenis_item"].unique()) - dikenal
+                    if tidak_dikenal:
+                        st.warning(f"⚠️ {len(tidak_dikenal)} kategori baru diabaikan karena belum dikenali model.")
+                        ws = ws[ws["jenis_item"].isin(dikenal)]
+
+                    ws["jenis_item_encoded"] = le.transform(ws["jenis_item"])
+                    ws = ws.sort_values(by=["jenis_item_encoded", "tahun", "minggu"])
+
+                    for i in range(1, 5):
+                        ws[f"lag_{i}"] = ws.groupby("jenis_item_encoded")["total_penjualan"].shift(i)
+                    
+                    ws["rolling_mean_4"] = ws.groupby("jenis_item_encoded")["total_penjualan"].transform(lambda x: x.shift(1).rolling(window=4).mean())
+                    ws["rolling_std_4"] = ws.groupby("jenis_item_encoded")["total_penjualan"].transform(lambda x: x.shift(1).rolling(window=4).std())
+
+                    ws_clean = ws.dropna().copy()
+
+                if ws_clean.empty:
+                    st.error("❌ Data tidak cukup untuk diekstraksi ke pola mingguan (Minimal dibutuhkan data rentang waktu > 4 minggu).")
+                else:
+                    preds = predict(ws_clean)
+                    ws_clean["prediksi_total_penjualan"] = preds
+
+                    # Metrik Ringkasan File
+                    st.success(f"⚡ Pemrosesan Selesai! Berhasil memprediksi total **{len(ws_clean)} baris** agregat.")
+                    
+                    m1, m2 = st.columns(2)
+                    m1.metric("Total Penjualan Riwayat", f"Rp {ws_clean['total_penjualan'].sum():,.0f}")
+                    m2.metric("Total Estimasi Penjualan Depan", f"Rp {ws_clean['prediksi_total_penjualan'].sum():,.0f}")
+
+                    # Chart Interaktif Perbandingan Data Riwayat vs Prediksi
+                    st.markdown("#### 🔀 Perbandingan Nilai Aktual vs Hasil Prediksi")
+                    fig_compare = px.scatter(
+                        ws_clean, 
+                        x="total_penjualan", 
+                        y="prediksi_total_penjualan",
+                        color="jenis_item",
+                        labels={"total_penjualan": "Nilai Aktual (Rp)", "prediksi_total_penjualan": "Prediksi Model (Rp)"},
+                        title="Sebaran Akurasi Prediksi terhadap Aktual berdasarkan Jenis Item"
+                    )
+                    fig_compare.add_shape(type="line", line=dict(dash="dash", color="red"), x0=ws_clean["total_penjualan"].min(), y0=ws_clean["total_penjualan"].min(), x1=ws_clean["total_penjualan"].max(), y1=ws_clean["total_penjualan"].max())
+                    st.plotly_chart(fig_compare, use_container_width=True)
+
+                    # Tabel Preview Data
+                    st.markdown("#### 📋 Lembar Pratinjau Hasil")
+                    st.dataframe(
+                        ws_clean[["tahun", "bulan", "minggu", "jenis_item", "total_item", "total_penjualan", "prediksi_total_penjualan"]],
+                        use_container_width=True
+                    )
+
+                    # Tombol download yang mencolok
+                    csv_hasil = ws_clean.to_csv(index=False).encode("utf-8")
+                    st.download_button(
+                        label="📥 Unduh Hasil Prediksi Lengkap (.CSV)",
+                        data=csv_hasil,
+                        file_name="rekap_prediksi_penjualan.csv",
+                        mime="text/csv",
+                        use_container_width=True
+                    )
+
+            except Exception as e:
+                st.error(f"Gagal memproses file: {e}")
