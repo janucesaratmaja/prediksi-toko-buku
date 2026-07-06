@@ -1,0 +1,3241 @@
+id_transaksi,jenis_item,jumlah,tanggal pembelian,nama_customer,total
+133889,Alat Tulis,1,1/1/2010,Stacy Campos,120000
+133889,Buku Sejarah,1,1/1/2010,Stacy Campos,150000
+133889,Buku Anak-Anak,2,1/1/2010,Stacy Campos,400000
+133889,Majalah Fashion,1,1/1/2010,Stacy Campos,130000
+133889,Majalah Berita,2,1/1/2010,Stacy Campos,600000
+133889,Buku Fiksi,3,1/1/2010,Stacy Campos,1170000
+133889,Novel Romansa,2,1/1/2010,Stacy Campos,600000
+133890,Alat Tulis,1,3/3/2010,Natasha Sims,130000
+133890,Majalah Seni,1,3/3/2010,Natasha Sims,50000
+133890,Majalah Berita,2,5/1/2010,Natasha Sims,480000
+133890,Buku Biografi,2,5/1/2010,Natasha Sims,100000
+133890,Novel Romansa,2,5/1/2010,Natasha Sims,40000
+133890,Aksesoris Buku,4,5/1/2010,Natasha Sims,960000
+133891,Novel Fiksi Ilmiah,4,5/1/2010,Kimberly Park,400000
+133891,Majalah Berita,2,5/1/2010,Kimberly Park,80000
+133891,Novel Misteri,1,5/1/2010,Kimberly Park,130000
+133891,Majalah Fashion,3,5/1/2010,Kimberly Park,60000
+133892,Buku Anak-Anak,2,5/1/2010,Jonathan Edwards,100000
+133892,Majalah Seni,1,5/1/2010,Jonathan Edwards,20000
+133892,Novel Fiksi Ilmiah,2,5/1/2010,Jonathan Edwards,80000
+133892,Buku Fiksi,5,5/1/2010,Jonathan Edwards,2750000
+133892,Aksesoris Buku,7,6/27/2010,Jonathan Edwards,2450000
+133893,Alat Tulis,2,6/27/2010,Tiffany Cline,400000
+133893,Buku Sejarah,1,6/27/2010,Tiffany Cline,100000
+133893,Buku Anak-Anak,1,6/27/2010,Tiffany Cline,130000
+133893,Majalah Fashion,5,8/20/2010,Tiffany Cline,500000
+133893,Majalah Seni,4,10/29/2010,Tiffany Cline,1920000
+133893,Majalah Berita,6,10/29/2010,Tiffany Cline,3240000
+133893,Novel Romansa,7,10/29/2010,Tiffany Cline,140000
+133893,Aksesoris Buku,3,10/29/2010,Tiffany Cline,1350000
+133894,Alat Tulis,7,10/29/2010,James Brown,1225000
+133894,Majalah Fashion,6,10/29/2010,James Brown,900000
+133894,Novel Fiksi Ilmiah,3,10/29/2010,James Brown,180000
+133894,Buku Biografi,1,10/29/2010,James Brown,25000
+133894,Novel Romansa,3,10/29/2010,James Brown,990000
+133894,Aksesoris Buku,6,10/29/2010,James Brown,3600000
+133895,Majalah Berita,3,10/29/2010,Karen Oconnell,810000
+133895,Novel Fiksi Ilmiah,5,10/29/2010,Karen Oconnell,3000000
+133895,Novel Misteri,1,10/29/2010,Karen Oconnell,50000
+133895,Buku Biografi,5,10/29/2010,Karen Oconnell,100000
+133895,Aksesoris Buku,4,10/29/2010,Karen Oconnell,960000
+133896,Buku Sejarah,2,10/29/2010,Rebecca English,400000
+133896,Alat Tulis,3,10/29/2010,Rebecca English,900000
+133896,Majalah Fashion,2,10/29/2010,Rebecca English,100000
+133896,Majalah Seni,3,10/29/2010,Rebecca English,180000
+133896,Majalah Berita,4,10/29/2010,Rebecca English,1440000
+133896,Buku Biografi,5,1/20/2011,Rebecca English,500000
+133896,Aksesoris Buku,7,3/22/2011,Rebecca English,5390000
+133897,Novel Romansa,8,3/22/2011,Tim Mcdowell,7680000
+133897,Alat Tulis,1,5/17/2011,Tim Mcdowell,100000
+133897,Majalah Berita,8,5/17/2011,Tim Mcdowell,9600000
+133897,Novel Fiksi Ilmiah,1,5/17/2011,Tim Mcdowell,120000
+133898,Majalah Seni,7,5/17/2011,Derek Mendez,7350000
+133898,Novel Fiksi Ilmiah,4,5/17/2011,Derek Mendez,1920000
+133898,Buku Biografi,4,5/17/2011,Derek Mendez,320000
+133898,Novel Romansa,6,5/17/2011,Derek Mendez,3240000
+133898,Aksesoris Buku,5,5/17/2011,Derek Mendez,1250000
+133899,Buku Sejarah,9,5/17/2011,Tami Townsend MD,12150000
+133899,Majalah Fashion,9,5/17/2011,Tami Townsend MD,8910000
+133899,Majalah Seni,9,5/17/2011,Tami Townsend MD,7290000
+133899,Majalah Berita,7,5/17/2011,Tami Townsend MD,2940000
+133899,Novel Fiksi Ilmiah,6,5/17/2011,Tami Townsend MD,3960000
+133899,Buku Fiksi,7,5/17/2011,Tami Townsend MD,2450000
+133899,Novel Romansa,5,5/17/2011,Tami Townsend MD,3250000
+133899,Aksesoris Buku,1,5/17/2011,Tami Townsend MD,20000
+133900,Alat Tulis,5,7/27/2011,Dalton Carroll Jr.,1250000
+133900,Buku Anak-Anak,8,8/28/2011,Dalton Carroll Jr.,1280000
+133900,Majalah Fashion,2,8/28/2011,Dalton Carroll Jr.,240000
+133900,Majalah Seni,4,8/28/2011,Dalton Carroll Jr.,320000
+133900,Majalah Berita,9,8/28/2011,Dalton Carroll Jr.,10530000
+133900,Buku Biografi,2,8/28/2011,Dalton Carroll Jr.,200000
+133900,Novel Romansa,3,8/28/2011,Dalton Carroll Jr.,180000
+133901,Novel Romansa,5,8/28/2011,Yvonne Riddle,2500000
+133901,Buku Biografi,2,8/28/2011,Yvonne Riddle,520000
+133901,Buku Anak-Anak,5,8/28/2011,Yvonne Riddle,3750000
+133901,Majalah Fashion,4,8/28/2011,Yvonne Riddle,2400000
+133902,Buku Sejarah,8,8/28/2011,Lisa Jenkins,1280000
+133902,Alat Tulis,1,8/28/2011,Lisa Jenkins,20000
+133902,Buku Anak-Anak,5,8/28/2011,Lisa Jenkins,3000000
+133902,Majalah Fashion,2,8/28/2011,Lisa Jenkins,520000
+133903,Majalah Berita,8,8/28/2011,Victor Ortega,5760000
+133903,Buku Sejarah,1,8/28/2011,Victor Ortega,90000
+133903,Buku Biografi,1,10/20/2011,Victor Ortega,25000
+133903,Aksesoris Buku,7,10/20/2011,Victor Ortega,2940000
+133904,Majalah Seni,6,11/23/2011,Christopher Henry,1800000
+133904,Majalah Berita,5,11/23/2011,Christopher Henry,625000
+133904,Novel Misteri,5,1/25/2012,Christopher Henry,2750000
+133904,Novel Romansa,7,1/25/2012,Christopher Henry,2940000
+133904,Aksesoris Buku,5,1/25/2012,Christopher Henry,625000
+133905,Alat Tulis,9,1/25/2012,Elizabeth Burns,12150000
+133905,Buku Sejarah,3,1/25/2012,Elizabeth Burns,1170000
+133905,Buku Anak-Anak,5,1/25/2012,Elizabeth Burns,2500000
+133905,Majalah Fashion,1,1/25/2012,Elizabeth Burns,110000
+133905,Majalah Berita,9,1/25/2012,Elizabeth Burns,1620000
+133905,Novel Fiksi Ilmiah,4,1/25/2012,Elizabeth Burns,800000
+133905,Buku Fiksi,3,1/25/2012,Elizabeth Burns,810000
+133905,Buku Biografi,9,1/25/2012,Elizabeth Burns,7290000
+133906,Alat Tulis,8,1/25/2012,John Calhoun,1280000
+133906,Buku Sejarah,1,1/25/2012,John Calhoun,110000
+133906,Novel Misteri,2,1/25/2012,John Calhoun,240000
+133906,Novel Fiksi Ilmiah,3,1/25/2012,John Calhoun,450000
+133907,Alat Tulis,3,1/25/2012,Sarah Moore,450000
+133907,Buku Sejarah,6,1/25/2012,Sarah Moore,3960000
+133907,Buku Anak-Anak,6,1/25/2012,Sarah Moore,3600000
+133907,Majalah Fashion,4,1/25/2012,Sarah Moore,320000
+133907,Buku Biografi,7,4/23/2012,Sarah Moore,5390000
+133907,Novel Romansa,9,7/31/2012,Sarah Moore,8910000
+133908,Alat Tulis,5,7/31/2012,Tabitha Dixon,2500000
+133908,Majalah Seni,2,7/31/2012,Tabitha Dixon,80000
+133908,Buku Sejarah,3,7/31/2012,Tabitha Dixon,990000
+133908,Aksesoris Buku,5,7/31/2012,Tabitha Dixon,2500000
+133909,Alat Tulis,9,7/31/2012,Ronnie Wells,2025000
+133909,Buku Anak-Anak,6,7/31/2012,Ronnie Wells,1800000
+133909,Majalah Berita,9,7/31/2012,Ronnie Wells,8100000
+133909,Novel Fiksi Ilmiah,8,7/31/2012,Ronnie Wells,3840000
+133909,Novel Misteri,2,7/31/2012,Ronnie Wells,360000
+133909,Buku Biografi,1,7/31/2012,Ronnie Wells,100000
+133909,Novel Romansa,1,7/31/2012,Ronnie Wells,25000
+133909,Aksesoris Buku,1,7/31/2012,Ronnie Wells,25000
+133910,Alat Tulis,7,7/31/2012,Julia King,2450000
+133910,Majalah Fashion,8,7/31/2012,Julia King,3200000
+133910,Majalah Berita,6,7/31/2012,Julia King,3600000
+133910,Novel Fiksi Ilmiah,1,7/31/2012,Julia King,50000
+133910,Buku Fiksi,5,7/31/2012,Julia King,100000
+133910,Buku Biografi,7,7/31/2012,Julia King,1225000
+133910,Novel Misteri,3,7/31/2012,Julia King,1080000
+133911,Buku Sejarah,5,7/31/2012,Pam Rios,625000
+133911,Alat Tulis,1,7/31/2012,Pam Rios,20000
+133911,Buku Anak-Anak,5,7/31/2012,Pam Rios,2500000
+133911,Majalah Fashion,9,7/31/2012,Pam Rios,10530000
+133911,Majalah Seni,6,7/31/2012,Pam Rios,1800000
+133911,Novel Fiksi Ilmiah,5,7/31/2012,Pam Rios,3250000
+133911,Buku Biografi,4,7/31/2012,Pam Rios,80000
+133911,Aksesoris Buku,3,7/31/2012,Pam Rios,1350000
+133912,Buku Sejarah,9,7/31/2012,Elizabeth Dean,4050000
+133912,Alat Tulis,3,7/31/2012,Elizabeth Dean,1350000
+133912,Buku Anak-Anak,4,7/31/2012,Elizabeth Dean,2080000
+133912,Novel Fiksi Ilmiah,7,7/31/2012,Elizabeth Dean,980000
+133913,Buku Fiksi,2,7/31/2012,Randy Carlson,80000
+133913,Majalah Berita,8,7/31/2012,Randy Carlson,7040000
+133913,Buku Anak-Anak,5,7/31/2012,Randy Carlson,500000
+133913,Aksesoris Buku,8,9/30/2012,Randy Carlson,3840000
+133914,Novel Romansa,2,9/30/2012,Jeremy Stark,80000
+133914,Majalah Seni,7,9/30/2012,Jeremy Stark,6370000
+133914,Novel Misteri,3,9/30/2012,Jeremy Stark,180000
+133914,Novel Fiksi Ilmiah,4,9/30/2012,Jeremy Stark,320000
+133915,Alat Tulis,2,9/30/2012,Courtney Terry,520000
+133915,Buku Anak-Anak,6,9/30/2012,Courtney Terry,3960000
+133915,Majalah Fashion,4,9/30/2012,Courtney Terry,2080000
+133915,Majalah Seni,4,9/30/2012,Courtney Terry,1920000
+133915,Majalah Berita,8,9/30/2012,Courtney Terry,9600000
+133915,Novel Fiksi Ilmiah,9,9/30/2012,Courtney Terry,8910000
+133915,Buku Biografi,9,9/30/2012,Courtney Terry,1620000
+133915,Aksesoris Buku,5,10/24/2012,Courtney Terry,3250000
+133916,Novel Romansa,9,10/24/2012,Samantha Savage,180000
+133916,Majalah Fashion,9,10/24/2012,Samantha Savage,1620000
+133916,Majalah Berita,7,10/24/2012,Samantha Savage,2940000
+133916,Novel Fiksi Ilmiah,6,10/24/2012,Samantha Savage,3240000
+133917,Buku Sejarah,3,10/24/2012,James Burnett,1170000
+133917,Alat Tulis,1,10/24/2012,James Burnett,50000
+133917,Majalah Fashion,3,10/24/2012,James Burnett,1350000
+133917,Majalah Seni,1,10/24/2012,James Burnett,150000
+133917,Majalah Berita,1,10/24/2012,James Burnett,150000
+133917,Novel Fiksi Ilmiah,4,10/24/2012,James Burnett,320000
+133917,Buku Fiksi,7,10/24/2012,James Burnett,6370000
+133917,Buku Biografi,6,10/24/2012,James Burnett,120000
+133918,Alat Tulis,9,12/21/2012,Richard Nicholson,10530000
+133918,Buku Sejarah,6,12/21/2012,Richard Nicholson,3600000
+133918,Buku Anak-Anak,2,12/21/2012,Richard Nicholson,80000
+133918,Majalah Seni,5,12/21/2012,Richard Nicholson,1250000
+133918,Majalah Berita,3,12/21/2012,Richard Nicholson,450000
+133918,Buku Fiksi,8,12/21/2012,Richard Nicholson,3840000
+133919,Buku Anak-Anak,6,12/21/2012,Heather Price,2160000
+133919,Majalah Fashion,4,3/10/2013,Heather Price,800000
+133919,Majalah Seni,5,3/10/2013,Heather Price,2250000
+133919,Majalah Berita,1,3/10/2013,Heather Price,100000
+133919,Novel Fiksi Ilmiah,8,4/7/2013,Heather Price,3200000
+133919,Buku Fiksi,6,4/7/2013,Heather Price,3240000
+133919,Aksesoris Buku,2,4/7/2013,Heather Price,600000
+133920,Alat Tulis,3,4/7/2013,Jeffery Newton,1170000
+133920,Buku Sejarah,5,4/7/2013,Jeffery Newton,2250000
+133920,Buku Anak-Anak,7,5/30/2013,Jeffery Newton,980000
+133920,Buku Fiksi,8,5/30/2013,Jeffery Newton,7680000
+133920,Buku Biografi,1,5/30/2013,Jeffery Newton,50000
+133921,Alat Tulis,5,5/30/2013,Michael Buchanan,3000000
+133921,Buku Anak-Anak,4,5/30/2013,Michael Buchanan,1920000
+133921,Majalah Fashion,7,5/30/2013,Michael Buchanan,4900000
+133921,Majalah Seni,4,5/30/2013,Michael Buchanan,1920000
+133921,Majalah Berita,3,5/30/2013,Michael Buchanan,
+133921,Novel Misteri,4,5/30/2013,Michael Buchanan,80000
+133921,Novel Romansa,7,5/30/2013,Michael Buchanan,2450000
+133921,Aksesoris Buku,2,5/30/2013,Michael Buchanan,40000
+133922,Alat Tulis,1,5/30/2013,Raymond Ruiz,90000
+133922,Buku Sejarah,8,5/30/2013,Raymond Ruiz,1600000
+133922,Buku Anak-Anak,4,5/30/2013,Raymond Ruiz,400000
+133922,Majalah Fashion,7,7/17/2013,Raymond Ruiz,4410000
+133922,Majalah Seni,3,7/17/2013,Raymond Ruiz,450000
+133922,Buku Biografi,6,7/17/2013,Raymond Ruiz,120000
+133923,Majalah Fashion,9,7/17/2013,Angela Conway,1620000
+133923,Majalah Seni,1,7/17/2013,Angela Conway,150000
+133923,Buku Fiksi,4,7/17/2013,Angela Conway,320000
+133923,Novel Misteri,7,,Angela Conway,140000
+133923,Buku Biografi,8,7/17/2013,Angela Conway,160000
+133924,Alat Tulis,8,7/17/2013,Laura Hoover,6400000
+133924,Buku Sejarah,9,7/17/2013,Laura Hoover,8910000
+133924,Buku Anak-Anak,8,7/17/2013,Laura Hoover,7040000
+133924,Majalah Berita,3,7/17/2013,Laura Hoover,450000
+133924,Novel Misteri,9,7/17/2013,Laura Hoover,12150000
+133924,Novel Romansa,5,7/17/2013,Laura Hoover,3750000
+133924,Aksesoris Buku,1,9/24/2013,Laura Hoover,50000
+133925,Majalah Fashion,7,9/24/2013,Patrick Smith,1225000
+133925,Majalah Seni,1,9/24/2013,Patrick Smith,100000
+133925,Majalah Berita,9,9/24/2013,Patrick Smith,1620000
+133925,Novel Fiksi Ilmiah,5,9/24/2013,Patrick Smith,1500000
+133925,Buku Fiksi,5,9/24/2013,Patrick Smith,2750000
+133925,Novel Misteri,9,9/24/2013,Patrick Smith,4860000
+133926,Novel Romansa,8,9/24/2013,Dr. Lucas Moore,7680000
+133926,Majalah Berita,2,9/24/2013,Dr. Lucas Moore,440000
+133926,Aksesoris Buku,6,9/24/2013,Dr. Lucas Moore,3600000
+133926,Buku Sejarah,4,9/24/2013,Dr. Lucas Moore,320000
+133927,Alat Tulis,1,9/24/2013,Angela Mercer,110000
+133927,Buku Anak-Anak,8,9/24/2013,Angela Mercer,7040000
+133927,Majalah Seni,4,9/24/2013,Angela Mercer,2400000
+133927,Buku Fiksi,2,9/24/2013,Angela Mercer,80000
+133927,Buku Biografi,7,9/24/2013,Angela Mercer,5880000
+133928,Majalah Seni,5,9/24/2013,Jill Perez,2250000
+133928,Alat Tulis,7,9/24/2013,Jill Perez,4410000
+133928,Buku Anak-Anak,5,9/24/2013,Jill Perez,2750000
+133928,Aksesoris Buku,5,9/24/2013,Jill Perez,500000
+133929,Alat Tulis,9,9/24/2013,Cynthia Nash,2025000
+133929,Buku Sejarah,5,9/24/2013,Cynthia Nash,2250000
+133929,Majalah Fashion,3,9/24/2013,Cynthia Nash,1080000
+133929,Majalah Seni,1,9/24/2013,Cynthia Nash,20000
+133929,Buku Fiksi,1,12/29/2013,Cynthia Nash,50000
+133929,Novel Misteri,2,12/29/2013,Cynthia Nash,200000
+133929,Buku Biografi,4,12/29/2013,Cynthia Nash,2400000
+133929,Novel Romansa,2,12/29/2013,Cynthia Nash,80000
+133930,Buku Sejarah,3,12/29/2013,Kelly Sanchez,540000
+133930,Alat Tulis,4,12/29/2013,Kelly Sanchez,2400000
+133930,Majalah Fashion,9,12/29/2013,Kelly Sanchez,2025000
+133930,Majalah Seni,2,12/29/2013,Kelly Sanchez,40000
+133930,Majalah Berita,9,12/29/2013,Kelly Sanchez,1620000
+133930,Novel Romansa,4,12/29/2013,Kelly Sanchez,800000
+133931,Alat Tulis,2,1/12/2014,Jaclyn Atkinson,600000
+133931,Buku Sejarah,8,1/27/2014,Jaclyn Atkinson,160000
+133931,Majalah Fashion,2,1/27/2014,Jaclyn Atkinson,80000
+133931,Majalah Berita,4,,Jaclyn Atkinson,2080000
+133931,Novel Fiksi Ilmiah,4,,Jaclyn Atkinson,400000
+133931,Buku Biografi,7,1/27/2014,Jaclyn Atkinson,140000
+133932,Alat Tulis,8,1/27/2014,Chad Harrington,1280000
+133932,Buku Anak-Anak,6,1/27/2014,Chad Harrington,3960000
+133932,Majalah Berita,9,1/27/2014,Chad Harrington,
+133932,Novel Fiksi Ilmiah,7,1/27/2014,Chad Harrington,140000
+133932,Buku Fiksi,4,1/27/2014,Chad Harrington,2400000
+133932,Buku Biografi,1,1/27/2014,Chad Harrington,20000
+133932,Aksesoris Buku,6,2/12/2014,Chad Harrington,4320000
+133933,Novel Romansa,4,2/12/2014,Tina Alexander,1600000
+133933,Majalah Seni,9,2/12/2014,Tina Alexander,8910000
+133933,Aksesoris Buku,4,2/12/2014,Tina Alexander,320000
+133933,Majalah Fashion,9,2/12/2014,Tina Alexander,1620000
+133934,Alat Tulis,7,2/12/2014,Perry Morse,140000
+133934,Majalah Seni,9,2/12/2014,Perry Morse,12150000
+133934,Majalah Berita,9,2/12/2014,Perry Morse,4860000
+133934,Buku Biografi,5,2/12/2014,Perry Morse,100000
+133934,Aksesoris Buku,1,2/12/2014,Perry Morse,20000
+133935,Alat Tulis,1,2/12/2014,Monica Mccoy,120000
+133935,Majalah Fashion,1,2/12/2014,Monica Mccoy,120000
+133935,Majalah Seni,4,2/12/2014,Monica Mccoy,1920000
+133935,Novel Misteri,2,2/12/2014,Monica Mccoy,200000
+133935,Buku Biografi,8,4/13/2014,Monica Mccoy,7680000
+133935,Novel Romansa,8,4/13/2014,Monica Mccoy,1280000
+133936,Alat Tulis,8,4/13/2014,Benjamin Johnson,3200000
+133936,Buku Sejarah,9,4/13/2014,Benjamin Johnson,4860000
+133936,Buku Anak-Anak,1,4/13/2014,Benjamin Johnson,20000
+133936,Majalah Seni,9,4/13/2014,Benjamin Johnson,8910000
+133936,Novel Misteri,6,4/13/2014,Benjamin Johnson,4320000
+133936,Aksesoris Buku,5,4/13/2014,Benjamin Johnson,3750000
+133937,Alat Tulis,9,4/13/2014,Charles Lee,1620000
+133937,Majalah Seni,5,4/13/2014,Charles Lee,1250000
+133937,Majalah Berita,9,4/13/2014,Charles Lee,1620000
+133937,Novel Misteri,3,4/13/2014,Charles Lee,900000
+133937,Novel Romansa,2,4/13/2014,Charles Lee,480000
+133937,Aksesoris Buku,2,4/13/2014,Charles Lee,80000
+133938,Majalah Berita,5,4/13/2014,Douglas Davenport,3000000
+133938,Buku Fiksi,7,4/13/2014,Douglas Davenport,1225000
+133938,Buku Sejarah,5,4/13/2014,Douglas Davenport,3000000
+133938,Aksesoris Buku,5,4/13/2014,Douglas Davenport,2750000
+133939,Alat Tulis,5,7/10/2014,Jasmine English,2250000
+133939,Buku Sejarah,3,7/10/2014,Jasmine English,1170000
+133939,Buku Anak-Anak,2,10/11/2014,Jasmine English,520000
+133939,Novel Fiksi Ilmiah,2,10/11/2014,Jasmine English,240000
+133939,Novel Romansa,8,10/11/2014,Jasmine English,5760000
+133939,Aksesoris Buku,5,10/11/2014,Jasmine English,500000
+133940,Alat Tulis,4,10/11/2014,Michael Barrera,1920000
+133940,Buku Anak-Anak,6,10/11/2014,Michael Barrera,900000
+133940,Majalah Seni,8,10/11/2014,Michael Barrera,7680000
+133940,Buku Fiksi,8,10/11/2014,Michael Barrera,5760000
+133940,Buku Biografi,7,10/11/2014,Michael Barrera,2940000
+133940,Novel Misteri,2,10/11/2014,Michael Barrera,440000
+133940,Novel Romansa,9,10/11/2014,Michael Barrera,8910000
+133941,Buku Fiksi,9,10/11/2014,Bryan Powell,10530000
+133941,Buku Sejarah,6,10/11/2014,Bryan Powell,720000
+133941,Novel Misteri,4,10/11/2014,Bryan Powell,1920000
+133941,Novel Fiksi Ilmiah,4,10/11/2014,Bryan Powell,320000
+133942,Alat Tulis,1,10/11/2014,Bobby Nelson,50000
+133942,Buku Fiksi,6,10/11/2014,Bobby Nelson,3960000
+133942,Buku Sejarah,5,11/19/2014,Bobby Nelson,3750000
+133942,Buku Anak-Anak,8,11/19/2014,Bobby Nelson,9600000
+133943,Alat Tulis,9,1/1/2015,Ronald Mcneil,9720000
+133943,Buku Anak-Anak,3,1/13/2015,Ronald Mcneil,180000
+133943,Majalah Seni,8,1/13/2015,Ronald Mcneil,1600000
+133943,Novel Fiksi Ilmiah,9,1/13/2015,Ronald Mcneil,10530000
+133943,Buku Fiksi,2,1/13/2015,Ronald Mcneil,80000
+133943,Novel Misteri,6,1/13/2015,Ronald Mcneil,900000
+133943,Aksesoris Buku,2,1/13/2015,Ronald Mcneil,80000
+133944,Alat Tulis,6,1/13/2015,Christopher Hughes,3600000
+133944,Buku Sejarah,9,1/13/2015,Christopher Hughes,10530000
+133944,Buku Anak-Anak,6,1/13/2015,Christopher Hughes,720000
+133944,Novel Fiksi Ilmiah,3,1/13/2015,Christopher Hughes,180000
+133944,Buku Fiksi,7,1/13/2015,Christopher Hughes,980000
+133944,Buku Biografi,4,1/13/2015,Christopher Hughes,1440000
+133944,Novel Romansa,1,1/13/2015,Christopher Hughes,50000
+133944,Aksesoris Buku,8,1/13/2015,Christopher Hughes,1280000
+133945,Alat Tulis,5,1/13/2015,Jerome Mayo,2250000
+133945,Buku Anak-Anak,9,1/13/2015,Jerome Mayo,180000
+133945,Majalah Seni,9,1/13/2015,Jerome Mayo,7290000
+133945,Majalah Berita,9,1/13/2015,Jerome Mayo,8100000
+133945,Novel Fiksi Ilmiah,2,1/13/2015,Jerome Mayo,240000
+133945,Novel Misteri,7,1/13/2015,Jerome Mayo,4900000
+133945,Aksesoris Buku,8,1/13/2015,Jerome Mayo,6400000
+133946,Majalah Fashion,6,1/13/2015,Krista Jones,1800000
+133946,Majalah Seni,2,1/13/2015,Krista Jones,240000
+133946,Novel Misteri,9,1/13/2015,Krista Jones,1620000
+133946,Novel Romansa,6,1/13/2015,Krista Jones,1800000
+133946,Aksesoris Buku,1,1/13/2015,Krista Jones,60000
+133947,Buku Sejarah,6,1/13/2015,Michael Wells,4320000
+133947,Alat Tulis,2,1/13/2015,Michael Wells,440000
+133947,Majalah Fashion,5,1/13/2015,Michael Wells,625000
+133947,Novel Fiksi Ilmiah,7,1/13/2015,Michael Wells,1225000
+133947,Novel Misteri,8,1/13/2015,Michael Wells,7040000
+133947,Buku Biografi,6,1/13/2015,Michael Wells,120000
+133947,Novel Romansa,3,1/13/2015,Michael Wells,1080000
+133947,Aksesoris Buku,5,1/13/2015,Michael Wells,2500000
+133948,Alat Tulis,4,1/13/2015,Ryan Buchanan,800000
+133948,Buku Anak-Anak,8,1/13/2015,Ryan Buchanan,3200000
+133948,Majalah Fashion,2,1/13/2015,Ryan Buchanan,100000
+133948,Majalah Seni,1,1/13/2015,Ryan Buchanan,100000
+133948,Majalah Berita,7,1/13/2015,Ryan Buchanan,4900000
+133948,Buku Fiksi,3,1/13/2015,Ryan Buchanan,1170000
+133948,Buku Biografi,3,1/13/2015,Ryan Buchanan,225000
+133948,Aksesoris Buku,7,1/13/2015,Ryan Buchanan,4410000
+133949,Novel Romansa,2,1/13/2015,James Mcintosh,600000
+133949,Alat Tulis,1,1/13/2015,James Mcintosh,20000
+133949,Buku Anak-Anak,9,1/13/2015,James Mcintosh,4860000
+133949,Buku Sejarah,1,1/13/2015,James Mcintosh,25000
+133950,Buku Sejarah,4,1/13/2015,Sharon Rivera,400000
+133950,Alat Tulis,2,1/13/2015,Sharon Rivera,40000
+133950,Novel Fiksi Ilmiah,7,1/13/2015,Sharon Rivera,2940000
+133950,Buku Fiksi,5,1/13/2015,Sharon Rivera,2750000
+133950,Novel Misteri,4,1/13/2015,Sharon Rivera,80000
+133950,Novel Romansa,5,1/13/2015,Sharon Rivera,3000000
+133950,Aksesoris Buku,6,1/13/2015,Sharon Rivera,3600000
+133951,Alat Tulis,4,1/13/2015,Jamie Bennett,800000
+133951,Buku Sejarah,3,1/13/2015,Jamie Bennett,450000
+133951,Buku Anak-Anak,5,1/13/2015,Jamie Bennett,3000000
+133951,Buku Biografi,3,1/13/2015,Jamie Bennett,1080000
+133951,Novel Romansa,5,1/13/2015,Jamie Bennett,500000
+133951,Aksesoris Buku,4,1/13/2015,Jamie Bennett,320000
+133952,Buku Sejarah,3,1/13/2015,Dylan Ward,900000
+133952,Alat Tulis,3,1/13/2015,Dylan Ward,990000
+133952,Buku Anak-Anak,5,1/13/2015,Dylan Ward,3750000
+133952,Majalah Fashion,8,1/13/2015,Dylan Ward,1280000
+133952,Majalah Berita,1,1/13/2015,Dylan Ward,60000
+133952,Buku Fiksi,8,2/1/2015,Dylan Ward,1280000
+133952,Buku Biografi,1,2/1/2015,Dylan Ward,150000
+133952,Novel Misteri,8,2/1/2015,Dylan Ward,3840000
+133953,Buku Sejarah,8,2/16/2015,Jason Patterson,3200000
+133953,Majalah Fashion,2,2/16/2015,Jason Patterson,360000
+133953,Majalah Berita,9,5/17/2015,Jason Patterson,1620000
+133953,Buku Fiksi,1,5/17/2015,Jason Patterson,60000
+133953,Novel Misteri,1,5/17/2015,Jason Patterson,20000
+133953,Buku Biografi,8,5/17/2015,Jason Patterson,9600000
+133954,Alat Tulis,4,5/17/2015,Kyle Webb,320000
+133954,Buku Sejarah,5,5/17/2015,Kyle Webb,1500000
+133954,Majalah Fashion,2,5/17/2015,Kyle Webb,600000
+133954,Majalah Seni,9,5/17/2015,Kyle Webb,4860000
+133954,Buku Fiksi,5,5/17/2015,Kyle Webb,1500000
+133954,Aksesoris Buku,4,5/17/2015,Kyle Webb,1600000
+133955,Alat Tulis,1,5/17/2015,Martin Christian,20000
+133955,Buku Anak-Anak,9,5/17/2015,Martin Christian,8910000
+133955,Majalah Berita,7,5/17/2015,Martin Christian,7350000
+133955,Novel Fiksi Ilmiah,6,5/17/2015,Martin Christian,900000
+133955,Buku Fiksi,2,5/17/2015,Martin Christian,100000
+133955,Buku Biografi,3,5/17/2015,Martin Christian,810000
+133955,Novel Misteri,7,5/17/2015,Martin Christian,4410000
+133955,Aksesoris Buku,3,5/17/2015,Martin Christian,180000
+133956,Alat Tulis,4,5/17/2015,Jeffrey Lin DVM,1600000
+133956,Buku Anak-Anak,7,5/17/2015,Jeffrey Lin DVM,7350000
+133956,Majalah Seni,5,5/17/2015,Jeffrey Lin DVM,500000
+133956,Buku Fiksi,9,5/17/2015,Jeffrey Lin DVM,9720000
+133956,Buku Biografi,5,5/17/2015,Jeffrey Lin DVM,2250000
+133956,Novel Misteri,2,5/17/2015,Jeffrey Lin DVM,80000
+133956,Novel Romansa,8,5/17/2015,Jeffrey Lin DVM,160000
+133956,Aksesoris Buku,4,5/17/2015,Jeffrey Lin DVM,800000
+133957,Buku Sejarah,9,5/17/2015,Mr. Anthony Elliott MD,9720000
+133957,Alat Tulis,4,5/17/2015,Mr. Anthony Elliott MD,2080000
+133957,Buku Anak-Anak,4,8/22/2015,Mr. Anthony Elliott MD,1440000
+133957,Majalah Fashion,2,9/25/2015,Mr. Anthony Elliott MD,440000
+133957,Majalah Berita,9,9/25/2015,Mr. Anthony Elliott MD,1620000
+133957,Novel Misteri,5,9/25/2015,Mr. Anthony Elliott MD,500000
+133957,Novel Romansa,9,9/25/2015,Mr. Anthony Elliott MD,10530000
+133957,Aksesoris Buku,3,9/25/2015,Mr. Anthony Elliott MD,60000
+133958,Alat Tulis,9,9/25/2015,Laura Skinner MD,7290000
+133958,Buku Sejarah,1,9/25/2015,Laura Skinner MD,25000
+133958,Majalah Fashion,7,9/25/2015,Laura Skinner MD,4410000
+133958,Majalah Berita,4,9/25/2015,Laura Skinner MD,400000
+133958,Buku Fiksi,3,9/25/2015,Laura Skinner MD,1080000
+133958,Novel Misteri,3,9/25/2015,Laura Skinner MD,225000
+133958,Buku Biografi,6,9/25/2015,Laura Skinner MD,720000
+133958,Aksesoris Buku,4,9/25/2015,Laura Skinner MD,320000
+133959,Novel Romansa,2,9/25/2015,Nicholas Martinez,100000
+133959,Majalah Berita,2,9/25/2015,Nicholas Martinez,80000
+133959,Novel Misteri,6,9/25/2015,Nicholas Martinez,4680000
+133959,Majalah Fashion,3,9/25/2015,Nicholas Martinez,225000
+133960,Alat Tulis,3,11/25/2015,James Anderson,540000
+133960,Buku Anak-Anak,4,11/25/2015,James Anderson,2400000
+133960,Majalah Fashion,4,12/15/2015,James Anderson,1600000
+133960,Majalah Seni,4,12/15/2015,James Anderson,960000
+133960,Buku Biografi,9,12/15/2015,James Anderson,7290000
+133960,Novel Romansa,6,12/15/2015,James Anderson,4680000
+133960,Aksesoris Buku,5,12/15/2015,James Anderson,1250000
+133961,Buku Sejarah,8,12/15/2015,Catherine Shaffer,3200000
+133961,Majalah Seni,7,12/15/2015,Catherine Shaffer,5880000
+133961,Buku Fiksi,9,12/15/2015,Catherine Shaffer,12150000
+133961,Novel Misteri,1,12/15/2015,Catherine Shaffer,20000
+133961,Aksesoris Buku,7,12/15/2015,Catherine Shaffer,2450000
+133962,Alat Tulis,5,12/15/2015,Jennifer Morris,625000
+133962,Buku Sejarah,1,12/15/2015,Jennifer Morris,20000
+133962,Buku Anak-Anak,6,12/15/2015,Jennifer Morris,4320000
+133962,Majalah Berita,2,12/15/2015,Jennifer Morris,80000
+133962,Novel Misteri,2,12/15/2015,Jennifer Morris,80000
+133962,Novel Romansa,1,12/15/2015,Jennifer Morris,120000
+133963,Novel Romansa,1,12/15/2015,Margaret Bradshaw,50000
+133963,Majalah Fashion,2,12/15/2015,Margaret Bradshaw,200000
+133963,Majalah Berita,3,12/15/2015,Margaret Bradshaw,1080000
+133963,Buku Sejarah,3,12/15/2015,Margaret Bradshaw,540000
+133964,Buku Anak-Anak,6,12/15/2015,Brandon Howard,3240000
+133964,Majalah Fashion,1,12/15/2015,Brandon Howard,110000
+133964,Majalah Seni,7,12/15/2015,Brandon Howard,4410000
+133964,Majalah Berita,3,12/15/2015,Brandon Howard,990000
+133964,Novel Misteri,1,12/15/2015,Brandon Howard,130000
+133964,Buku Biografi,6,12/15/2015,Brandon Howard,120000
+133964,Aksesoris Buku,4,12/15/2015,Brandon Howard,320000
+133965,Buku Sejarah,4,12/15/2015,Miguel Castro,1600000
+133965,Majalah Fashion,1,12/15/2015,Miguel Castro,90000
+133965,Majalah Seni,2,12/15/2015,Miguel Castro,80000
+133965,Novel Romansa,1,12/15/2015,Miguel Castro,100000
+133965,Aksesoris Buku,2,12/15/2015,Miguel Castro,200000
+133966,Majalah Fashion,9,12/15/2015,Brian Rogers,7290000
+133966,Majalah Seni,3,12/15/2015,Brian Rogers,60000
+133966,Majalah Berita,1,12/15/2015,Brian Rogers,130000
+133966,Buku Fiksi,2,12/15/2015,Brian Rogers,240000
+133966,Buku Biografi,8,12/15/2015,Brian Rogers,9600000
+133966,Novel Romansa,9,12/15/2015,Brian Rogers,9720000
+133966,Aksesoris Buku,3,12/15/2015,Brian Rogers,225000
+133967,Alat Tulis,1,12/15/2015,Connie Yang,120000
+133967,Buku Anak-Anak,8,12/15/2015,Connie Yang,8320000
+133967,Novel Fiksi Ilmiah,8,12/15/2015,Connie Yang,9600000
+133967,Buku Fiksi,8,12/15/2015,Connie Yang,7040000
+133967,Novel Misteri,5,12/15/2015,Connie Yang,3250000
+133967,Buku Biografi,2,12/15/2015,Connie Yang,80000
+133968,Buku Sejarah,9,12/15/2015,Tara Lopez,7290000
+133968,Alat Tulis,7,12/15/2015,Tara Lopez,4900000
+133968,Majalah Fashion,2,12/15/2015,Tara Lopez,480000
+133968,Majalah Berita,3,2/16/2016,Tara Lopez,450000
+133968,Novel Fiksi Ilmiah,3,2/16/2016,Tara Lopez,810000
+133968,Buku Fiksi,5,2/16/2016,Tara Lopez,1250000
+133968,Buku Biografi,4,2/16/2016,Tara Lopez,1920000
+133968,Aksesoris Buku,8,2/16/2016,Tara Lopez,8320000
+133969,Majalah Seni,3,2/16/2016,John Turner,990000
+133969,Alat Tulis,1,2/16/2016,John Turner,25000
+133969,Buku Biografi,4,2/16/2016,John Turner,80000
+133969,Majalah Fashion,8,2/16/2016,John Turner,3840000
+133970,Buku Sejarah,5,2/16/2016,Elizabeth Lee,1250000
+133970,Alat Tulis,1,2/16/2016,Elizabeth Lee,20000
+133970,Majalah Fashion,2,2/16/2016,Elizabeth Lee,400000
+133970,Majalah Seni,9,2/16/2016,Elizabeth Lee,10530000
+133970,Majalah Berita,5,2/16/2016,Elizabeth Lee,625000
+133970,Buku Fiksi,1,2/16/2016,Elizabeth Lee,25000
+133971,Majalah Fashion,4,2/16/2016,Kirsten Cox,1920000
+133971,Majalah Seni,5,2/16/2016,Kirsten Cox,500000
+133971,Majalah Berita,5,2/16/2016,Kirsten Cox,3750000
+133971,Novel Fiksi Ilmiah,5,2/16/2016,Kirsten Cox,1250000
+133971,Novel Misteri,9,2/16/2016,Kirsten Cox,9720000
+133971,Buku Biografi,9,2/16/2016,Kirsten Cox,1620000
+133972,Alat Tulis,7,2/16/2016,Summer Hill,5880000
+133972,Buku Anak-Anak,7,2/16/2016,Summer Hill,980000
+133972,Buku Fiksi,9,2/16/2016,Summer Hill,10530000
+133972,Novel Romansa,4,2/16/2016,Summer Hill,1600000
+133972,Aksesoris Buku,6,2/16/2016,Summer Hill,3960000
+133973,Alat Tulis,4,2/16/2016,Andrew Arnold,80000
+133973,Buku Anak-Anak,2,2/16/2016,Andrew Arnold,440000
+133973,Majalah Seni,2,2/16/2016,Andrew Arnold,80000
+133973,Novel Fiksi Ilmiah,7,2/16/2016,Andrew Arnold,6370000
+133973,Novel Misteri,4,2/16/2016,Andrew Arnold,800000
+133973,Buku Biografi,2,2/16/2016,Andrew Arnold,40000
+133973,Aksesoris Buku,5,2/16/2016,Andrew Arnold,3750000
+133974,Buku Sejarah,5,2/16/2016,Maria Benson,625000
+133974,Buku Anak-Anak,4,2/16/2016,Maria Benson,2080000
+133974,Novel Fiksi Ilmiah,1,2/16/2016,Maria Benson,90000
+133974,Novel Romansa,8,2/16/2016,Maria Benson,9600000
+133974,Aksesoris Buku,8,2/16/2016,Maria Benson,8320000
+133975,Majalah Fashion,1,2/16/2016,Robert Weaver,120000
+133975,Majalah Seni,2,2/16/2016,Robert Weaver,40000
+133975,Novel Fiksi Ilmiah,1,2/16/2016,Robert Weaver,130000
+133975,Buku Fiksi,1,2/16/2016,Robert Weaver,100000
+133975,Novel Misteri,3,2/16/2016,Robert Weaver,1170000
+133975,Buku Biografi,9,2/16/2016,Robert Weaver,9720000
+133975,Novel Romansa,9,2/16/2016,Robert Weaver,1620000
+133976,Buku Anak-Anak,6,2/16/2016,Gregory Pope,4320000
+133976,Majalah Seni,4,2/16/2016,Gregory Pope,80000
+133976,Novel Misteri,2,2/16/2016,Gregory Pope,520000
+133976,Buku Biografi,8,2/16/2016,Gregory Pope,5760000
+133976,Novel Romansa,5,2/16/2016,Gregory Pope,500000
+133976,Aksesoris Buku,4,2/16/2016,Gregory Pope,960000
+133977,Alat Tulis,4,2/16/2016,Catherine Wallace,1600000
+133977,Buku Anak-Anak,7,2/16/2016,Catherine Wallace,5880000
+133977,Majalah Fashion,7,2/16/2016,Catherine Wallace,980000
+133977,Majalah Berita,9,2/16/2016,Catherine Wallace,8100000
+133977,Buku Fiksi,2,2/16/2016,Catherine Wallace,200000
+133977,Aksesoris Buku,3,2/16/2016,Catherine Wallace,180000
+133978,Alat Tulis,8,2/16/2016,Nancy Gomez,3840000
+133978,Buku Anak-Anak,8,5/21/2016,Nancy Gomez,1280000
+133978,Majalah Fashion,7,5/21/2016,Nancy Gomez,980000
+133978,Majalah Berita,8,5/21/2016,Nancy Gomez,3840000
+133978,Buku Fiksi,9,5/21/2016,Nancy Gomez,8100000
+133978,Buku Biografi,6,5/21/2016,Nancy Gomez,3960000
+133978,Novel Misteri,6,5/21/2016,Nancy Gomez,3600000
+133978,Aksesoris Buku,8,5/21/2016,Nancy Gomez,7040000
+133979,Alat Tulis,4,5/21/2016,Kelly Munoz,2400000
+133979,Buku Sejarah,3,5/21/2016,Kelly Munoz,180000
+133979,Majalah Seni,1,5/21/2016,Kelly Munoz,120000
+133979,Novel Fiksi Ilmiah,6,5/21/2016,Kelly Munoz,900000
+133979,Buku Biografi,5,5/21/2016,Kelly Munoz,1250000
+133979,Novel Romansa,8,5/21/2016,Kelly Munoz,7680000
+133979,Aksesoris Buku,9,5/21/2016,Kelly Munoz,12150000
+133980,Majalah Fashion,3,5/21/2016,Matthew Pratt,225000
+133980,Majalah Berita,2,5/21/2016,Matthew Pratt,480000
+133980,Novel Fiksi Ilmiah,8,5/21/2016,Matthew Pratt,1280000
+133980,Novel Misteri,6,5/21/2016,Matthew Pratt,1800000
+133980,Buku Biografi,9,5/21/2016,Matthew Pratt,8100000
+133980,Novel Romansa,7,5/21/2016,Matthew Pratt,6370000
+133981,Alat Tulis,1,5/21/2016,Renee Ruiz,120000
+133981,Majalah Fashion,3,5/21/2016,Renee Ruiz,60000
+133981,Majalah Seni,1,5/21/2016,Renee Ruiz,25000
+133981,Novel Fiksi Ilmiah,2,5/21/2016,Renee Ruiz,480000
+133981,Buku Fiksi,7,5/21/2016,Renee Ruiz,2450000
+133981,Novel Misteri,4,5/21/2016,Renee Ruiz,960000
+133982,Buku Sejarah,9,5/21/2016,Sabrina Hebert,4050000
+133982,Majalah Fashion,7,5/21/2016,Sabrina Hebert,4410000
+133982,Majalah Seni,3,5/21/2016,Sabrina Hebert,225000
+133982,Buku Fiksi,8,5/21/2016,Sabrina Hebert,160000
+133982,Buku Biografi,7,5/21/2016,Sabrina Hebert,4410000
+133983,Buku Fiksi,8,5/21/2016,Benjamin Romero,8320000
+133983,Majalah Berita,9,5/21/2016,Benjamin Romero,7290000
+133983,Buku Biografi,2,5/21/2016,Benjamin Romero,440000
+133983,Majalah Fashion,6,5/21/2016,Benjamin Romero,3600000
+133984,Alat Tulis,7,5/21/2016,Jacqueline Cabrera,4900000
+133984,Buku Anak-Anak,8,5/21/2016,Jacqueline Cabrera,3200000
+133984,Majalah Fashion,2,5/21/2016,Jacqueline Cabrera,520000
+133984,Majalah Berita,3,5/21/2016,Jacqueline Cabrera,810000
+133984,Novel Fiksi Ilmiah,9,5/21/2016,Jacqueline Cabrera,2025000
+133984,Buku Biografi,6,5/21/2016,Jacqueline Cabrera,1800000
+133984,Novel Romansa,8,5/21/2016,Jacqueline Cabrera,6400000
+133985,Alat Tulis,3,5/21/2016,Alyssa Mason,900000
+133985,Buku Sejarah,9,5/21/2016,Alyssa Mason,2025000
+133985,Buku Anak-Anak,6,5/21/2016,Alyssa Mason,4320000
+133985,Majalah Seni,7,5/21/2016,Alyssa Mason,980000
+133985,Novel Misteri,8,5/21/2016,Alyssa Mason,1280000
+133985,Buku Biografi,8,5/21/2016,Alyssa Mason,8320000
+133985,Novel Romansa,9,5/21/2016,Alyssa Mason,8910000
+133985,Aksesoris Buku,1,5/21/2016,Alyssa Mason,90000
+133986,Alat Tulis,9,5/21/2016,Kathleen Jensen,1620000
+133986,Buku Sejarah,9,5/21/2016,Kathleen Jensen,1620000
+133986,Majalah Fashion,6,5/21/2016,Kathleen Jensen,4320000
+133986,Majalah Seni,3,5/21/2016,Kathleen Jensen,225000
+133986,Novel Misteri,1,5/21/2016,Kathleen Jensen,25000
+133987,Majalah Fashion,9,5/21/2016,Eric Lopez,9720000
+133987,Novel Fiksi Ilmiah,4,5/21/2016,Eric Lopez,960000
+133987,Buku Fiksi,6,5/21/2016,Eric Lopez,120000
+133987,Novel Misteri,5,5/21/2016,Eric Lopez,1250000
+133987,Buku Biografi,7,5/21/2016,Eric Lopez,2450000
+133988,Alat Tulis,7,5/21/2016,Dylan Weiss,140000
+133988,Buku Anak-Anak,1,5/21/2016,Dylan Weiss,130000
+133988,Majalah Fashion,4,5/21/2016,Dylan Weiss,320000
+133988,Buku Fiksi,7,5/21/2016,Dylan Weiss,140000
+133988,Novel Misteri,9,5/21/2016,Dylan Weiss,4050000
+133988,Buku Biografi,7,5/21/2016,Dylan Weiss,5390000
+133988,Novel Romansa,5,5/21/2016,Dylan Weiss,625000
+133988,Aksesoris Buku,2,5/21/2016,Dylan Weiss,480000
+133989,Alat Tulis,4,5/21/2016,Lauren Miller,1440000
+133989,Buku Sejarah,4,5/21/2016,Lauren Miller,1760000
+133989,Majalah Seni,5,5/21/2016,Lauren Miller,3750000
+133989,Majalah Berita,4,5/21/2016,Lauren Miller,1600000
+133989,Novel Romansa,5,5/21/2016,Lauren Miller,3750000
+133989,Aksesoris Buku,6,5/21/2016,Lauren Miller,3960000
+133990,Alat Tulis,6,5/21/2016,Sharon Johnson,720000
+133990,Majalah Fashion,7,5/21/2016,Sharon Johnson,5880000
+133990,Novel Fiksi Ilmiah,1,5/21/2016,Sharon Johnson,20000
+133990,Buku Fiksi,3,5/21/2016,Sharon Johnson,990000
+133990,Novel Romansa,8,5/21/2016,Sharon Johnson,1280000
+133991,Alat Tulis,7,5/21/2016,Tyler Roberts,980000
+133991,Buku Anak-Anak,7,5/21/2016,Tyler Roberts,4410000
+133991,Aksesoris Buku,2,8/8/2016,Tyler Roberts,240000
+133991,Buku Sejarah,8,8/18/2016,Tyler Roberts,8320000
+133992,Buku Sejarah,1,8/18/2016,Denise Davies,110000
+133992,Alat Tulis,4,8/18/2016,Denise Davies,1440000
+133992,Buku Anak-Anak,2,8/18/2016,Denise Davies,600000
+133992,Majalah Berita,1,8/18/2016,Denise Davies,150000
+133992,Buku Fiksi,8,8/18/2016,Denise Davies,8320000
+133992,Novel Misteri,7,8/18/2016,Denise Davies,980000
+133992,Novel Romansa,2,8/18/2016,Denise Davies,240000
+133992,Aksesoris Buku,5,8/18/2016,Denise Davies,2250000
+133993,Alat Tulis,8,8/18/2016,Brandon Reed,160000
+133993,Buku Anak-Anak,7,8/18/2016,Brandon Reed,2450000
+133993,Majalah Berita,8,8/18/2016,Brandon Reed,1280000
+133993,Novel Fiksi Ilmiah,7,8/18/2016,Brandon Reed,140000
+133993,Buku Fiksi,8,8/18/2016,Brandon Reed,8320000
+133993,Aksesoris Buku,5,8/18/2016,Brandon Reed,500000
+133994,Buku Anak-Anak,2,8/18/2016,Angela Martin,100000
+133994,Majalah Seni,1,8/18/2016,Angela Martin,100000
+133994,Majalah Berita,2,8/18/2016,Angela Martin,100000
+133994,Novel Fiksi Ilmiah,7,8/18/2016,Angela Martin,7350000
+133994,Novel Misteri,2,8/18/2016,Angela Martin,80000
+133994,Buku Biografi,1,8/18/2016,Angela Martin,20000
+133994,Aksesoris Buku,7,8/18/2016,Angela Martin,6370000
+133995,Alat Tulis,9,8/18/2016,Haley Garcia,180000
+133995,Buku Sejarah,5,8/18/2016,Haley Garcia,500000
+133995,Buku Anak-Anak,7,8/18/2016,Haley Garcia,2940000
+133995,Majalah Seni,3,8/18/2016,Haley Garcia,900000
+133995,Majalah Berita,9,8/18/2016,Haley Garcia,1620000
+133995,Novel Fiksi Ilmiah,7,8/18/2016,Haley Garcia,5880000
+133995,Buku Fiksi,9,8/18/2016,Haley Garcia,4860000
+133995,Aksesoris Buku,7,8/18/2016,Haley Garcia,4410000
+133996,Alat Tulis,4,8/18/2016,Hailey Hutchinson,800000
+133996,Buku Sejarah,9,8/18/2016,Hailey Hutchinson,12150000
+133996,Buku Anak-Anak,9,8/18/2016,Hailey Hutchinson,10530000
+133996,Majalah Berita,3,8/18/2016,Hailey Hutchinson,900000
+133996,Buku Fiksi,7,8/18/2016,Hailey Hutchinson,4900000
+133996,Novel Misteri,5,8/18/2016,Hailey Hutchinson,500000
+133996,Buku Biografi,7,8/18/2016,Hailey Hutchinson,2450000
+133997,Buku Sejarah,7,8/18/2016,Jeffrey Chung,6370000
+133997,Alat Tulis,4,8/18/2016,Jeffrey Chung,320000
+133997,Buku Anak-Anak,7,8/18/2016,Jeffrey Chung,5390000
+133997,Majalah Berita,5,8/18/2016,Jeffrey Chung,3750000
+133997,Novel Misteri,3,8/18/2016,Jeffrey Chung,1080000
+133997,Aksesoris Buku,9,8/18/2016,Jeffrey Chung,4050000
+133998,Buku Sejarah,2,8/18/2016,Bradley Daniels,240000
+133998,Novel Fiksi Ilmiah,2,8/18/2016,Bradley Daniels,600000
+133998,Buku Fiksi,1,8/18/2016,Bradley Daniels,150000
+133998,Buku Biografi,8,8/18/2016,Bradley Daniels,8320000
+133998,Novel Romansa,4,8/18/2016,Bradley Daniels,800000
+133998,Aksesoris Buku,8,8/18/2016,Bradley Daniels,160000
+133999,Buku Sejarah,9,8/18/2016,Kathy Oneal,9720000
+133999,Majalah Fashion,7,8/18/2016,Kathy Oneal,4410000
+133999,Majalah Berita,9,8/18/2016,Kathy Oneal,180000
+133999,Novel Fiksi Ilmiah,4,8/18/2016,Kathy Oneal,1760000
+133999,Novel Misteri,9,8/18/2016,Kathy Oneal,9720000
+133999,Aksesoris Buku,5,8/18/2016,Kathy Oneal,3250000
+134000,Alat Tulis,3,8/18/2016,Laura Carr,1170000
+134000,Majalah Seni,1,8/18/2016,Laura Carr,130000
+134000,Majalah Berita,5,8/18/2016,Laura Carr,2500000
+134000,Novel Fiksi Ilmiah,4,8/18/2016,Laura Carr,1920000
+134000,Novel Misteri,5,10/17/2016,Laura Carr,500000
+134001,Buku Sejarah,4,10/17/2016,Tasha Jensen,1600000
+134001,Majalah Seni,4,10/17/2016,Tasha Jensen,80000
+134001,Majalah Berita,2,10/17/2016,Tasha Jensen,600000
+134001,Novel Misteri,5,10/17/2016,Tasha Jensen,1250000
+134001,Novel Romansa,5,10/17/2016,Tasha Jensen,100000
+134001,Aksesoris Buku,6,12/28/2016,Tasha Jensen,4680000
+134002,Alat Tulis,1,12/28/2016,Carl Parker,90000
+134002,Buku Anak-Anak,3,12/28/2016,Carl Parker,1350000
+134002,Novel Misteri,6,12/28/2016,Carl Parker,1800000
+134002,Buku Biografi,3,12/28/2016,Carl Parker,990000
+134002,Novel Romansa,5,12/28/2016,Carl Parker,500000
+134002,Aksesoris Buku,9,12/28/2016,Carl Parker,1620000
+134003,Buku Sejarah,6,12/28/2016,Grace Johnson,2160000
+134003,Alat Tulis,6,12/28/2016,Grace Johnson,720000
+134003,Majalah Fashion,8,12/28/2016,Grace Johnson,8320000
+134003,Majalah Seni,2,12/28/2016,Grace Johnson,80000
+134003,Majalah Berita,2,12/28/2016,Grace Johnson,520000
+134003,Buku Fiksi,6,12/28/2016,Grace Johnson,3960000
+134003,Novel Misteri,7,12/28/2016,Grace Johnson,6370000
+134004,Alat Tulis,5,1/20/2017,Renee Hood,2500000
+134004,Buku Anak-Anak,5,1/20/2017,Renee Hood,3250000
+134004,Majalah Seni,9,1/20/2017,Renee Hood,9720000
+134004,Novel Fiksi Ilmiah,7,1/20/2017,Renee Hood,2940000
+134004,Buku Fiksi,5,1/20/2017,Renee Hood,500000
+134004,Buku Biografi,3,1/20/2017,Renee Hood,990000
+134004,Novel Misteri,5,1/20/2017,Renee Hood,3000000
+134004,Novel Romansa,1,1/20/2017,Renee Hood,110000
+134005,Alat Tulis,5,1/20/2017,James Roy,3750000
+134005,Majalah Seni,6,3/13/2017,James Roy,3240000
+134005,Majalah Berita,7,3/13/2017,James Roy,1225000
+134005,Novel Fiksi Ilmiah,7,3/13/2017,James Roy,6370000
+134005,Buku Fiksi,7,3/13/2017,James Roy,7350000
+134005,Buku Biografi,9,3/13/2017,James Roy,2025000
+134005,Aksesoris Buku,3,3/13/2017,James Roy,450000
+134006,Alat Tulis,1,3/13/2017,Morgan Lee,120000
+134006,Buku Sejarah,5,3/13/2017,Morgan Lee,3750000
+134006,Majalah Seni,5,3/13/2017,Morgan Lee,3250000
+134006,Majalah Berita,3,3/13/2017,Morgan Lee,180000
+134006,Buku Fiksi,7,3/13/2017,Morgan Lee,6370000
+134006,Buku Biografi,5,3/13/2017,Morgan Lee,100000
+134006,Novel Romansa,3,3/13/2017,Morgan Lee,900000
+134007,Buku Sejarah,5,3/13/2017,Lori Glass,100000
+134007,Majalah Fashion,8,3/13/2017,Lori Glass,8320000
+134007,Majalah Seni,9,3/13/2017,Lori Glass,7290000
+134007,Majalah Berita,6,3/13/2017,Lori Glass,900000
+134007,Novel Fiksi Ilmiah,4,4/5/2017,Lori Glass,1440000
+134007,Buku Fiksi,4,4/5/2017,Lori Glass,1440000
+134007,Novel Misteri,4,4/5/2017,Lori Glass,1920000
+134007,Aksesoris Buku,7,4/5/2017,Lori Glass,4900000
+134008,Novel Fiksi Ilmiah,7,4/5/2017,Zachary Morrison,2940000
+134008,Majalah Seni,2,4/5/2017,Zachary Morrison,40000
+134008,Novel Misteri,5,4/19/2017,Zachary Morrison,2500000
+134008,Majalah Fashion,2,4/19/2017,Zachary Morrison,80000
+134009,Alat Tulis,4,4/19/2017,Paige Dixon,1600000
+134009,Buku Anak-Anak,9,4/19/2017,Paige Dixon,9720000
+134009,Novel Misteri,4,4/19/2017,Paige Dixon,2400000
+134009,Buku Biografi,4,4/19/2017,Paige Dixon,2400000
+134009,Novel Romansa,5,4/19/2017,Paige Dixon,100000
+134010,Alat Tulis,4,4/19/2017,David Villarreal,1920000
+134010,Buku Anak-Anak,6,4/19/2017,David Villarreal,5400000
+134010,Majalah Fashion,1,4/19/2017,David Villarreal,20000
+134010,Novel Fiksi Ilmiah,7,4/19/2017,David Villarreal,2450000
+134010,Buku Fiksi,1,4/19/2017,David Villarreal,20000
+134010,Buku Biografi,1,4/19/2017,David Villarreal,100000
+134010,Novel Romansa,1,4/19/2017,David Villarreal,50000
+134010,Aksesoris Buku,6,4/19/2017,David Villarreal,3240000
+134011,Alat Tulis,1,4/19/2017,Kenneth Ortiz,25000
+134011,Buku Anak-Anak,7,4/19/2017,Kenneth Ortiz,4900000
+134011,Majalah Fashion,9,4/19/2017,Kenneth Ortiz,7290000
+134011,Buku Fiksi,4,4/19/2017,Kenneth Ortiz,320000
+134011,Novel Misteri,9,4/19/2017,Kenneth Ortiz,1620000
+134011,Buku Biografi,8,4/19/2017,Kenneth Ortiz,7680000
+134011,Aksesoris Buku,7,4/19/2017,Kenneth Ortiz,1225000
+134012,Buku Sejarah,5,4/19/2017,Barbara Baker,2500000
+134012,Alat Tulis,6,4/19/2017,Barbara Baker,4320000
+134012,Majalah Seni,9,4/19/2017,Barbara Baker,180000
+134012,Majalah Berita,3,4/19/2017,Barbara Baker,1350000
+134012,Buku Biografi,9,4/19/2017,Barbara Baker,7290000
+134012,Novel Romansa,7,4/19/2017,Barbara Baker,4900000
+134013,Novel Romansa,5,4/19/2017,Angel Ward,3250000
+134013,Majalah Seni,2,4/19/2017,Angel Ward,200000
+134013,Buku Sejarah,2,4/19/2017,Angel Ward,40000
+134013,Buku Fiksi,5,4/19/2017,Angel Ward,1500000
+134014,Buku Sejarah,7,7/26/2017,Tina Spencer,5390000
+134014,Majalah Fashion,7,7/26/2017,Tina Spencer,1225000
+134014,Majalah Seni,9,7/26/2017,Tina Spencer,1620000
+134014,Majalah Berita,4,7/26/2017,Tina Spencer,400000
+134014,Buku Fiksi,5,7/26/2017,Tina Spencer,1500000
+134014,Buku Biografi,8,7/26/2017,Tina Spencer,5760000
+134014,Novel Misteri,5,7/26/2017,Tina Spencer,2750000
+134014,Novel Romansa,2,7/26/2017,Tina Spencer,40000
+134015,Novel Romansa,1,7/26/2017,Elizabeth Mahoney,25000
+134015,Majalah Berita,5,7/26/2017,Elizabeth Mahoney,3750000
+134015,Novel Misteri,6,7/26/2017,Elizabeth Mahoney,3600000
+134015,Buku Sejarah,5,7/26/2017,Elizabeth Mahoney,625000
+134016,Majalah Seni,6,7/26/2017,Kimberly Harris,5400000
+134016,Majalah Berita,9,7/26/2017,Kimberly Harris,8910000
+134016,Novel Fiksi Ilmiah,7,10/18/2017,Kimberly Harris,5880000
+134016,Buku Fiksi,7,1/16/2018,Kimberly Harris,980000
+134016,Buku Biografi,9,1/16/2018,Kimberly Harris,2025000
+134016,Novel Misteri,2,1/16/2018,Kimberly Harris,600000
+134017,Alat Tulis,7,1/16/2018,Rachel Haas,2940000
+134017,Buku Anak-Anak,8,1/16/2018,Rachel Haas,5760000
+134017,Majalah Fashion,9,1/16/2018,Rachel Haas,1620000
+134017,Majalah Seni,2,1/16/2018,Rachel Haas,200000
+134017,Majalah Berita,4,1/16/2018,Rachel Haas,80000
+134017,Novel Fiksi Ilmiah,3,1/16/2018,Rachel Haas,540000
+134017,Buku Biografi,2,1/16/2018,Rachel Haas,80000
+134017,Aksesoris Buku,1,1/16/2018,Rachel Haas,120000
+134018,Novel Romansa,2,1/16/2018,Tracey Hernandez,360000
+134018,Buku Fiksi,7,1/16/2018,Tracey Hernandez,5880000
+134018,Alat Tulis,7,1/16/2018,Tracey Hernandez,2450000
+134018,Aksesoris Buku,3,1/16/2018,Tracey Hernandez,180000
+134019,Alat Tulis,7,1/16/2018,Madeline Hall,1225000
+134019,Buku Sejarah,1,1/16/2018,Madeline Hall,20000
+134019,Buku Anak-Anak,3,1/16/2018,Madeline Hall,60000
+134019,Majalah Berita,6,1/16/2018,Madeline Hall,120000
+134019,Novel Misteri,7,1/16/2018,Madeline Hall,6370000
+134019,Buku Biografi,9,1/16/2018,Madeline Hall,2025000
+134019,Novel Romansa,2,1/16/2018,Madeline Hall,80000
+134020,Buku Anak-Anak,5,1/16/2018,Kayla Bailey,3750000
+134020,Majalah Fashion,2,1/16/2018,Kayla Bailey,240000
+134020,Novel Fiksi Ilmiah,4,1/16/2018,Kayla Bailey,1920000
+134020,Buku Biografi,7,1/16/2018,Kayla Bailey,1225000
+134020,Aksesoris Buku,1,1/16/2018,Kayla Bailey,130000
+134021,Alat Tulis,2,1/16/2018,Derek Anderson,440000
+134021,Buku Sejarah,6,1/16/2018,Derek Anderson,3600000
+134021,Majalah Fashion,4,1/16/2018,Derek Anderson,1600000
+134021,Majalah Seni,7,1/16/2018,Derek Anderson,980000
+134021,Novel Misteri,9,1/16/2018,Derek Anderson,1620000
+134021,Aksesoris Buku,2,1/16/2018,Derek Anderson,40000
+134022,Buku Sejarah,8,1/16/2018,Michael Stephens,1280000
+134022,Alat Tulis,1,1/16/2018,Michael Stephens,90000
+134022,Buku Anak-Anak,6,1/16/2018,Michael Stephens,5400000
+134022,Majalah Seni,4,1/16/2018,Michael Stephens,2400000
+134022,Novel Misteri,3,1/16/2018,Michael Stephens,1170000
+134022,Buku Biografi,3,1/16/2018,Michael Stephens,225000
+134022,Novel Romansa,4,1/16/2018,Michael Stephens,2400000
+134023,Alat Tulis,8,1/16/2018,Michael Flores,5760000
+134023,Buku Anak-Anak,9,1/16/2018,Michael Flores,8910000
+134023,Majalah Seni,2,1/16/2018,Michael Flores,400000
+134023,Novel Romansa,9,1/16/2018,Michael Flores,1620000
+134023,Aksesoris Buku,8,1/16/2018,Michael Flores,1280000
+134024,Majalah Berita,3,1/16/2018,David Watkins,540000
+134024,Buku Sejarah,1,1/16/2018,David Watkins,20000
+134024,Buku Biografi,7,1/16/2018,David Watkins,2450000
+134024,Novel Fiksi Ilmiah,8,1/16/2018,David Watkins,5760000
+134025,Alat Tulis,5,1/16/2018,Richard Harrison,1250000
+134025,Buku Sejarah,9,1/16/2018,Richard Harrison,1620000
+134025,Majalah Berita,8,1/16/2018,Richard Harrison,9600000
+134025,Novel Fiksi Ilmiah,1,1/16/2018,Richard Harrison,25000
+134025,Buku Fiksi,5,1/16/2018,Richard Harrison,1500000
+134025,Novel Misteri,8,1/16/2018,Richard Harrison,1600000
+134025,Novel Romansa,9,1/16/2018,Richard Harrison,4860000
+134026,Alat Tulis,7,1/16/2018,Matthew Kelley,5880000
+134026,Buku Anak-Anak,3,1/16/2018,Matthew Kelley,1080000
+134026,Majalah Fashion,1,1/16/2018,Matthew Kelley,20000
+134026,Novel Misteri,5,1/16/2018,Matthew Kelley,3000000
+134026,Buku Biografi,3,1/16/2018,Matthew Kelley,180000
+134027,Buku Sejarah,9,1/16/2018,Christy Parrish,8910000
+134027,Alat Tulis,9,1/16/2018,Christy Parrish,8910000
+134027,Buku Anak-Anak,9,1/16/2018,Christy Parrish,9720000
+134027,Majalah Fashion,4,1/16/2018,Christy Parrish,960000
+134027,Majalah Seni,4,1/16/2018,Christy Parrish,1440000
+134027,Majalah Berita,5,1/16/2018,Christy Parrish,500000
+134027,Buku Fiksi,1,1/16/2018,Christy Parrish,100000
+134027,Buku Biografi,1,1/16/2018,Christy Parrish,90000
+134028,Buku Sejarah,2,1/16/2018,Zachary Ruiz,520000
+134028,Majalah Fashion,5,1/16/2018,Zachary Ruiz,500000
+134028,Majalah Seni,9,1/16/2018,Zachary Ruiz,2025000
+134028,Majalah Berita,7,1/16/2018,Zachary Ruiz,7350000
+134028,Buku Biografi,6,1/16/2018,Zachary Ruiz,3240000
+134028,Aksesoris Buku,9,1/16/2018,Zachary Ruiz,10530000
+134029,Alat Tulis,7,1/16/2018,Anthony Gaines,6370000
+134029,Buku Anak-Anak,1,1/16/2018,Anthony Gaines,120000
+134029,Majalah Seni,5,1/16/2018,Anthony Gaines,500000
+134029,Majalah Berita,1,1/16/2018,Anthony Gaines,120000
+134029,Buku Fiksi,7,1/16/2018,Anthony Gaines,980000
+134029,Novel Romansa,5,1/16/2018,Anthony Gaines,500000
+134029,Aksesoris Buku,1,1/16/2018,Anthony Gaines,20000
+134030,Alat Tulis,1,1/16/2018,Lindsey Kramer,110000
+134030,Buku Anak-Anak,6,1/16/2018,Lindsey Kramer,3600000
+134030,Majalah Berita,6,1/16/2018,Lindsey Kramer,720000
+134030,Novel Fiksi Ilmiah,6,2/19/2018,Lindsey Kramer,720000
+134030,Aksesoris Buku,1,2/19/2018,Lindsey Kramer,60000
+134031,Alat Tulis,3,4/25/2018,Rachel Hart,540000
+134031,Buku Sejarah,2,4/25/2018,Rachel Hart,240000
+134031,Majalah Seni,4,4/25/2018,Rachel Hart,80000
+134031,Majalah Berita,7,4/25/2018,Rachel Hart,6370000
+134031,Novel Fiksi Ilmiah,1,4/25/2018,Rachel Hart,130000
+134031,Buku Fiksi,5,4/25/2018,Rachel Hart,2750000
+134032,Buku Sejarah,8,4/25/2018,Bruce Jensen,6400000
+134032,Majalah Seni,2,4/25/2018,Bruce Jensen,480000
+134032,Buku Biografi,4,4/25/2018,Bruce Jensen,2080000
+134032,Novel Romansa,4,4/25/2018,Bruce Jensen,1760000
+134032,Aksesoris Buku,6,4/25/2018,Bruce Jensen,900000
+134033,Buku Sejarah,3,4/25/2018,Cynthia Perez,810000
+134033,Majalah Seni,6,4/25/2018,Cynthia Perez,3600000
+134033,Novel Fiksi Ilmiah,5,4/25/2018,Cynthia Perez,3250000
+134033,Buku Fiksi,2,7/27/2018,Cynthia Perez,400000
+134033,Novel Romansa,6,7/27/2018,Cynthia Perez,720000
+134034,Buku Anak-Anak,3,7/27/2018,Dr. Gary Ayers,180000
+134034,Majalah Fashion,1,7/27/2018,Dr. Gary Ayers,20000
+134034,Majalah Seni,9,7/27/2018,Dr. Gary Ayers,1620000
+134034,Novel Fiksi Ilmiah,6,7/27/2018,Dr. Gary Ayers,4680000
+134034,Aksesoris Buku,1,7/27/2018,Dr. Gary Ayers,20000
+134035,Alat Tulis,4,7/27/2018,Donald Bauer,2400000
+134035,Majalah Seni,7,7/27/2018,Donald Bauer,6370000
+134035,Majalah Berita,2,7/27/2018,Donald Bauer,200000
+134035,Buku Fiksi,2,7/27/2018,Donald Bauer,40000
+134035,Novel Romansa,5,7/27/2018,Donald Bauer,500000
+134035,Aksesoris Buku,7,7/27/2018,Donald Bauer,140000
+134036,Buku Sejarah,7,7/27/2018,Karen Ramirez,5390000
+134036,Alat Tulis,2,7/27/2018,Karen Ramirez,600000
+134036,Buku Anak-Anak,2,7/27/2018,Karen Ramirez,400000
+134036,Majalah Seni,5,7/27/2018,Karen Ramirez,1250000
+134036,Buku Biografi,1,7/27/2018,Karen Ramirez,50000
+134036,Novel Misteri,3,7/27/2018,Karen Ramirez,810000
+134036,Novel Romansa,2,7/27/2018,Karen Ramirez,100000
+134036,Aksesoris Buku,4,7/27/2018,Karen Ramirez,2080000
+134037,Majalah Berita,7,7/27/2018,Danny Hickman,2450000
+134037,Novel Misteri,3,7/27/2018,Danny Hickman,180000
+134037,Aksesoris Buku,8,7/27/2018,Danny Hickman,3840000
+134037,Novel Fiksi Ilmiah,9,7/27/2018,Danny Hickman,10530000
+134038,Buku Fiksi,5,7/27/2018,Kara Howard,625000
+134038,Buku Biografi,1,7/27/2018,Kara Howard,60000
+134038,Aksesoris Buku,8,7/27/2018,Kara Howard,1280000
+134038,Majalah Fashion,8,7/27/2018,Kara Howard,1280000
+134039,Majalah Seni,5,7/27/2018,Scott Thompson,100000
+134039,Majalah Berita,2,7/27/2018,Scott Thompson,440000
+134039,Novel Fiksi Ilmiah,5,7/27/2018,Scott Thompson,625000
+134039,Buku Fiksi,2,7/27/2018,Scott Thompson,80000
+134039,Novel Misteri,3,7/27/2018,Scott Thompson,180000
+134039,Buku Biografi,7,7/27/2018,Scott Thompson,1225000
+134039,Novel Romansa,1,10/23/2018,Scott Thompson,60000
+134039,Aksesoris Buku,1,10/23/2018,Scott Thompson,90000
+134040,Alat Tulis,3,10/23/2018,Cynthia Ward,1080000
+134040,Majalah Fashion,2,10/23/2018,Cynthia Ward,400000
+134040,Majalah Seni,7,10/23/2018,Cynthia Ward,980000
+134040,Majalah Berita,2,10/23/2018,Cynthia Ward,520000
+134040,Buku Fiksi,8,10/23/2018,Cynthia Ward,1600000
+134040,Novel Misteri,4,10/23/2018,Cynthia Ward,960000
+134040,Novel Romansa,5,10/23/2018,Cynthia Ward,500000
+134040,Aksesoris Buku,3,10/23/2018,Cynthia Ward,225000
+134041,Majalah Seni,8,10/23/2018,Thomas Sanchez,1600000
+134041,Majalah Berita,1,10/23/2018,Thomas Sanchez,25000
+134041,Buku Anak-Anak,8,10/23/2018,Thomas Sanchez,3840000
+134041,Majalah Fashion,2,10/23/2018,Thomas Sanchez,600000
+134042,Alat Tulis,9,10/23/2018,Aaron Salinas,2025000
+134042,Buku Sejarah,8,11/27/2018,Aaron Salinas,9600000
+134042,Majalah Fashion,4,11/27/2018,Aaron Salinas,2400000
+134042,Majalah Berita,9,11/27/2018,Aaron Salinas,4860000
+134042,Novel Misteri,4,11/27/2018,Aaron Salinas,1440000
+134042,Buku Biografi,2,11/27/2018,Aaron Salinas,360000
+134042,Novel Romansa,9,1/29/2019,Aaron Salinas,7290000
+134043,Buku Sejarah,2,1/29/2019,Sherri Johnson,400000
+134043,Alat Tulis,7,4/25/2019,Sherri Johnson,4900000
+134043,Buku Anak-Anak,2,4/25/2019,Sherri Johnson,200000
+134043,Novel Fiksi Ilmiah,9,4/25/2019,Sherri Johnson,4050000
+134043,Novel Romansa,5,4/25/2019,Sherri Johnson,2250000
+134044,Buku Sejarah,6,4/25/2019,Victoria Thomas,1800000
+134044,Alat Tulis,3,7/22/2019,Victoria Thomas,810000
+134044,Buku Anak-Anak,5,7/22/2019,Victoria Thomas,2250000
+134044,Majalah Fashion,6,7/22/2019,Victoria Thomas,720000
+134044,Majalah Berita,3,7/22/2019,Victoria Thomas,1080000
+134044,Novel Fiksi Ilmiah,5,7/22/2019,Victoria Thomas,3250000
+134044,Buku Biografi,9,7/22/2019,Victoria Thomas,12150000
+134044,Aksesoris Buku,2,7/22/2019,Victoria Thomas,100000
+134045,Alat Tulis,9,7/22/2019,Barry French,10530000
+134045,Buku Anak-Anak,1,7/22/2019,Barry French,100000
+134045,Majalah Fashion,5,7/22/2019,Barry French,3750000
+134045,Majalah Berita,6,7/22/2019,Barry French,2160000
+134045,Novel Fiksi Ilmiah,3,7/22/2019,Barry French,540000
+134045,Buku Biografi,8,7/22/2019,Barry French,9600000
+134045,Novel Romansa,9,7/22/2019,Barry French,2025000
+134046,Novel Fiksi Ilmiah,8,7/22/2019,Jim Martinez,160000
+134046,Alat Tulis,3,7/22/2019,Jim Martinez,1350000
+134046,Buku Anak-Anak,7,7/22/2019,Jim Martinez,980000
+134046,Buku Sejarah,8,7/22/2019,Jim Martinez,7040000
+134047,Novel Romansa,5,7/22/2019,Stuart Hawkins,500000
+134047,Buku Fiksi,2,7/22/2019,Stuart Hawkins,440000
+134047,Buku Sejarah,3,7/22/2019,Stuart Hawkins,1350000
+134047,Buku Biografi,6,7/22/2019,Stuart Hawkins,720000
+134048,Buku Sejarah,6,7/22/2019,Christopher Soto,4320000
+134048,Majalah Berita,2,7/22/2019,Christopher Soto,440000
+134048,Novel Fiksi Ilmiah,5,7/22/2019,Christopher Soto,1250000
+134048,Buku Fiksi,8,7/22/2019,Christopher Soto,1600000
+134048,Novel Misteri,1,7/22/2019,Christopher Soto,120000
+134048,Buku Biografi,2,7/22/2019,Christopher Soto,440000
+134048,Aksesoris Buku,7,7/22/2019,Christopher Soto,980000
+134049,Alat Tulis,6,7/22/2019,Alyssa Madden,3240000
+134049,Buku Sejarah,4,7/22/2019,Alyssa Madden,960000
+134049,Majalah Fashion,4,7/22/2019,Alyssa Madden,1920000
+134049,Majalah Seni,1,7/22/2019,Alyssa Madden,120000
+134049,Novel Fiksi Ilmiah,3,7/22/2019,Alyssa Madden,540000
+134049,Buku Fiksi,5,7/22/2019,Alyssa Madden,1250000
+134049,Novel Romansa,4,7/22/2019,Alyssa Madden,2080000
+134049,Aksesoris Buku,2,7/22/2019,Alyssa Madden,520000
+134050,Alat Tulis,8,7/22/2019,Dylan Foster,5760000
+134050,Buku Anak-Anak,5,7/22/2019,Dylan Foster,3250000
+134050,Novel Fiksi Ilmiah,2,7/22/2019,Dylan Foster,400000
+134050,Buku Fiksi,6,7/22/2019,Dylan Foster,900000
+134050,Novel Misteri,8,7/22/2019,Dylan Foster,1280000
+134050,Buku Biografi,3,7/22/2019,Dylan Foster,900000
+134050,Novel Romansa,9,7/22/2019,Dylan Foster,7290000
+134050,Aksesoris Buku,2,7/22/2019,Dylan Foster,400000
+134051,Buku Sejarah,6,7/22/2019,John Harvey,720000
+134051,Alat Tulis,5,7/22/2019,John Harvey,1500000
+134051,Majalah Fashion,4,7/22/2019,John Harvey,800000
+134051,Novel Fiksi Ilmiah,5,7/22/2019,John Harvey,1250000
+134051,Buku Biografi,6,7/22/2019,John Harvey,3960000
+134052,Alat Tulis,9,7/22/2019,Barry Aguilar,1620000
+134052,Buku Sejarah,1,7/22/2019,Barry Aguilar,20000
+134052,Buku Anak-Anak,1,7/22/2019,Barry Aguilar,150000
+134052,Buku Fiksi,2,7/22/2019,Barry Aguilar,480000
+134052,Buku Biografi,4,7/22/2019,Barry Aguilar,1920000
+134052,Novel Romansa,3,7/22/2019,Barry Aguilar,60000
+134052,Aksesoris Buku,7,7/22/2019,Barry Aguilar,2450000
+134053,Novel Romansa,9,7/22/2019,Lindsey Mccoy,10530000
+134053,Majalah Seni,8,7/22/2019,Lindsey Mccoy,160000
+134053,Buku Anak-Anak,8,7/22/2019,Lindsey Mccoy,160000
+134053,Aksesoris Buku,9,7/22/2019,Lindsey Mccoy,1620000
+134054,Alat Tulis,4,7/22/2019,Gregory Carter,800000
+134054,Buku Sejarah,2,7/22/2019,Gregory Carter,240000
+134054,Buku Anak-Anak,8,7/22/2019,Gregory Carter,7040000
+134054,Majalah Fashion,9,7/22/2019,Gregory Carter,4050000
+134054,Buku Fiksi,7,7/22/2019,Gregory Carter,4900000
+134054,Novel Misteri,5,7/22/2019,Gregory Carter,100000
+134054,Novel Romansa,6,7/22/2019,Gregory Carter,120000
+134054,Aksesoris Buku,9,7/22/2019,Gregory Carter,1620000
+134055,Alat Tulis,2,7/22/2019,Angela Gordon,440000
+134055,Buku Anak-Anak,7,7/22/2019,Angela Gordon,2450000
+134055,Majalah Berita,3,10/23/2019,Angela Gordon,1350000
+134055,Novel Fiksi Ilmiah,7,12/24/2019,Angela Gordon,1225000
+134055,Buku Fiksi,7,12/24/2019,Angela Gordon,5880000
+134055,Novel Romansa,6,12/24/2019,Angela Gordon,1800000
+134055,Aksesoris Buku,7,12/24/2019,Angela Gordon,980000
+134056,Majalah Fashion,2,12/24/2019,Joy Cohen,40000
+134056,Majalah Berita,5,12/24/2019,Joy Cohen,500000
+134056,Novel Fiksi Ilmiah,8,12/24/2019,Joy Cohen,160000
+134056,Buku Fiksi,8,12/24/2019,Joy Cohen,1600000
+134056,Buku Biografi,8,12/24/2019,Joy Cohen,9600000
+134056,Novel Misteri,8,12/24/2019,Joy Cohen,1280000
+134056,Novel Romansa,5,12/24/2019,Joy Cohen,2750000
+134057,Buku Sejarah,9,12/24/2019,Brett Branch,8910000
+134057,Majalah Berita,4,12/24/2019,Brett Branch,400000
+134057,Novel Fiksi Ilmiah,2,12/24/2019,Brett Branch,80000
+134057,Novel Misteri,6,12/24/2019,Brett Branch,3960000
+134057,Buku Biografi,5,12/24/2019,Brett Branch,100000
+134057,Novel Romansa,9,12/24/2019,Brett Branch,1620000
+134057,Aksesoris Buku,2,12/24/2019,Brett Branch,600000
+134058,Alat Tulis,8,12/24/2019,Rodney Kennedy,8320000
+134058,Buku Sejarah,3,12/24/2019,Rodney Kennedy,540000
+134058,Majalah Fashion,5,12/24/2019,Rodney Kennedy,100000
+134058,Majalah Seni,7,12/24/2019,Rodney Kennedy,980000
+134058,Novel Fiksi Ilmiah,4,12/24/2019,Rodney Kennedy,1600000
+134058,Novel Misteri,8,12/24/2019,Rodney Kennedy,9600000
+134058,Novel Romansa,8,12/24/2019,Rodney Kennedy,1280000
+134058,Aksesoris Buku,9,12/24/2019,Rodney Kennedy,180000
+134059,Majalah Fashion,9,12/24/2019,Scott Howell,180000
+134059,Majalah Seni,4,12/24/2019,Scott Howell,1600000
+134059,Buku Fiksi,8,12/24/2019,Scott Howell,7680000
+134059,Buku Biografi,7,12/24/2019,Scott Howell,140000
+134059,Novel Misteri,4,12/24/2019,Scott Howell,2400000
+134059,Aksesoris Buku,9,12/24/2019,Scott Howell,8100000
+134060,Buku Sejarah,1,12/24/2019,Ann Johnston,110000
+134060,Majalah Fashion,2,12/24/2019,Ann Johnston,520000
+134060,Novel Fiksi Ilmiah,1,12/24/2019,Ann Johnston,150000
+134060,Buku Fiksi,2,12/24/2019,Ann Johnston,40000
+134060,Novel Misteri,2,12/24/2019,Ann Johnston,240000
+134060,Buku Biografi,2,12/24/2019,Ann Johnston,440000
+134061,Alat Tulis,5,12/24/2019,Cristina White,1250000
+134061,Buku Anak-Anak,8,12/24/2019,Cristina White,1280000
+134061,Majalah Fashion,3,12/24/2019,Cristina White,1080000
+134061,Majalah Seni,5,12/24/2019,Cristina White,3250000
+134061,Novel Romansa,8,12/24/2019,Cristina White,5760000
+134061,Aksesoris Buku,7,12/24/2019,Cristina White,980000
+134062,Alat Tulis,9,12/24/2019,Jason Adams,2025000
+134062,Buku Anak-Anak,1,12/24/2019,Jason Adams,20000
+134062,Majalah Fashion,2,12/24/2019,Jason Adams,100000
+134062,Majalah Seni,7,12/24/2019,Jason Adams,5390000
+134062,Novel Misteri,6,12/24/2019,Jason Adams,4680000
+134062,Buku Biografi,5,12/24/2019,Jason Adams,100000
+134062,Aksesoris Buku,3,12/24/2019,Jason Adams,60000
+134063,Alat Tulis,3,12/24/2019,Linda Daniel,1170000
+134063,Buku Sejarah,6,12/24/2019,Linda Daniel,120000
+134063,Buku Anak-Anak,4,12/24/2019,Linda Daniel,1600000
+134063,Majalah Fashion,6,2/3/2020,Linda Daniel,3600000
+134063,Majalah Berita,4,2/3/2020,Linda Daniel,2080000
+134063,Novel Fiksi Ilmiah,2,2/3/2020,Linda Daniel,40000
+134063,Novel Misteri,8,2/3/2020,Linda Daniel,8320000
+134063,Aksesoris Buku,5,2/3/2020,Linda Daniel,2250000
+134064,Alat Tulis,4,2/3/2020,Jeffrey Burgess,400000
+134064,Majalah Fashion,7,2/3/2020,Jeffrey Burgess,4900000
+134064,Majalah Berita,9,2/3/2020,Jeffrey Burgess,8100000
+134064,Buku Fiksi,4,2/3/2020,Jeffrey Burgess,1760000
+134064,Novel Misteri,6,2/3/2020,Jeffrey Burgess,5400000
+134064,Novel Romansa,1,2/3/2020,Jeffrey Burgess,150000
+134064,Aksesoris Buku,3,2/3/2020,Jeffrey Burgess,60000
+134065,Alat Tulis,8,4/4/2020,Christopher West,1280000
+134065,Buku Sejarah,6,4/4/2020,Christopher West,720000
+134065,Buku Anak-Anak,3,4/4/2020,Christopher West,990000
+134065,Majalah Berita,2,4/4/2020,Christopher West,440000
+134065,Buku Fiksi,1,6/2/2020,Christopher West,150000
+134065,Novel Misteri,9,6/2/2020,Christopher West,4050000
+134065,Buku Biografi,8,6/2/2020,Christopher West,3200000
+134065,Aksesoris Buku,9,6/2/2020,Christopher West,8910000
+134066,Buku Anak-Anak,4,6/2/2020,Alyssa Berg,2080000
+134066,Majalah Fashion,4,6/2/2020,Alyssa Berg,1440000
+134066,Majalah Berita,5,6/2/2020,Alyssa Berg,500000
+134066,Novel Fiksi Ilmiah,4,6/2/2020,Alyssa Berg,2080000
+134066,Aksesoris Buku,7,6/2/2020,Alyssa Berg,980000
+134067,Majalah Fashion,2,6/2/2020,Dana Hernandez,400000
+134067,Alat Tulis,7,6/2/2020,Dana Hernandez,140000
+134067,Buku Biografi,9,6/2/2020,Dana Hernandez,1620000
+134067,Novel Fiksi Ilmiah,3,6/2/2020,Dana Hernandez,1080000
+134068,Alat Tulis,3,9/4/2020,John Roberts,1170000
+134068,Buku Sejarah,7,9/4/2020,John Roberts,6370000
+134068,Buku Anak-Anak,9,9/4/2020,John Roberts,10530000
+134068,Majalah Seni,5,9/4/2020,John Roberts,3750000
+134068,Buku Fiksi,6,9/4/2020,John Roberts,900000
+134068,Novel Romansa,8,9/4/2020,John Roberts,9600000
+134068,Aksesoris Buku,6,9/4/2020,John Roberts,3600000
+134069,Alat Tulis,4,9/4/2020,Maureen Mueller,1760000
+134069,Majalah Seni,3,9/4/2020,Maureen Mueller,540000
+134069,Majalah Berita,2,10/26/2020,Maureen Mueller,480000
+134069,Novel Fiksi Ilmiah,5,10/26/2020,Maureen Mueller,2250000
+134069,Buku Fiksi,7,10/26/2020,Maureen Mueller,2450000
+134069,Novel Romansa,6,10/26/2020,Maureen Mueller,3240000
+134070,Alat Tulis,9,10/26/2020,James Brown,12150000
+134070,Majalah Fashion,4,10/26/2020,James Brown,320000
+134070,Majalah Seni,2,10/26/2020,James Brown,600000
+134070,Majalah Berita,7,10/26/2020,James Brown,7350000
+134070,Novel Fiksi Ilmiah,5,10/26/2020,James Brown,1250000
+134070,Buku Fiksi,4,10/26/2020,James Brown,80000
+134070,Buku Biografi,7,10/26/2020,James Brown,980000
+134070,Aksesoris Buku,7,10/26/2020,James Brown,4410000
+134071,Novel Romansa,5,10/26/2020,April Richard,500000
+134071,Alat Tulis,8,10/26/2020,April Richard,7040000
+134071,Buku Biografi,4,10/26/2020,April Richard,800000
+134071,Aksesoris Buku,9,1/16/2021,April Richard,8910000
+134072,Alat Tulis,8,1/16/2021,Angela Oconnor,7680000
+134072,Buku Anak-Anak,5,1/16/2021,Angela Oconnor,1500000
+134072,Majalah Fashion,7,1/16/2021,Angela Oconnor,2450000
+134072,Majalah Seni,2,1/16/2021,Angela Oconnor,80000
+134072,Majalah Berita,5,1/16/2021,Angela Oconnor,1500000
+134072,Novel Fiksi Ilmiah,7,1/16/2021,Angela Oconnor,980000
+134072,Buku Biografi,6,1/16/2021,Angela Oconnor,720000
+134072,Aksesoris Buku,5,1/16/2021,Angela Oconnor,1250000
+134073,Majalah Seni,7,1/16/2021,Edward Castillo,2940000
+134073,Alat Tulis,3,1/16/2021,Edward Castillo,225000
+134073,Buku Biografi,2,1/16/2021,Edward Castillo,440000
+134073,Buku Sejarah,3,1/16/2021,Edward Castillo,60000
+134074,Buku Sejarah,8,1/16/2021,Eric Owen,7680000
+134074,Majalah Fashion,2,1/16/2021,Eric Owen,400000
+134074,Majalah Seni,8,1/16/2021,Eric Owen,160000
+134074,Majalah Berita,5,1/16/2021,Eric Owen,1250000
+134074,Buku Fiksi,8,1/16/2021,Eric Owen,7680000
+134074,Novel Misteri,8,1/16/2021,Eric Owen,3840000
+134074,Novel Romansa,7,1/16/2021,Eric Owen,5880000
+134075,Alat Tulis,5,1/16/2021,Melissa Moore,625000
+134075,Buku Sejarah,4,1/16/2021,Melissa Moore,1920000
+134075,Majalah Seni,1,1/16/2021,Melissa Moore,150000
+134075,Novel Fiksi Ilmiah,3,1/16/2021,Melissa Moore,450000
+134075,Buku Fiksi,3,1/16/2021,Melissa Moore,225000
+134075,Buku Biografi,6,1/16/2021,Melissa Moore,120000
+134075,Novel Romansa,9,1/16/2021,Melissa Moore,2025000
+134075,Aksesoris Buku,5,1/16/2021,Melissa Moore,3250000
+134076,Buku Sejarah,5,1/16/2021,Diane Smith,2500000
+134076,Majalah Fashion,7,1/16/2021,Diane Smith,980000
+134076,Majalah Seni,3,1/16/2021,Diane Smith,180000
+134076,Novel Fiksi Ilmiah,6,1/16/2021,Diane Smith,1800000
+134076,Buku Fiksi,7,1/16/2021,Diane Smith,2450000
+134076,Buku Biografi,1,1/16/2021,Diane Smith,60000
+134076,Novel Romansa,2,1/16/2021,Diane Smith,80000
+134076,Aksesoris Buku,3,1/16/2021,Diane Smith,60000
+134077,Buku Sejarah,4,1/16/2021,Jacqueline Lewis,320000
+134077,Alat Tulis,7,1/16/2021,Jacqueline Lewis,980000
+134077,Majalah Fashion,9,1/16/2021,Jacqueline Lewis,10530000
+134077,Majalah Seni,8,1/16/2021,Jacqueline Lewis,3200000
+134077,Novel Fiksi Ilmiah,5,1/16/2021,Jacqueline Lewis,2250000
+134077,Buku Fiksi,6,1/16/2021,Jacqueline Lewis,900000
+134077,Buku Biografi,6,1/16/2021,Jacqueline Lewis,120000
+134077,Novel Misteri,2,1/16/2021,Jacqueline Lewis,40000
+134078,Buku Sejarah,6,1/16/2021,Laura Wiley,120000
+134078,Alat Tulis,6,1/16/2021,Laura Wiley,2160000
+134078,Majalah Fashion,7,1/16/2021,Laura Wiley,6370000
+134078,Majalah Berita,2,1/16/2021,Laura Wiley,440000
+134078,Buku Fiksi,3,1/16/2021,Laura Wiley,1170000
+134079,Alat Tulis,7,1/16/2021,Mike Marshall,2940000
+134079,Buku Anak-Anak,8,1/16/2021,Mike Marshall,3840000
+134079,Majalah Seni,7,1/16/2021,Mike Marshall,2940000
+134079,Novel Fiksi Ilmiah,7,1/16/2021,Mike Marshall,6370000
+134079,Buku Fiksi,7,1/16/2021,Mike Marshall,7350000
+134079,Buku Biografi,5,1/16/2021,Mike Marshall,2250000
+134079,Novel Romansa,4,1/16/2021,Mike Marshall,800000
+134079,Aksesoris Buku,4,1/16/2021,Mike Marshall,2080000
+134080,Buku Sejarah,4,2/25/2021,Dr. Cassandra Williams,80000
+134080,Alat Tulis,8,2/25/2021,Dr. Cassandra Williams,1280000
+134080,Buku Anak-Anak,4,2/25/2021,Dr. Cassandra Williams,960000
+134080,Majalah Seni,7,2/25/2021,Dr. Cassandra Williams,2940000
+134080,Majalah Berita,3,2/25/2021,Dr. Cassandra Williams,60000
+134080,Novel Fiksi Ilmiah,4,2/25/2021,Dr. Cassandra Williams,80000
+134080,Buku Biografi,6,2/25/2021,Dr. Cassandra Williams,900000
+134081,Alat Tulis,7,2/25/2021,Sandra Guerrero,6370000
+134081,Majalah Berita,7,2/25/2021,Sandra Guerrero,140000
+134081,Novel Fiksi Ilmiah,8,3/21/2021,Sandra Guerrero,9600000
+134081,Buku Biografi,5,3/21/2021,Sandra Guerrero,3000000
+134081,Aksesoris Buku,7,3/21/2021,Sandra Guerrero,6370000
+134082,Alat Tulis,2,3/21/2021,Carla Prince,480000
+134082,Majalah Berita,7,3/21/2021,Carla Prince,5390000
+134082,Novel Fiksi Ilmiah,8,3/21/2021,Carla Prince,1280000
+134082,Buku Fiksi,6,3/21/2021,Carla Prince,1800000
+134082,Novel Misteri,1,3/21/2021,Carla Prince,25000
+134082,Aksesoris Buku,2,3/21/2021,Carla Prince,360000
+134083,Majalah Fashion,4,3/21/2021,Caitlin Adams,1760000
+134083,Majalah Berita,8,3/21/2021,Caitlin Adams,1600000
+134083,Novel Fiksi Ilmiah,8,3/21/2021,Caitlin Adams,5760000
+134083,Novel Misteri,4,3/21/2021,Caitlin Adams,960000
+134083,Aksesoris Buku,6,3/21/2021,Caitlin Adams,120000
+134084,Majalah Berita,2,3/21/2021,Molly Hernandez,80000
+134084,Alat Tulis,1,3/21/2021,Molly Hernandez,100000
+134084,Buku Biografi,8,3/21/2021,Molly Hernandez,7680000
+134084,Majalah Fashion,5,3/21/2021,Molly Hernandez,500000
+134085,Buku Sejarah,5,3/21/2021,Rebecca Nelson,1500000
+134085,Alat Tulis,9,3/21/2021,Rebecca Nelson,12150000
+134085,Buku Anak-Anak,5,3/21/2021,Rebecca Nelson,1250000
+134085,Majalah Berita,6,3/21/2021,Rebecca Nelson,3600000
+134085,Novel Fiksi Ilmiah,1,3/21/2021,Rebecca Nelson,20000
+134085,Buku Fiksi,5,4/19/2021,Rebecca Nelson,100000
+134085,Buku Biografi,4,4/19/2021,Rebecca Nelson,960000
+134086,Majalah Fashion,8,4/19/2021,Larry Osborne,9600000
+134086,Majalah Seni,8,4/19/2021,Larry Osborne,1600000
+134086,Buku Fiksi,8,4/19/2021,Larry Osborne,7040000
+134086,Novel Misteri,6,4/19/2021,Larry Osborne,3600000
+134086,Buku Biografi,8,4/19/2021,Larry Osborne,8320000
+134086,Novel Romansa,1,4/19/2021,Larry Osborne,150000
+134087,Buku Sejarah,6,4/19/2021,Heather Valentine,3960000
+134087,Alat Tulis,7,4/19/2021,Heather Valentine,6370000
+134087,Majalah Seni,2,4/19/2021,Heather Valentine,440000
+134087,Buku Fiksi,8,4/19/2021,Heather Valentine,7040000
+134087,Novel Misteri,8,4/19/2021,Heather Valentine,1600000
+134087,Buku Biografi,9,4/19/2021,Heather Valentine,2025000
+134087,Novel Romansa,5,4/19/2021,Heather Valentine,1500000
+134088,Majalah Fashion,3,4/19/2021,Mr. Brett Williams,1170000
+134088,Majalah Seni,2,4/19/2021,Mr. Brett Williams,600000
+134088,Novel Fiksi Ilmiah,4,4/19/2021,Mr. Brett Williams,800000
+134088,Buku Fiksi,7,4/19/2021,Mr. Brett Williams,4900000
+134088,Novel Misteri,3,4/19/2021,Mr. Brett Williams,180000
+134088,Novel Romansa,9,4/19/2021,Mr. Brett Williams,12150000
+134089,Alat Tulis,1,4/19/2021,James Brooks,110000
+134089,Majalah Seni,8,4/19/2021,James Brooks,6400000
+134089,Majalah Berita,4,7/8/2021,James Brooks,2400000
+134089,Novel Fiksi Ilmiah,3,7/8/2021,James Brooks,810000
+134089,Buku Biografi,4,7/8/2021,James Brooks,1760000
+134089,Novel Romansa,1,7/8/2021,James Brooks,20000
+134090,Alat Tulis,7,7/8/2021,Patricia Perry,4900000
+134090,Buku Anak-Anak,9,7/8/2021,Patricia Perry,2025000
+134090,Majalah Berita,7,7/8/2021,Patricia Perry,980000
+134090,Novel Fiksi Ilmiah,8,7/8/2021,Patricia Perry,7040000
+134090,Buku Fiksi,2,7/8/2021,Patricia Perry,40000
+134090,Aksesoris Buku,9,7/8/2021,Patricia Perry,12150000
+134091,Alat Tulis,7,7/8/2021,Robert Gallagher,5390000
+134091,Buku Biografi,1,7/8/2021,Robert Gallagher,50000
+134091,Buku Anak-Anak,2,7/8/2021,Robert Gallagher,440000
+134091,Aksesoris Buku,1,7/8/2021,Robert Gallagher,50000
+134092,Buku Sejarah,4,7/8/2021,John Bailey,1600000
+134092,Majalah Fashion,7,7/8/2021,John Bailey,1225000
+134092,Majalah Seni,8,7/8/2021,John Bailey,7680000
+134092,Novel Fiksi Ilmiah,3,7/8/2021,John Bailey,60000
+134092,Novel Misteri,6,7/8/2021,John Bailey,5400000
+134092,Buku Biografi,5,7/8/2021,John Bailey,500000
+134093,Alat Tulis,5,7/8/2021,Rachel Henderson,1250000
+134093,Buku Anak-Anak,1,7/8/2021,Rachel Henderson,60000
+134093,Majalah Fashion,1,7/8/2021,Rachel Henderson,150000
+134093,Novel Fiksi Ilmiah,9,7/8/2021,Rachel Henderson,4860000
+134093,Buku Fiksi,2,7/8/2021,Rachel Henderson,80000
+134093,Novel Misteri,5,7/8/2021,Rachel Henderson,500000
+134093,Aksesoris Buku,9,7/8/2021,Rachel Henderson,10530000
+134094,Alat Tulis,6,7/8/2021,Jeffrey Carrillo,120000
+134094,Novel Misteri,9,7/8/2021,Jeffrey Carrillo,7290000
+134094,Buku Biografi,9,7/8/2021,Jeffrey Carrillo,1620000
+134094,Novel Romansa,2,7/8/2021,Jeffrey Carrillo,520000
+134094,Aksesoris Buku,7,7/8/2021,Jeffrey Carrillo,2450000
+134095,Alat Tulis,2,7/8/2021,Gloria Ramirez,240000
+134095,Buku Sejarah,8,7/8/2021,Gloria Ramirez,1280000
+134095,Buku Anak-Anak,2,7/8/2021,Gloria Ramirez,80000
+134095,Majalah Fashion,7,7/8/2021,Gloria Ramirez,4410000
+134095,Majalah Berita,6,7/8/2021,Gloria Ramirez,4320000
+134095,Buku Fiksi,6,7/8/2021,Gloria Ramirez,3240000
+134095,Aksesoris Buku,7,7/8/2021,Gloria Ramirez,7350000
+134096,Alat Tulis,2,7/8/2021,Richard Castillo,520000
+134096,Buku Sejarah,2,7/8/2021,Richard Castillo,40000
+134096,Buku Anak-Anak,2,7/8/2021,Richard Castillo,400000
+134096,Majalah Seni,7,7/8/2021,Richard Castillo,2450000
+134096,Majalah Berita,7,7/8/2021,Richard Castillo,980000
+134096,Novel Fiksi Ilmiah,1,7/8/2021,Richard Castillo,20000
+134096,Novel Romansa,7,7/8/2021,Richard Castillo,140000
+134096,Aksesoris Buku,2,7/8/2021,Richard Castillo,100000
+134097,Alat Tulis,7,7/8/2021,Jon Hernandez,2940000
+134097,Buku Anak-Anak,8,7/8/2021,Jon Hernandez,3840000
+134097,Novel Fiksi Ilmiah,4,7/8/2021,Jon Hernandez,320000
+134097,Buku Biografi,3,7/8/2021,Jon Hernandez,990000
+134097,Novel Romansa,5,7/8/2021,Jon Hernandez,1500000
+134098,Alat Tulis,2,7/8/2021,Brian Harris,520000
+134098,Buku Sejarah,5,7/8/2021,Brian Harris,3250000
+134098,Buku Anak-Anak,2,7/8/2021,Brian Harris,200000
+134098,Majalah Seni,3,7/8/2021,Brian Harris,990000
+134098,Novel Misteri,5,7/8/2021,Brian Harris,2250000
+134099,Alat Tulis,9,7/8/2021,Brian Thomas,12150000
+134099,Buku Sejarah,1,7/8/2021,Brian Thomas,120000
+134099,Buku Anak-Anak,8,7/8/2021,Brian Thomas,9600000
+134099,Majalah Seni,6,7/8/2021,Brian Thomas,1800000
+134099,Majalah Berita,8,7/8/2021,Brian Thomas,5760000
+134099,Novel Fiksi Ilmiah,1,7/8/2021,Brian Thomas,120000
+134099,Buku Biografi,6,7/8/2021,Brian Thomas,1800000
+134099,Novel Romansa,1,7/8/2021,Brian Thomas,120000
+134100,Alat Tulis,7,7/8/2021,Jeffrey Powell,4410000
+134100,Buku Sejarah,8,7/8/2021,Jeffrey Powell,6400000
+134100,Majalah Fashion,5,7/8/2021,Jeffrey Powell,500000
+134100,Majalah Seni,7,7/8/2021,Jeffrey Powell,4410000
+134100,Novel Misteri,6,7/8/2021,Jeffrey Powell,720000
+134100,Novel Romansa,2,7/8/2021,Jeffrey Powell,40000
+134100,Aksesoris Buku,5,7/8/2021,Jeffrey Powell,1500000
+134101,Alat Tulis,5,7/8/2021,Brandy Henry,1250000
+134101,Buku Anak-Anak,5,8/31/2021,Brandy Henry,500000
+134101,Novel Fiksi Ilmiah,4,8/31/2021,Brandy Henry,2400000
+134101,Novel Misteri,9,8/31/2021,Brandy Henry,9720000
+134101,Aksesoris Buku,9,8/31/2021,Brandy Henry,12150000
+134102,Majalah Fashion,4,8/31/2021,Mr. Charles Jones,1600000
+134102,Majalah Seni,4,8/31/2021,Mr. Charles Jones,320000
+134102,Majalah Berita,2,9/21/2021,Mr. Charles Jones,80000
+134102,Buku Fiksi,9,9/21/2021,Mr. Charles Jones,4050000
+134102,Novel Misteri,3,9/21/2021,Mr. Charles Jones,450000
+134102,Novel Romansa,8,9/21/2021,Mr. Charles Jones,160000
+134102,Aksesoris Buku,5,9/21/2021,Mr. Charles Jones,500000
+134103,Alat Tulis,4,10/17/2021,Shane Cole,320000
+134103,Buku Sejarah,4,10/17/2021,Shane Cole,960000
+134103,Buku Anak-Anak,2,10/17/2021,Shane Cole,600000
+134103,Majalah Fashion,5,10/17/2021,Shane Cole,500000
+134103,Majalah Seni,8,10/17/2021,Shane Cole,7040000
+134103,Majalah Berita,2,10/17/2021,Shane Cole,480000
+134103,Novel Misteri,8,10/17/2021,Shane Cole,3840000
+134104,Alat Tulis,8,10/17/2021,Amanda Rodriguez,3840000
+134104,Buku Sejarah,7,10/17/2021,Amanda Rodriguez,980000
+134104,Buku Anak-Anak,1,10/17/2021,Amanda Rodriguez,20000
+134104,Majalah Seni,7,10/17/2021,Amanda Rodriguez,5390000
+134104,Novel Fiksi Ilmiah,3,10/17/2021,Amanda Rodriguez,540000
+134104,Novel Misteri,1,12/31/2021,Amanda Rodriguez,120000
+134104,Novel Romansa,7,12/31/2021,Amanda Rodriguez,7350000
+134104,Aksesoris Buku,7,12/31/2021,Amanda Rodriguez,980000
+134105,Alat Tulis,3,1/10/2022,Nathan Green,900000
+134105,Buku Anak-Anak,9,1/10/2022,Nathan Green,4860000
+134105,Majalah Fashion,5,1/10/2022,Nathan Green,500000
+134105,Majalah Seni,3,1/10/2022,Nathan Green,990000
+134105,Novel Misteri,6,1/10/2022,Nathan Green,720000
+134105,Aksesoris Buku,6,1/10/2022,Nathan Green,720000
+134106,Buku Sejarah,6,1/10/2022,Steven Barnes,2160000
+134106,Alat Tulis,8,1/10/2022,Steven Barnes,7040000
+134106,Buku Anak-Anak,9,1/10/2022,Steven Barnes,2025000
+134106,Majalah Fashion,5,1/10/2022,Steven Barnes,500000
+134106,Novel Fiksi Ilmiah,5,1/10/2022,Steven Barnes,625000
+134106,Novel Misteri,9,3/27/2022,Steven Barnes,1620000
+134106,Novel Romansa,3,3/27/2022,Steven Barnes,180000
+134106,Aksesoris Buku,6,3/27/2022,Steven Barnes,720000
+134107,Alat Tulis,7,3/27/2022,Tammy Perez,140000
+134107,Buku Anak-Anak,9,3/27/2022,Tammy Perez,12150000
+134107,Majalah Seni,5,3/27/2022,Tammy Perez,3250000
+134107,Majalah Berita,3,3/27/2022,Tammy Perez,60000
+134107,Buku Fiksi,1,3/27/2022,Tammy Perez,120000
+134107,Aksesoris Buku,7,3/27/2022,Tammy Perez,2940000
+134108,Majalah Fashion,8,3/27/2022,Gerald Griffin PhD,1280000
+134108,Majalah Seni,6,3/27/2022,Gerald Griffin PhD,720000
+134108,Majalah Berita,8,3/27/2022,Gerald Griffin PhD,5760000
+134108,Buku Fiksi,1,3/27/2022,Gerald Griffin PhD,110000
+134108,Aksesoris Buku,1,3/27/2022,Gerald Griffin PhD,90000
+134109,Buku Sejarah,8,3/27/2022,Ashley Odom,1600000
+134109,Alat Tulis,1,3/27/2022,Ashley Odom,20000
+134109,Buku Anak-Anak,8,3/27/2022,Ashley Odom,1280000
+134109,Majalah Seni,7,3/27/2022,Ashley Odom,1225000
+134109,Majalah Berita,1,3/27/2022,Ashley Odom,20000
+134109,Novel Fiksi Ilmiah,6,3/27/2022,Ashley Odom,4680000
+134109,Novel Romansa,6,3/27/2022,Ashley Odom,720000
+134110,Alat Tulis,6,3/27/2022,Kristen Davis,4680000
+134110,Buku Anak-Anak,7,3/27/2022,Kristen Davis,4900000
+134110,Majalah Berita,7,3/27/2022,Kristen Davis,7350000
+134110,Buku Fiksi,8,3/27/2022,Kristen Davis,1600000
+134110,Buku Biografi,8,3/27/2022,Kristen Davis,3200000
+134110,Novel Romansa,4,3/27/2022,Kristen Davis,1760000
+134110,Aksesoris Buku,1,3/27/2022,Kristen Davis,25000
+134111,Alat Tulis,7,3/27/2022,Tiffany Yates,5390000
+134111,Buku Anak-Anak,5,3/27/2022,Tiffany Yates,2500000
+134111,Majalah Fashion,3,3/27/2022,Tiffany Yates,225000
+134111,Buku Biografi,9,4/18/2022,Tiffany Yates,7290000
+134111,Aksesoris Buku,6,4/18/2022,Tiffany Yates,3240000
+134112,Buku Sejarah,1,4/18/2022,Jason Wallace,50000
+134112,Majalah Fashion,6,4/18/2022,Jason Wallace,3960000
+134112,Majalah Seni,4,4/18/2022,Jason Wallace,1440000
+134112,Majalah Berita,4,4/18/2022,Jason Wallace,800000
+134112,Buku Fiksi,7,4/18/2022,Jason Wallace,2450000
+134112,Aksesoris Buku,3,4/18/2022,Jason Wallace,180000
+134113,Buku Fiksi,6,4/18/2022,Fred Hall,1800000
+134113,Alat Tulis,5,4/18/2022,Fred Hall,100000
+134113,Aksesoris Buku,2,4/18/2022,Fred Hall,80000
+134113,Buku Sejarah,4,4/18/2022,Fred Hall,2400000
+134114,Alat Tulis,6,4/18/2022,Kyle Osborn,720000
+134114,Majalah Fashion,5,4/18/2022,Kyle Osborn,1500000
+134114,Majalah Seni,7,4/18/2022,Kyle Osborn,6370000
+134114,Novel Misteri,5,4/18/2022,Kyle Osborn,2750000
+134114,Novel Romansa,9,4/18/2022,Kyle Osborn,10530000
+134114,Aksesoris Buku,3,4/18/2022,Kyle Osborn,540000
+134115,Alat Tulis,2,4/18/2022,Gerald Alvarado,200000
+134115,Buku Anak-Anak,9,4/18/2022,Gerald Alvarado,2025000
+134115,Majalah Fashion,2,4/18/2022,Gerald Alvarado,440000
+134115,Majalah Berita,4,4/18/2022,Gerald Alvarado,1600000
+134115,Novel Fiksi Ilmiah,9,4/18/2022,Gerald Alvarado,8100000
+134115,Novel Misteri,7,4/18/2022,Gerald Alvarado,2940000
+134115,Novel Romansa,1,4/18/2022,Gerald Alvarado,50000
+134115,Aksesoris Buku,2,4/18/2022,Gerald Alvarado,240000
+134116,Buku Anak-Anak,5,4/18/2022,Brooke Robinson,2250000
+134116,Majalah Fashion,3,4/29/2022,Brooke Robinson,900000
+134116,Majalah Seni,9,4/29/2022,Brooke Robinson,8910000
+134116,Novel Fiksi Ilmiah,5,4/29/2022,Brooke Robinson,500000
+134116,Novel Misteri,9,4/29/2022,Brooke Robinson,4860000
+134116,Buku Biografi,9,4/29/2022,Brooke Robinson,8100000
+134116,Novel Romansa,6,4/29/2022,Brooke Robinson,5400000
+134116,Aksesoris Buku,2,4/29/2022,Brooke Robinson,40000
+134117,Alat Tulis,8,4/29/2022,Martin Conley,9600000
+134117,Buku Sejarah,1,4/29/2022,Martin Conley,120000
+134117,Buku Anak-Anak,1,4/29/2022,Martin Conley,110000
+134117,Novel Misteri,3,4/29/2022,Martin Conley,60000
+134117,Aksesoris Buku,6,4/29/2022,Martin Conley,5400000
+134118,Alat Tulis,7,4/29/2022,Grace Lawrence,7350000
+134118,Buku Anak-Anak,3,4/29/2022,Grace Lawrence,900000
+134118,Majalah Seni,1,4/29/2022,Grace Lawrence,60000
+134118,Majalah Berita,9,4/29/2022,Grace Lawrence,4050000
+134118,Buku Fiksi,8,5/30/2022,Grace Lawrence,160000
+134118,Novel Romansa,3,5/30/2022,Grace Lawrence,1170000
+134118,Aksesoris Buku,1,5/30/2022,Grace Lawrence,20000
+134119,Novel Romansa,7,5/30/2022,David Jacobs,2450000
+134119,Buku Sejarah,1,5/30/2022,David Jacobs,150000
+134119,Alat Tulis,7,5/30/2022,David Jacobs,5880000
+134119,Buku Anak-Anak,5,5/30/2022,David Jacobs,2750000
+134120,Buku Sejarah,5,5/30/2022,Barbara Gomez,2250000
+134120,Alat Tulis,1,5/30/2022,Barbara Gomez,130000
+134120,Buku Anak-Anak,5,5/30/2022,Barbara Gomez,2250000
+134120,Majalah Fashion,3,5/30/2022,Barbara Gomez,1350000
+134120,Majalah Berita,4,5/30/2022,Barbara Gomez,2400000
+134120,Novel Fiksi Ilmiah,4,5/30/2022,Barbara Gomez,320000
+134120,Buku Fiksi,8,5/30/2022,Barbara Gomez,7680000
+134120,Aksesoris Buku,1,5/30/2022,Barbara Gomez,25000
+134121,Alat Tulis,3,5/30/2022,Nicole Warner,225000
+134121,Majalah Fashion,4,5/30/2022,Nicole Warner,1600000
+134121,Majalah Berita,6,5/30/2022,Nicole Warner,2160000
+134121,Novel Fiksi Ilmiah,3,5/30/2022,Nicole Warner,225000
+134122,Majalah Seni,1,5/30/2022,Jennifer Mcgrath,150000
+134122,Alat Tulis,5,5/30/2022,Jennifer Mcgrath,625000
+134122,Buku Biografi,9,5/30/2022,Jennifer Mcgrath,2025000
+134122,Aksesoris Buku,6,5/30/2022,Jennifer Mcgrath,3600000
+134123,Alat Tulis,5,5/30/2022,Daniel Singleton,1500000
+134123,Majalah Fashion,8,5/30/2022,Daniel Singleton,160000
+134123,Majalah Berita,1,5/30/2022,Daniel Singleton,100000
+134123,Novel Fiksi Ilmiah,8,5/30/2022,Daniel Singleton,7680000
+134123,Buku Fiksi,8,5/30/2022,Daniel Singleton,6400000
+134123,Buku Biografi,9,5/30/2022,Daniel Singleton,1620000
+134123,Novel Misteri,9,5/30/2022,Daniel Singleton,7290000
+134123,Novel Romansa,6,5/30/2022,Daniel Singleton,3960000
+134124,Novel Romansa,2,5/30/2022,Todd Becker,100000
+134124,Majalah Seni,2,5/30/2022,Todd Becker,440000
+134124,Alat Tulis,4,5/30/2022,Todd Becker,960000
+134124,Majalah Fashion,4,5/30/2022,Todd Becker,400000
+134125,Buku Sejarah,6,5/30/2022,Richard Ford,5400000
+134125,Majalah Berita,5,5/30/2022,Richard Ford,100000
+134125,Buku Fiksi,8,5/30/2022,Richard Ford,1280000
+134125,Buku Biografi,5,5/30/2022,Richard Ford,2750000
+134125,Novel Misteri,1,5/30/2022,Richard Ford,130000
+134126,Buku Sejarah,4,5/30/2022,John Greene,320000
+134126,Alat Tulis,9,5/30/2022,John Greene,7290000
+134126,Majalah Seni,4,5/30/2022,John Greene,400000
+134126,Buku Fiksi,9,5/30/2022,John Greene,7290000
+134126,Buku Biografi,1,5/30/2022,John Greene,110000
+134126,Aksesoris Buku,9,5/30/2022,John Greene,8910000
+134127,Alat Tulis,1,5/30/2022,Jeffrey Campos,20000
+134127,Buku Sejarah,7,5/30/2022,Jeffrey Campos,4900000
+134127,Majalah Seni,4,5/30/2022,Jeffrey Campos,960000
+134127,Majalah Berita,1,5/30/2022,Jeffrey Campos,120000
+134127,Buku Fiksi,8,5/30/2022,Jeffrey Campos,3200000
+134127,Novel Misteri,4,5/30/2022,Jeffrey Campos,800000
+134127,Novel Romansa,9,5/30/2022,Jeffrey Campos,7290000
+134127,Aksesoris Buku,5,5/30/2022,Jeffrey Campos,1250000
+134128,Buku Sejarah,3,5/30/2022,Michael Love,540000
+134128,Alat Tulis,6,5/30/2022,Michael Love,720000
+134128,Majalah Berita,1,5/30/2022,Michael Love,130000
+134128,Novel Fiksi Ilmiah,3,5/30/2022,Michael Love,450000
+134128,Buku Fiksi,5,5/30/2022,Michael Love,625000
+134128,Novel Romansa,8,5/30/2022,Michael Love,7680000
+134129,Alat Tulis,6,5/30/2022,Andrea Bailey,4680000
+134129,Majalah Fashion,4,5/30/2022,Andrea Bailey,400000
+134129,Majalah Seni,6,5/30/2022,Andrea Bailey,3960000
+134129,Majalah Berita,8,5/30/2022,Andrea Bailey,3840000
+134129,Novel Fiksi Ilmiah,8,5/30/2022,Andrea Bailey,1600000
+134129,Buku Biografi,8,5/30/2022,Andrea Bailey,3840000
+134129,Novel Misteri,9,5/30/2022,Andrea Bailey,12150000
+134129,Aksesoris Buku,2,5/30/2022,Andrea Bailey,440000
+134130,Majalah Seni,4,5/30/2022,Mary Stephens,400000
+134130,Novel Misteri,1,5/30/2022,Mary Stephens,60000
+134130,Buku Biografi,2,5/30/2022,Mary Stephens,40000
+134130,Majalah Fashion,2,5/30/2022,Mary Stephens,240000
+134131,Alat Tulis,1,5/30/2022,Wendy May,120000
+134131,Buku Anak-Anak,9,5/30/2022,Wendy May,10530000
+134131,Majalah Fashion,3,5/30/2022,Wendy May,900000
+134131,Majalah Berita,1,5/30/2022,Wendy May,130000
+134131,Novel Fiksi Ilmiah,5,5/30/2022,Wendy May,2750000
+134131,Novel Misteri,7,5/30/2022,Wendy May,4900000
+134131,Buku Biografi,9,5/30/2022,Wendy May,2025000
+134132,Buku Sejarah,1,5/30/2022,Michael Murphy,20000
+134132,Majalah Fashion,5,5/30/2022,Michael Murphy,3250000
+134132,Majalah Seni,6,5/30/2022,Michael Murphy,720000
+134132,Buku Biografi,5,5/30/2022,Michael Murphy,500000
+134132,Aksesoris Buku,1,5/30/2022,Michael Murphy,110000
+134133,Alat Tulis,5,5/30/2022,Keith Hodges,3750000
+134133,Buku Anak-Anak,2,5/30/2022,Keith Hodges,100000
+134133,Majalah Fashion,3,5/30/2022,Keith Hodges,1080000
+134133,Majalah Seni,1,5/30/2022,Keith Hodges,60000
+134133,Novel Fiksi Ilmiah,2,5/30/2022,Keith Hodges,520000
+134133,Novel Misteri,2,5/30/2022,Keith Hodges,200000
+134133,Aksesoris Buku,4,5/30/2022,Keith Hodges,400000
+134134,Alat Tulis,7,5/30/2022,Alice Webster,2940000
+134134,Buku Sejarah,2,5/30/2022,Alice Webster,80000
+134134,Majalah Seni,9,5/30/2022,Alice Webster,8100000
+134134,Novel Fiksi Ilmiah,3,5/30/2022,Alice Webster,1350000
+134134,Buku Biografi,8,5/30/2022,Alice Webster,1280000
+134134,Novel Romansa,4,5/30/2022,Alice Webster,960000
+134134,Aksesoris Buku,9,5/30/2022,Alice Webster,1620000
+134135,Alat Tulis,1,5/30/2022,Kenneth Brewer,25000
+134135,Majalah Fashion,9,5/30/2022,Kenneth Brewer,12150000
+134135,Majalah Seni,9,5/30/2022,Kenneth Brewer,4050000
+134135,Majalah Berita,4,5/30/2022,Kenneth Brewer,960000
+134135,Novel Misteri,5,5/30/2022,Kenneth Brewer,2250000
+134135,Novel Romansa,6,5/30/2022,Kenneth Brewer,3960000
+134136,Alat Tulis,3,5/30/2022,Miguel Roberts,540000
+134136,Buku Anak-Anak,2,5/30/2022,Miguel Roberts,240000
+134136,Majalah Fashion,6,5/30/2022,Miguel Roberts,3960000
+134136,Majalah Berita,5,5/30/2022,Miguel Roberts,100000
+134136,Novel Fiksi Ilmiah,4,5/30/2022,Miguel Roberts,1440000
+134136,Aksesoris Buku,8,5/30/2022,Miguel Roberts,8320000
+134137,Buku Sejarah,4,5/30/2022,David Booth,960000
+134137,Alat Tulis,7,5/30/2022,David Booth,980000
+134137,Buku Anak-Anak,8,5/30/2022,David Booth,3840000
+134137,Majalah Fashion,6,5/30/2022,David Booth,1800000
+134137,Majalah Seni,7,5/30/2022,David Booth,140000
+134137,Novel Fiksi Ilmiah,1,5/30/2022,David Booth,120000
+134137,Buku Fiksi,2,5/30/2022,David Booth,100000
+134137,Buku Biografi,6,5/30/2022,David Booth,900000
+134137,Aksesoris Buku,2,5/30/2022,David Booth,80000
+134138,Alat Tulis,4,5/30/2022,Jeremy Myers,1760000
+134138,Buku Anak-Anak,2,5/30/2022,Jeremy Myers,440000
+134138,Majalah Seni,3,5/30/2022,Jeremy Myers,180000
+134138,Majalah Berita,1,5/30/2022,Jeremy Myers,20000
+134138,Novel Fiksi Ilmiah,7,5/30/2022,Jeremy Myers,1225000
+134138,Novel Misteri,5,5/30/2022,Jeremy Myers,3000000
+134138,Buku Biografi,5,5/30/2022,Jeremy Myers,1250000
+134138,Aksesoris Buku,8,5/30/2022,Jeremy Myers,1600000
+134139,Majalah Berita,2,5/30/2022,Ryan Thomas,80000
+134139,Majalah Seni,1,5/30/2022,Ryan Thomas,20000
+134139,Alat Tulis,1,5/30/2022,Ryan Thomas,130000
+134139,Novel Misteri,2,5/30/2022,Ryan Thomas,200000
+134140,Alat Tulis,2,5/30/2022,Jeremy Walker,480000
+134140,Buku Anak-Anak,3,5/30/2022,Jeremy Walker,225000
+134140,Majalah Fashion,1,5/30/2022,Jeremy Walker,120000
+134140,Buku Fiksi,9,5/30/2022,Jeremy Walker,2025000
+134140,Novel Romansa,7,5/30/2022,Jeremy Walker,2940000
+134141,Buku Sejarah,7,5/30/2022,Larry Carlson,1225000
+134141,Buku Anak-Anak,8,5/30/2022,Larry Carlson,7040000
+134141,Majalah Fashion,2,5/30/2022,Larry Carlson,200000
+134141,Majalah Seni,5,5/30/2022,Larry Carlson,500000
+134141,Novel Romansa,3,5/30/2022,Larry Carlson,1170000
+134142,Majalah Fashion,6,5/30/2022,Christina Hall,120000
+134142,Majalah Seni,1,5/30/2022,Christina Hall,130000
+134142,Majalah Berita,6,5/30/2022,Christina Hall,3600000
+134142,Novel Fiksi Ilmiah,2,5/30/2022,Christina Hall,480000
+134142,Buku Fiksi,2,5/30/2022,Christina Hall,200000
+134142,Buku Biografi,8,5/30/2022,Christina Hall,3200000
+134142,Novel Romansa,6,5/30/2022,Christina Hall,2160000
+134143,Alat Tulis,5,5/30/2022,James Byrd,500000
+134143,Majalah Fashion,8,5/30/2022,James Byrd,7040000
+134143,Majalah Seni,3,5/30/2022,James Byrd,1350000
+134143,Majalah Berita,2,5/30/2022,James Byrd,400000
+134143,Buku Biografi,3,5/30/2022,James Byrd,180000
+134144,Buku Sejarah,8,5/30/2022,Kimberly Patel,1600000
+134144,Buku Fiksi,3,5/30/2022,Kimberly Patel,225000
+134144,Novel Misteri,9,5/30/2022,Kimberly Patel,7290000
+134144,Novel Romansa,6,5/30/2022,Kimberly Patel,5400000
+134144,Aksesoris Buku,5,5/30/2022,Kimberly Patel,2750000
+134145,Alat Tulis,8,5/30/2022,Brian Velez,7040000
+134145,Buku Anak-Anak,9,5/30/2022,Brian Velez,12150000
+134145,Majalah Seni,2,5/30/2022,Brian Velez,100000
+134145,Novel Fiksi Ilmiah,5,5/30/2022,Brian Velez,1500000
+134145,Buku Biografi,5,5/30/2022,Brian Velez,2750000
+134145,Novel Misteri,1,5/30/2022,Brian Velez,50000
+134146,Alat Tulis,6,5/30/2022,Samantha Williams,3240000
+134146,Majalah Fashion,9,5/30/2022,Samantha Williams,7290000
+134146,Novel Misteri,1,5/30/2022,Samantha Williams,110000
+134146,Buku Biografi,1,5/30/2022,Samantha Williams,130000
+134146,Novel Romansa,3,5/30/2022,Samantha Williams,540000
+134146,Aksesoris Buku,5,5/30/2022,Samantha Williams,625000
+134147,Alat Tulis,5,5/30/2022,Eric Waters,2500000
+134147,Buku Anak-Anak,9,5/30/2022,Eric Waters,9720000
+134147,Majalah Fashion,4,5/30/2022,Eric Waters,320000
+134147,Majalah Seni,9,5/30/2022,Eric Waters,7290000
+134147,Novel Fiksi Ilmiah,4,5/30/2022,Eric Waters,320000
+134147,Buku Fiksi,9,5/30/2022,Eric Waters,9720000
+134147,Novel Misteri,6,5/30/2022,Eric Waters,3600000
+134147,Novel Romansa,5,5/30/2022,Eric Waters,625000
+134148,Majalah Seni,9,5/30/2022,Sara Ward,4860000
+134148,Alat Tulis,4,5/30/2022,Sara Ward,320000
+134148,Aksesoris Buku,7,5/30/2022,Sara Ward,5390000
+134148,Majalah Fashion,5,5/30/2022,Sara Ward,3750000
+134149,Alat Tulis,4,5/30/2022,Mark Rodriguez,2080000
+134149,Majalah Fashion,7,5/30/2022,Mark Rodriguez,4410000
+134149,Novel Fiksi Ilmiah,9,5/30/2022,Mark Rodriguez,8910000
+134149,Buku Fiksi,7,5/30/2022,Mark Rodriguez,5880000
+134149,Buku Biografi,5,5/30/2022,Mark Rodriguez,3750000
+134149,Novel Romansa,2,5/30/2022,Mark Rodriguez,80000
+134149,Aksesoris Buku,1,5/30/2022,Mark Rodriguez,20000
+134150,Alat Tulis,3,5/30/2022,William Bond,810000
+134150,Buku Anak-Anak,3,5/30/2022,William Bond,450000
+134150,Majalah Seni,5,5/30/2022,William Bond,1250000
+134150,Buku Biografi,5,5/30/2022,William Bond,2750000
+134150,Aksesoris Buku,9,5/30/2022,William Bond,1620000
+134151,Alat Tulis,6,5/30/2022,Christine Smith,3960000
+134151,Buku Sejarah,6,5/30/2022,Christine Smith,2160000
+134151,Majalah Seni,2,5/30/2022,Christine Smith,520000
+134151,Majalah Berita,9,5/30/2022,Christine Smith,4860000
+134151,Buku Fiksi,9,5/30/2022,Christine Smith,1620000
+134151,Novel Misteri,3,5/30/2022,Christine Smith,180000
+134151,Buku Biografi,6,5/30/2022,Christine Smith,3960000
+134151,Novel Romansa,5,5/30/2022,Christine Smith,1500000
+134152,Buku Sejarah,4,5/30/2022,Joseph Morales,80000
+134152,Majalah Fashion,5,5/30/2022,Joseph Morales,2750000
+134152,Majalah Seni,6,5/30/2022,Joseph Morales,2160000
+134152,Majalah Berita,3,5/30/2022,Joseph Morales,60000
+134152,Buku Fiksi,9,5/30/2022,Joseph Morales,4860000
+134152,Buku Biografi,1,5/30/2022,Joseph Morales,130000
+134152,Aksesoris Buku,8,5/30/2022,Joseph Morales,160000
+134153,Buku Sejarah,8,5/30/2022,Shelly Murphy,7680000
+134153,Alat Tulis,2,5/30/2022,Shelly Murphy,600000
+134153,Buku Anak-Anak,9,5/30/2022,Shelly Murphy,4050000
+134153,Majalah Fashion,2,5/30/2022,Shelly Murphy,440000
+134153,Majalah Seni,4,5/30/2022,Shelly Murphy,2400000
+134153,Buku Biografi,6,5/30/2022,Shelly Murphy,3600000
+134154,Buku Sejarah,6,5/30/2022,Alexander Ramos,900000
+134154,Alat Tulis,7,5/30/2022,Alexander Ramos,7350000
+134154,Majalah Seni,3,5/30/2022,Alexander Ramos,225000
+134154,Buku Fiksi,1,5/30/2022,Alexander Ramos,20000
+134154,Novel Misteri,4,5/30/2022,Alexander Ramos,320000
+134154,Novel Romansa,3,5/30/2022,Alexander Ramos,1170000
+134155,Novel Romansa,1,5/30/2022,Travis Fox,20000
+134155,Majalah Seni,2,5/30/2022,Travis Fox,100000
+134155,Aksesoris Buku,4,5/30/2022,Travis Fox,1440000
+134155,Majalah Fashion,3,5/30/2022,Travis Fox,1080000
+134156,Alat Tulis,8,5/30/2022,Christy Roman,160000
+134156,Buku Sejarah,8,5/30/2022,Christy Roman,1280000
+134156,Buku Anak-Anak,4,5/30/2022,Christy Roman,960000
+134156,Majalah Berita,7,5/30/2022,Christy Roman,2940000
+134156,Aksesoris Buku,5,5/30/2022,Christy Roman,500000
+134157,Alat Tulis,8,5/30/2022,Sherry Ross,6400000
+134157,Buku Sejarah,5,5/30/2022,Sherry Ross,2250000
+134157,Buku Anak-Anak,7,5/30/2022,Sherry Ross,2940000
+134157,Majalah Fashion,4,5/30/2022,Sherry Ross,960000
+134157,Majalah Seni,4,5/30/2022,Sherry Ross,1760000
+134157,Buku Fiksi,3,5/30/2022,Sherry Ross,180000
+134157,Novel Romansa,9,5/30/2022,Sherry Ross,180000
+134157,Aksesoris Buku,7,5/30/2022,Sherry Ross,5390000
+134158,Buku Sejarah,5,5/30/2022,Cynthia Foster,2500000
+134158,Majalah Fashion,7,5/30/2022,Cynthia Foster,1225000
+134158,Majalah Seni,5,5/30/2022,Cynthia Foster,100000
+134158,Buku Fiksi,9,5/30/2022,Cynthia Foster,10530000
+134158,Buku Biografi,2,5/30/2022,Cynthia Foster,520000
+134158,Novel Romansa,9,5/30/2022,Cynthia Foster,180000
+134159,Buku Anak-Anak,9,5/30/2022,Deborah West,2025000
+134159,Majalah Seni,1,5/30/2022,Deborah West,120000
+134159,Majalah Berita,2,5/30/2022,Deborah West,520000
+134159,Novel Fiksi Ilmiah,8,5/30/2022,Deborah West,1280000
+134159,Buku Biografi,1,5/30/2022,Deborah West,150000
+134160,Majalah Seni,8,5/30/2022,Krista Simmons,9600000
+134160,Majalah Berita,3,5/30/2022,Krista Simmons,900000
+134160,Buku Anak-Anak,5,5/30/2022,Krista Simmons,2750000
+134160,Aksesoris Buku,7,5/30/2022,Krista Simmons,2940000
+134161,Alat Tulis,3,5/30/2022,Barbara Livingston,900000
+134161,Buku Anak-Anak,5,5/30/2022,Barbara Livingston,100000
+134161,Majalah Fashion,8,5/30/2022,Barbara Livingston,1280000
+134161,Majalah Seni,8,5/30/2022,Barbara Livingston,7680000
+134161,Buku Fiksi,9,5/30/2022,Barbara Livingston,180000
+134161,Novel Misteri,1,5/30/2022,Barbara Livingston,25000
+134161,Aksesoris Buku,6,5/30/2022,Barbara Livingston,3600000
+134162,Buku Sejarah,7,5/30/2022,William Lewis,5390000
+134162,Alat Tulis,3,5/30/2022,William Lewis,1080000
+134162,Majalah Seni,4,5/30/2022,William Lewis,400000
+134162,Majalah Berita,4,5/30/2022,William Lewis,1600000
+134162,Novel Fiksi Ilmiah,9,5/30/2022,William Lewis,8910000
+134162,Novel Misteri,2,5/30/2022,William Lewis,600000
+134162,Buku Biografi,5,5/30/2022,William Lewis,3750000
+134162,Novel Romansa,1,5/30/2022,William Lewis,50000
+134163,Alat Tulis,1,5/30/2022,Leslie Martinez,120000
+134163,Buku Sejarah,1,5/30/2022,Leslie Martinez,50000
+134163,Majalah Fashion,7,5/30/2022,Leslie Martinez,980000
+134163,Majalah Seni,8,5/30/2022,Leslie Martinez,1280000
+134163,Buku Biografi,1,5/30/2022,Leslie Martinez,60000
+134163,Novel Romansa,1,5/30/2022,Leslie Martinez,25000
+134164,Alat Tulis,2,5/30/2022,Joshua Jackson,80000
+134164,Buku Anak-Anak,6,5/30/2022,Joshua Jackson,720000
+134164,Majalah Fashion,5,5/30/2022,Joshua Jackson,1500000
+134164,Majalah Berita,3,5/30/2022,Joshua Jackson,1170000
+134164,Novel Fiksi Ilmiah,4,5/30/2022,Joshua Jackson,80000
+134164,Buku Fiksi,9,5/30/2022,Joshua Jackson,1620000
+134164,Novel Misteri,2,5/30/2022,Joshua Jackson,480000
+134164,Novel Romansa,3,5/30/2022,Joshua Jackson,180000
+134165,Buku Sejarah,5,5/30/2022,Jodi Mills,1250000
+134165,Majalah Fashion,2,5/30/2022,Jodi Mills,80000
+134165,Novel Fiksi Ilmiah,5,5/30/2022,Jodi Mills,3000000
+134165,Novel Romansa,2,5/30/2022,Jodi Mills,80000
+134165,Aksesoris Buku,9,5/30/2022,Jodi Mills,8910000
+134166,Majalah Berita,3,5/30/2022,Kathleen Obrien,1080000
+134166,Novel Fiksi Ilmiah,6,5/30/2022,Kathleen Obrien,4680000
+134166,Buku Fiksi,3,5/30/2022,Kathleen Obrien,1080000
+134166,Novel Romansa,7,5/30/2022,Kathleen Obrien,4410000
+134166,Aksesoris Buku,4,5/30/2022,Kathleen Obrien,1440000
+134167,Buku Fiksi,3,5/30/2022,David Wilson,60000
+134167,Alat Tulis,3,5/30/2022,David Wilson,225000
+134167,Novel Misteri,3,5/30/2022,David Wilson,60000
+134167,Buku Biografi,4,5/30/2022,David Wilson,2080000
+134168,Alat Tulis,8,5/30/2022,Margaret Mccormick,1600000
+134168,Buku Sejarah,1,5/30/2022,Margaret Mccormick,20000
+134168,Buku Anak-Anak,8,5/30/2022,Margaret Mccormick,7680000
+134168,Novel Fiksi Ilmiah,3,5/30/2022,Margaret Mccormick,180000
+134168,Buku Fiksi,9,5/30/2022,Margaret Mccormick,8100000
+134168,Aksesoris Buku,5,5/30/2022,Margaret Mccormick,1500000
+134169,Buku Fiksi,4,5/30/2022,Katie Martinez,800000
+134169,Majalah Berita,1,5/30/2022,Katie Martinez,25000
+134169,Buku Anak-Anak,9,5/30/2022,Katie Martinez,4050000
+134169,Majalah Fashion,7,5/30/2022,Katie Martinez,5880000
+134170,Alat Tulis,9,5/30/2022,Lee Williams,180000
+134170,Buku Anak-Anak,4,5/30/2022,Lee Williams,1920000
+134170,Majalah Fashion,9,5/30/2022,Lee Williams,1620000
+134170,Majalah Seni,2,5/30/2022,Lee Williams,520000
+134170,Majalah Berita,8,5/30/2022,Lee Williams,160000
+134170,Novel Fiksi Ilmiah,3,5/30/2022,Lee Williams,1170000
+134170,Novel Misteri,8,5/30/2022,Lee Williams,6400000
+134170,Novel Romansa,7,5/30/2022,Lee Williams,6370000
+134171,Alat Tulis,5,5/30/2022,William Williams,100000
+134171,Buku Anak-Anak,9,5/30/2022,William Williams,7290000
+134171,Majalah Fashion,3,5/30/2022,William Williams,1080000
+134171,Majalah Berita,2,5/30/2022,William Williams,240000
+134171,Novel Fiksi Ilmiah,6,5/30/2022,William Williams,120000
+134171,Novel Misteri,4,5/30/2022,William Williams,1600000
+134171,Novel Romansa,3,5/30/2022,William Williams,450000
+134172,Alat Tulis,7,5/30/2022,William Johnson,140000
+134172,Buku Sejarah,2,5/30/2022,William Johnson,440000
+134172,Majalah Seni,6,5/30/2022,William Johnson,2160000
+134172,Buku Biografi,2,5/30/2022,William Johnson,240000
+134172,Aksesoris Buku,3,5/30/2022,William Johnson,1350000
+134173,Buku Sejarah,8,5/30/2022,Gregory Cook,6400000
+134173,Majalah Fashion,3,5/30/2022,Gregory Cook,1350000
+134173,Novel Fiksi Ilmiah,3,5/30/2022,Gregory Cook,900000
+134173,Novel Misteri,9,5/30/2022,Gregory Cook,1620000
+134173,Novel Romansa,7,5/30/2022,Gregory Cook,5880000
+134174,Alat Tulis,9,5/30/2022,Sandra Grant,2025000
+134174,Buku Anak-Anak,8,5/30/2022,Sandra Grant,3200000
+134174,Majalah Seni,3,5/30/2022,Sandra Grant,990000
+134174,Buku Fiksi,7,5/30/2022,Sandra Grant,1225000
+134174,Buku Biografi,4,5/30/2022,Sandra Grant,80000
+134174,Novel Misteri,4,5/30/2022,Sandra Grant,320000
+134174,Novel Romansa,5,5/30/2022,Sandra Grant,2750000
+134174,Aksesoris Buku,8,5/30/2022,Sandra Grant,7040000
+134175,Alat Tulis,4,5/30/2022,Sean Waters,2080000
+134175,Buku Anak-Anak,6,5/30/2022,Sean Waters,120000
+134175,Buku Fiksi,1,5/30/2022,Sean Waters,100000
+134175,Novel Romansa,4,5/30/2022,Sean Waters,1920000
+134175,Aksesoris Buku,6,5/30/2022,Sean Waters,720000
+134176,Alat Tulis,4,5/30/2022,Jill Jones,80000
+134176,Buku Anak-Anak,2,5/30/2022,Jill Jones,480000
+134176,Buku Biografi,1,5/30/2022,Jill Jones,100000
+134176,Novel Romansa,3,5/30/2022,Jill Jones,180000
+134176,Aksesoris Buku,8,5/30/2022,Jill Jones,6400000
+134177,Buku Sejarah,5,5/30/2022,Ann Guzman,2750000
+134177,Majalah Fashion,5,5/30/2022,Ann Guzman,2750000
+134177,Majalah Seni,8,5/30/2022,Ann Guzman,7040000
+134177,Novel Misteri,1,5/30/2022,Ann Guzman,110000
+134177,Buku Biografi,9,5/30/2022,Ann Guzman,10530000
+134177,Novel Romansa,1,5/30/2022,Ann Guzman,20000
+134177,Aksesoris Buku,6,5/30/2022,Ann Guzman,720000
+134178,Alat Tulis,1,5/30/2022,Katie Webb,150000
+134178,Buku Sejarah,6,5/30/2022,Katie Webb,1800000
+134178,Buku Anak-Anak,1,5/30/2022,Katie Webb,130000
+134178,Majalah Fashion,5,5/30/2022,Katie Webb,625000
+134178,Buku Fiksi,9,5/30/2022,Katie Webb,180000
+134178,Novel Misteri,7,5/30/2022,Katie Webb,140000
+134178,Aksesoris Buku,2,5/30/2022,Katie Webb,80000
+134179,Alat Tulis,1,5/30/2022,Jessica Casey,25000
+134179,Buku Anak-Anak,7,5/30/2022,Jessica Casey,980000
+134179,Majalah Seni,4,5/30/2022,Jessica Casey,1920000
+134179,Majalah Berita,5,5/30/2022,Jessica Casey,500000
+134179,Buku Fiksi,8,5/30/2022,Jessica Casey,7680000
+134179,Novel Romansa,6,5/30/2022,Jessica Casey,4320000
+134179,Aksesoris Buku,5,5/30/2022,Jessica Casey,3750000
+134180,Novel Fiksi Ilmiah,9,5/30/2022,Robin Robbins,9720000
+134180,Buku Anak-Anak,9,5/30/2022,Robin Robbins,2025000
+134180,Aksesoris Buku,5,5/30/2022,Robin Robbins,3000000
+134180,Majalah Fashion,1,5/30/2022,Robin Robbins,90000
+134181,Alat Tulis,6,5/30/2022,Jennifer Jones,900000
+134181,Novel Fiksi Ilmiah,2,5/30/2022,Jennifer Jones,100000
+134181,Novel Misteri,5,5/30/2022,Jennifer Jones,625000
+134181,Buku Biografi,9,5/30/2022,Jennifer Jones,8100000
+134181,Aksesoris Buku,4,5/30/2022,Jennifer Jones,1440000
+134182,Buku Sejarah,5,5/30/2022,Jessica Miller,2250000
+134182,Alat Tulis,8,5/30/2022,Jessica Miller,8320000
+134182,Buku Anak-Anak,3,5/30/2022,Jessica Miller,60000
+134182,Majalah Berita,6,5/30/2022,Jessica Miller,120000
+134182,Buku Biografi,2,5/30/2022,Jessica Miller,200000
+134182,Novel Romansa,4,5/30/2022,Jessica Miller,320000
+134182,Aksesoris Buku,5,5/30/2022,Jessica Miller,2250000
+134183,Buku Sejarah,8,5/30/2022,Charles Parker DDS,7040000
+134183,Majalah Seni,2,5/30/2022,Charles Parker DDS,400000
+134183,Majalah Berita,8,5/30/2022,Charles Parker DDS,3840000
+134183,Novel Misteri,8,5/30/2022,Charles Parker DDS,160000
+134183,Buku Biografi,6,5/30/2022,Charles Parker DDS,4320000
+134183,Novel Romansa,5,5/30/2022,Charles Parker DDS,500000
+134183,Aksesoris Buku,8,5/30/2022,Charles Parker DDS,8320000
+134184,Buku Sejarah,3,5/30/2022,Mary Mcdonald,225000
+134184,Majalah Fashion,2,5/30/2022,Mary Mcdonald,480000
+134184,Majalah Berita,9,5/30/2022,Mary Mcdonald,2025000
+134184,Novel Misteri,3,5/30/2022,Mary Mcdonald,1080000
+134184,Buku Biografi,4,5/30/2022,Mary Mcdonald,800000
+134184,Aksesoris Buku,6,5/30/2022,Mary Mcdonald,1800000
+134185,Buku Fiksi,2,5/30/2022,Jodi Curry,40000
+134185,Buku Biografi,8,5/30/2022,Jodi Curry,7680000
+134185,Novel Misteri,8,5/30/2022,Jodi Curry,3200000
+134185,Novel Fiksi Ilmiah,8,5/30/2022,Jodi Curry,8320000
+134186,Alat Tulis,6,5/30/2022,Jack Powell,3960000
+134186,Buku Anak-Anak,7,5/30/2022,Jack Powell,7350000
+134186,Majalah Fashion,1,5/30/2022,Jack Powell,120000
+134186,Majalah Berita,3,5/30/2022,Jack Powell,1350000
+134186,Buku Fiksi,6,5/30/2022,Jack Powell,720000
+134186,Novel Misteri,7,5/30/2022,Jack Powell,7350000
+134187,Alat Tulis,7,5/30/2022,Brandon Kramer,5390000
+134187,Buku Anak-Anak,3,5/30/2022,Brandon Kramer,180000
+134187,Majalah Seni,6,5/30/2022,Brandon Kramer,900000
+134187,Majalah Berita,2,5/30/2022,Brandon Kramer,80000
+134187,Buku Fiksi,9,5/30/2022,Brandon Kramer,9720000
+134187,Novel Misteri,6,5/30/2022,Brandon Kramer,1800000
+134187,Novel Romansa,6,5/30/2022,Brandon Kramer,3960000
+134187,Aksesoris Buku,3,5/30/2022,Brandon Kramer,900000
+134188,Alat Tulis,2,5/30/2022,Christina Krueger,360000
+134188,Buku Sejarah,2,5/30/2022,Christina Krueger,440000
+134188,Buku Anak-Anak,7,5/30/2022,Christina Krueger,2940000
+134188,Majalah Berita,6,5/30/2022,Christina Krueger,4680000
+134188,Novel Fiksi Ilmiah,3,5/30/2022,Christina Krueger,990000
+134188,Novel Misteri,8,5/30/2022,Christina Krueger,1280000
+134188,Buku Biografi,4,5/30/2022,Christina Krueger,320000
+134188,Novel Romansa,8,5/30/2022,Christina Krueger,5760000
+134189,Majalah Berita,6,5/30/2022,Brian Black,120000
+134189,Alat Tulis,3,5/30/2022,Brian Black,900000
+134189,Novel Misteri,2,5/30/2022,Brian Black,200000
+134189,Buku Biografi,5,5/30/2022,Brian Black,500000
+134190,Majalah Seni,5,5/30/2022,Joshua Moore,3750000
+134190,Majalah Berita,4,5/30/2022,Joshua Moore,2400000
+134190,Novel Misteri,7,5/30/2022,Joshua Moore,4900000
+134190,Novel Fiksi Ilmiah,9,5/30/2022,Joshua Moore,9720000
+134191,Alat Tulis,5,5/30/2022,Karen Moore,2250000
+134191,Buku Sejarah,9,5/30/2022,Karen Moore,7290000
+134191,Buku Anak-Anak,1,5/30/2022,Karen Moore,110000
+134191,Novel Misteri,5,5/30/2022,Karen Moore,1500000
+134191,Buku Biografi,8,5/30/2022,Karen Moore,7040000
+134192,Alat Tulis,4,5/30/2022,Jason Hess,80000
+134192,Buku Anak-Anak,1,5/30/2022,Jason Hess,25000
+134192,Majalah Fashion,2,5/30/2022,Jason Hess,100000
+134192,Majalah Seni,4,5/30/2022,Jason Hess,80000
+134192,Novel Fiksi Ilmiah,8,5/30/2022,Jason Hess,7040000
+134192,Buku Fiksi,3,5/30/2022,Jason Hess,1350000
+134192,Novel Misteri,9,5/30/2022,Jason Hess,2025000
+134192,Aksesoris Buku,2,5/30/2022,Jason Hess,80000
+134193,Alat Tulis,3,5/30/2022,Kelly Green,900000
+134193,Buku Anak-Anak,2,5/30/2022,Kelly Green,360000
+134193,Buku Biografi,2,5/30/2022,Kelly Green,360000
+134193,Novel Misteri,1,5/30/2022,Kelly Green,50000
+134193,Novel Romansa,5,5/30/2022,Kelly Green,3000000
+134193,Aksesoris Buku,2,5/30/2022,Kelly Green,100000
+134194,Novel Romansa,3,5/30/2022,Lynn Horton,1080000
+134194,Buku Sejarah,3,5/30/2022,Lynn Horton,1350000
+134194,Buku Biografi,8,5/30/2022,Lynn Horton,160000
+134194,Novel Fiksi Ilmiah,1,5/30/2022,Lynn Horton,100000
+134195,Buku Sejarah,7,5/30/2022,Becky Edwards,4410000
+134195,Majalah Fashion,7,5/30/2022,Becky Edwards,4410000
+134195,Majalah Seni,8,5/30/2022,Becky Edwards,5760000
+134195,Buku Biografi,9,5/30/2022,Becky Edwards,8910000
+134195,Novel Romansa,3,5/30/2022,Becky Edwards,1170000
+134196,Buku Sejarah,7,5/30/2022,Patrick Morris,7350000
+134196,Alat Tulis,1,5/30/2022,Patrick Morris,20000
+134196,Buku Anak-Anak,4,5/30/2022,Patrick Morris,800000
+134196,Majalah Fashion,5,5/30/2022,Patrick Morris,500000
+134196,Majalah Seni,9,5/30/2022,Patrick Morris,9720000
+134196,Novel Fiksi Ilmiah,3,5/30/2022,Patrick Morris,990000
+134196,Aksesoris Buku,3,5/30/2022,Patrick Morris,540000
+134197,Buku Anak-Anak,3,5/30/2022,Angela Garrison,1080000
+134197,Majalah Seni,5,5/30/2022,Angela Garrison,2500000
+134197,Majalah Berita,6,5/30/2022,Angela Garrison,720000
+134197,Buku Fiksi,3,5/30/2022,Angela Garrison,180000
+134197,Novel Misteri,4,5/30/2022,Angela Garrison,320000
+134197,Buku Biografi,8,5/30/2022,Angela Garrison,3840000
+134197,Novel Romansa,7,5/30/2022,Angela Garrison,980000
+134197,Aksesoris Buku,6,5/30/2022,Angela Garrison,900000
+134198,Alat Tulis,4,5/30/2022,Raven Collins,80000
+134198,Buku Anak-Anak,8,5/30/2022,Raven Collins,1600000
+134198,Majalah Fashion,7,5/30/2022,Raven Collins,980000
+134198,Majalah Seni,7,5/30/2022,Raven Collins,5390000
+134198,Majalah Berita,9,5/30/2022,Raven Collins,8910000
+134198,Buku Fiksi,2,5/30/2022,Raven Collins,520000
+134198,Buku Biografi,2,5/30/2022,Raven Collins,40000
+134198,Aksesoris Buku,6,5/30/2022,Raven Collins,2160000
+134199,Alat Tulis,9,5/30/2022,Matthew Bryant,1620000
+134199,Buku Anak-Anak,8,5/30/2022,Matthew Bryant,160000
+134199,Majalah Fashion,1,5/30/2022,Matthew Bryant,110000
+134199,Novel Misteri,9,5/30/2022,Matthew Bryant,7290000
+134199,Novel Romansa,4,5/30/2022,Matthew Bryant,320000
+134199,Aksesoris Buku,6,5/30/2022,Matthew Bryant,4680000
+134200,Buku Anak-Anak,6,5/30/2022,Jennifer Martinez,120000
+134200,Majalah Fashion,1,5/30/2022,Jennifer Martinez,100000
+134200,Majalah Seni,6,5/30/2022,Jennifer Martinez,4680000
+134200,Buku Biografi,3,5/30/2022,Jennifer Martinez,810000
+134200,Novel Romansa,3,5/30/2022,Jennifer Martinez,180000
+134200,Aksesoris Buku,4,5/30/2022,Jennifer Martinez,80000
+134201,Buku Sejarah,1,5/30/2022,Brett Hunt,100000
+134201,Majalah Seni,5,5/30/2022,Brett Hunt,1500000
+134201,Novel Fiksi Ilmiah,2,5/30/2022,Brett Hunt,200000
+134201,Buku Fiksi,1,5/30/2022,Brett Hunt,150000
+134201,Novel Misteri,5,5/30/2022,Brett Hunt,100000
+134201,Buku Biografi,1,5/30/2022,Brett Hunt,100000
+134202,Alat Tulis,4,5/30/2022,Justin Williams,1760000
+134202,Buku Sejarah,3,5/30/2022,Justin Williams,1170000
+134202,Buku Anak-Anak,8,5/30/2022,Justin Williams,6400000
+134202,Buku Fiksi,9,5/30/2022,Justin Williams,1620000
+134202,Novel Misteri,9,5/30/2022,Justin Williams,1620000
+134202,Buku Biografi,5,5/30/2022,Justin Williams,100000
+134202,Aksesoris Buku,9,5/30/2022,Justin Williams,7290000
+134203,Novel Misteri,8,5/30/2022,John Hicks,6400000
+134203,Buku Biografi,7,5/30/2022,John Hicks,2940000
+134203,Aksesoris Buku,6,5/30/2022,John Hicks,4320000
+134203,Novel Fiksi Ilmiah,1,5/30/2022,John Hicks,20000
+134204,Alat Tulis,7,5/30/2022,Peter Lopez,7350000
+134204,Majalah Fashion,4,5/30/2022,Peter Lopez,400000
+134204,Majalah Berita,2,5/30/2022,Peter Lopez,360000
+134204,Novel Fiksi Ilmiah,1,5/30/2022,Peter Lopez,20000
+134204,Buku Biografi,1,5/30/2022,Peter Lopez,20000
+134204,Novel Misteri,1,5/30/2022,Peter Lopez,150000
+134204,Aksesoris Buku,5,5/30/2022,Peter Lopez,2250000
+134205,Alat Tulis,3,5/30/2022,Antonio Owens,180000
+134205,Majalah Fashion,7,5/30/2022,Antonio Owens,980000
+134205,Novel Fiksi Ilmiah,9,5/30/2022,Antonio Owens,9720000
+134205,Buku Fiksi,3,5/30/2022,Antonio Owens,1350000
+134205,Buku Biografi,3,5/30/2022,Antonio Owens,900000
+134205,Novel Romansa,2,5/30/2022,Antonio Owens,360000
+134205,Aksesoris Buku,3,5/30/2022,Antonio Owens,180000
+134206,Buku Sejarah,3,8/26/2022,Stephanie Lindsey,990000
+134206,Alat Tulis,4,10/4/2022,Stephanie Lindsey,320000
+134206,Majalah Fashion,8,11/16/2022,Stephanie Lindsey,3840000
+134206,Majalah Seni,1,2/4/2023,Stephanie Lindsey,25000
+134206,Novel Fiksi Ilmiah,2,5/14/2023,Stephanie Lindsey,440000
+134206,Novel Misteri,1,8/4/2023,Stephanie Lindsey,50000
+134206,Aksesoris Buku,5,8/4/2023,Stephanie Lindsey,500000
+134207,Alat Tulis,8,8/4/2023,John Torres,7680000
+134207,Buku Anak-Anak,9,8/4/2023,John Torres,1620000
+134207,Majalah Berita,1,8/4/2023,John Torres,90000
+134207,Buku Fiksi,6,8/4/2023,John Torres,3960000
+134207,Buku Biografi,4,8/4/2023,John Torres,1440000
+134207,Aksesoris Buku,3,8/4/2023,John Torres,1080000
+134208,Buku Fiksi,9,8/4/2023,Taylor Brooks,2025000
+134208,Alat Tulis,7,8/4/2023,Taylor Brooks,2450000
+134208,Novel Misteri,9,8/4/2023,Taylor Brooks,8910000
+134208,Buku Anak-Anak,4,8/4/2023,Taylor Brooks,320000
+134209,Buku Sejarah,8,8/4/2023,Emily Ruiz,7680000
+134209,Buku Fiksi,5,8/4/2023,Emily Ruiz,2250000
+134209,Novel Misteri,9,8/4/2023,Emily Ruiz,1620000
+134209,Novel Romansa,9,8/4/2023,Emily Ruiz,180000
+134209,Aksesoris Buku,1,8/4/2023,Emily Ruiz,110000
+134210,Buku Sejarah,1,8/4/2023,Lucas Banks,20000
+134210,Alat Tulis,2,8/4/2023,Lucas Banks,440000
+134210,Majalah Fashion,9,8/4/2023,Lucas Banks,12150000
+134210,Majalah Berita,6,8/4/2023,Lucas Banks,2160000
+134210,Novel Fiksi Ilmiah,7,8/4/2023,Lucas Banks,980000
+134210,Buku Fiksi,5,8/4/2023,Lucas Banks,2500000
+134210,Novel Misteri,9,8/4/2023,Lucas Banks,1620000
+134210,Aksesoris Buku,5,8/4/2023,Lucas Banks,2750000
+134211,Novel Romansa,4,8/4/2023,Jennifer Clark,960000
+134211,Alat Tulis,1,8/4/2023,Jennifer Clark,20000
+134211,Majalah Berita,2,8/4/2023,Jennifer Clark,80000
+134211,Buku Sejarah,3,8/4/2023,Jennifer Clark,225000
+134212,Majalah Seni,3,8/4/2023,Danielle Brandt,180000
+134212,Majalah Berita,4,8/4/2023,Danielle Brandt,320000
+134212,Novel Misteri,5,8/4/2023,Danielle Brandt,100000
+134212,Buku Biografi,6,8/4/2023,Danielle Brandt,120000
+134212,Novel Romansa,5,8/4/2023,Danielle Brandt,2250000
+134213,Alat Tulis,9,8/4/2023,Kimberly Webb,8100000
+134213,Buku Sejarah,1,10/19/2023,Kimberly Webb,20000
+134213,Buku Anak-Anak,9,11/20/2023,Kimberly Webb,10530000
+134213,Buku Fiksi,3,1/18/2024,Kimberly Webb,810000
+134213,Novel Misteri,8,4/15/2024,Kimberly Webb,5760000
+134214,Buku Sejarah,6,4/15/2024,Robert Mitchell,5400000
+134214,Alat Tulis,2,4/30/2024,Robert Mitchell,440000
+134214,Buku Anak-Anak,5,4/30/2024,Robert Mitchell,500000
+134214,Novel Fiksi Ilmiah,2,4/30/2024,Robert Mitchell,80000
+134214,Buku Fiksi,5,4/30/2024,Robert Mitchell,2750000
+134214,Novel Romansa,5,4/30/2024,Robert Mitchell,500000
+134214,Aksesoris Buku,1,4/30/2024,Robert Mitchell,20000
+134215,Novel Fiksi Ilmiah,8,4/30/2024,Kevin Arnold,1600000
+134215,Buku Sejarah,3,4/30/2024,Kevin Arnold,1350000
+134215,Aksesoris Buku,1,4/30/2024,Kevin Arnold,20000
+134215,Majalah Fashion,6,4/30/2024,Kevin Arnold,3960000
+134216,Alat Tulis,8,4/30/2024,James Johnson,3200000
+134216,Majalah Fashion,7,4/30/2024,James Johnson,980000
+134216,Majalah Seni,5,4/30/2024,James Johnson,2750000
+134216,Novel Fiksi Ilmiah,9,4/30/2024,James Johnson,4860000
+134216,Novel Misteri,9,4/30/2024,James Johnson,180000
+134217,Alat Tulis,3,4/30/2024,Daniel Andersen,180000
+134217,Majalah Fashion,1,4/30/2024,Daniel Andersen,60000
+134217,Majalah Seni,2,4/30/2024,Daniel Andersen,480000
+134217,Majalah Berita,7,4/30/2024,Daniel Andersen,1225000
+134217,Novel Fiksi Ilmiah,5,4/30/2024,Daniel Andersen,100000
+134217,Novel Misteri,2,4/30/2024,Daniel Andersen,400000
+134217,Novel Romansa,7,4/30/2024,Daniel Andersen,2450000
+134218,Alat Tulis,1,4/30/2024,Jordan Dougherty,150000
+134218,Buku Sejarah,6,4/30/2024,Jordan Dougherty,1800000
+134218,Buku Anak-Anak,9,4/30/2024,Jordan Dougherty,4050000
+134218,Buku Fiksi,9,4/30/2024,Jordan Dougherty,12150000
+134218,Novel Misteri,9,4/30/2024,Jordan Dougherty,8910000
+134218,Buku Biografi,5,4/30/2024,Jordan Dougherty,3250000
+134218,Aksesoris Buku,3,4/30/2024,Jordan Dougherty,225000
+134219,Alat Tulis,6,4/30/2024,Cynthia Townsend,5400000
+134219,Buku Anak-Anak,9,4/30/2024,Cynthia Townsend,8100000
+134219,Majalah Seni,9,4/30/2024,Cynthia Townsend,180000
+134219,Novel Fiksi Ilmiah,9,4/30/2024,Cynthia Townsend,9720000
+134219,Novel Misteri,5,4/30/2024,Cynthia Townsend,625000
+134220,Alat Tulis,3,4/30/2024,Megan Kramer,990000
+134220,Majalah Berita,2,4/30/2024,Megan Kramer,240000
+134220,Buku Biografi,7,4/30/2024,Megan Kramer,4410000
+134220,Buku Sejarah,1,4/30/2024,Megan Kramer,130000
+134221,Buku Sejarah,9,4/30/2024,Tracy Taylor,10530000
+134221,Majalah Fashion,5,4/30/2024,Tracy Taylor,3750000
+134221,Majalah Seni,4,4/30/2024,Tracy Taylor,1920000
+134221,Novel Fiksi Ilmiah,1,4/30/2024,Tracy Taylor,20000
+134221,Buku Fiksi,5,4/30/2024,Tracy Taylor,3000000
+134222,Alat Tulis,3,4/30/2024,Stephen Harris,450000
+134222,Buku Sejarah,5,4/30/2024,Stephen Harris,625000
+134222,Majalah Fashion,3,4/30/2024,Stephen Harris,900000
+134222,Novel Fiksi Ilmiah,8,4/30/2024,Stephen Harris,1280000
+134222,Buku Biografi,1,4/30/2024,Stephen Harris,130000
+134222,Novel Romansa,3,4/30/2024,Stephen Harris,900000
+134223,Alat Tulis,2,4/30/2024,Mary Clarke,40000
+134223,Buku Anak-Anak,6,4/30/2024,Mary Clarke,3960000
+134223,Novel Fiksi Ilmiah,1,4/30/2024,Mary Clarke,110000
+134223,Buku Fiksi,1,4/30/2024,Mary Clarke,20000
+134223,Aksesoris Buku,4,4/30/2024,Mary Clarke,800000
+134224,Alat Tulis,5,4/30/2024,Laura Perez,100000
+134224,Majalah Fashion,4,4/30/2024,Laura Perez,320000
+134224,Majalah Seni,2,4/30/2024,Laura Perez,80000
+134224,Buku Biografi,9,4/30/2024,Laura Perez,12150000
+134224,Aksesoris Buku,3,4/30/2024,Laura Perez,225000
+134225,Alat Tulis,4,4/30/2024,Daniel Stewart,1600000
+134225,Buku Sejarah,8,4/30/2024,Daniel Stewart,7040000
+134225,Majalah Fashion,2,4/30/2024,Daniel Stewart,240000
+134225,Majalah Berita,2,4/30/2024,Daniel Stewart,100000
+134225,Buku Fiksi,9,4/30/2024,Daniel Stewart,12150000
+134225,Buku Biografi,4,4/30/2024,Daniel Stewart,1920000
+134225,Novel Misteri,6,4/30/2024,Daniel Stewart,1800000
+134225,Novel Romansa,6,4/30/2024,Daniel Stewart,720000
+134226,Novel Romansa,5,4/30/2024,Kyle Thomas,625000
+134226,Majalah Berita,3,4/30/2024,Kyle Thomas,180000
+134226,Novel Misteri,5,4/30/2024,Kyle Thomas,100000
+134226,Novel Fiksi Ilmiah,4,4/30/2024,Kyle Thomas,320000
+134227,Alat Tulis,2,4/30/2024,Kyle Mejia,240000
+134227,Novel Misteri,2,4/30/2024,Kyle Mejia,480000
+134227,Aksesoris Buku,2,4/30/2024,Kyle Mejia,360000
+134227,Novel Fiksi Ilmiah,3,4/30/2024,Kyle Mejia,450000
+134228,Alat Tulis,2,4/30/2024,James Gaines,80000
+134228,Buku Anak-Anak,4,4/30/2024,James Gaines,80000
+134228,Majalah Seni,8,4/30/2024,James Gaines,3200000
+134228,Majalah Berita,3,4/30/2024,James Gaines,540000
+134228,Buku Biografi,5,4/30/2024,James Gaines,2750000
+134228,Novel Misteri,8,4/30/2024,James Gaines,9600000
+134229,Buku Sejarah,1,4/30/2024,Patricia Knapp,130000
+134229,Alat Tulis,3,4/30/2024,Patricia Knapp,450000
+134229,Buku Anak-Anak,8,4/30/2024,Patricia Knapp,3200000
+134229,Majalah Fashion,5,4/30/2024,Patricia Knapp,2250000
+134229,Majalah Seni,7,4/30/2024,Patricia Knapp,140000
+134229,Majalah Berita,3,4/30/2024,Patricia Knapp,540000
+134229,Novel Misteri,4,4/30/2024,Patricia Knapp,400000
+134229,Novel Romansa,6,4/30/2024,Patricia Knapp,720000
+134230,Buku Sejarah,8,4/30/2024,Jordan Carr,1280000
+134230,Majalah Berita,7,4/30/2024,Jordan Carr,1225000
+134230,Novel Misteri,1,4/30/2024,Jordan Carr,120000
+134230,Novel Romansa,3,4/30/2024,Jordan Carr,1170000
+134230,Aksesoris Buku,2,4/30/2024,Jordan Carr,80000
+134231,Alat Tulis,2,4/30/2024,Doris Guerra,480000
+134231,Majalah Seni,5,4/30/2024,Doris Guerra,625000
+134231,Novel Fiksi Ilmiah,3,4/30/2024,Doris Guerra,990000
+134231,Buku Fiksi,7,4/30/2024,Doris Guerra,2940000
+134231,Novel Misteri,2,4/30/2024,Doris Guerra,600000
+134232,Alat Tulis,6,4/30/2024,Robert James,1800000
+134232,Buku Anak-Anak,1,4/30/2024,Robert James,100000
+134232,Majalah Fashion,3,4/30/2024,Robert James,540000
+134232,Majalah Seni,5,4/30/2024,Robert James,625000
+134232,Novel Fiksi Ilmiah,5,4/30/2024,Robert James,3250000
+134232,Novel Romansa,1,4/30/2024,Robert James,25000
+134232,Aksesoris Buku,8,4/30/2024,Robert James,7680000
+134233,Majalah Berita,6,4/30/2024,Rebecca Chavez,4680000
+134233,Alat Tulis,8,4/30/2024,Rebecca Chavez,1280000
+134233,Aksesoris Buku,4,4/30/2024,Rebecca Chavez,400000
+134233,Novel Romansa,2,4/30/2024,Rebecca Chavez,100000
+134234,Alat Tulis,6,4/30/2024,Patrick Padilla,720000
+134234,Buku Sejarah,5,4/30/2024,Patrick Padilla,500000
+134234,Buku Anak-Anak,3,4/30/2024,Patrick Padilla,990000
+134234,Novel Romansa,2,4/30/2024,Patrick Padilla,480000
+134234,Aksesoris Buku,6,4/30/2024,Patrick Padilla,4320000
+134235,Majalah Seni,8,4/30/2024,Paul Swanson,160000
+134235,Majalah Berita,5,4/30/2024,Paul Swanson,2750000
+134235,Novel Fiksi Ilmiah,6,4/30/2024,Paul Swanson,5400000
+134235,Novel Misteri,1,4/30/2024,Paul Swanson,50000
+134235,Buku Biografi,1,4/30/2024,Paul Swanson,150000
+134236,Buku Sejarah,4,4/30/2024,Kathryn Munoz,2400000
+134236,Buku Anak-Anak,1,4/30/2024,Kathryn Munoz,90000
+134236,Majalah Fashion,6,4/30/2024,Kathryn Munoz,720000
+134236,Majalah Seni,6,4/30/2024,Kathryn Munoz,900000
+134236,Majalah Berita,7,4/30/2024,Kathryn Munoz,2940000
+134236,Novel Misteri,3,4/30/2024,Kathryn Munoz,900000
+134237,Buku Sejarah,4,4/30/2024,Jennifer Harper,1920000
+134237,Alat Tulis,8,4/30/2024,Jennifer Harper,1280000
+134237,Majalah Berita,6,4/30/2024,Jennifer Harper,4320000
+134237,Buku Fiksi,9,4/30/2024,Jennifer Harper,12150000
+134237,Novel Romansa,5,4/30/2024,Jennifer Harper,2750000
+134237,Aksesoris Buku,2,4/30/2024,Jennifer Harper,520000
+134238,Alat Tulis,5,4/30/2024,Jacob Pope,500000
+134238,Buku Anak-Anak,9,4/30/2024,Jacob Pope,4860000
+134238,Majalah Berita,4,4/30/2024,Jacob Pope,80000
+134238,Novel Fiksi Ilmiah,9,4/30/2024,Jacob Pope,4860000
+134238,Buku Fiksi,8,4/30/2024,Jacob Pope,3200000
+134238,Novel Misteri,4,4/30/2024,Jacob Pope,960000
+134238,Novel Romansa,2,4/30/2024,Jacob Pope,80000
+134238,Aksesoris Buku,6,4/30/2024,Jacob Pope,120000
+134239,Novel Romansa,2,4/30/2024,Katherine Benitez,520000
+134239,Novel Misteri,5,4/30/2024,Katherine Benitez,3000000
+134239,Buku Biografi,8,4/30/2024,Katherine Benitez,1280000
+134239,Buku Fiksi,5,4/30/2024,Katherine Benitez,625000
+134240,Buku Sejarah,5,4/30/2024,Michele Carlson,2750000
+134240,Alat Tulis,3,4/30/2024,Michele Carlson,225000
+134240,Majalah Seni,9,4/30/2024,Michele Carlson,4860000
+134240,Novel Fiksi Ilmiah,2,4/30/2024,Michele Carlson,100000
+134240,Buku Fiksi,2,4/30/2024,Michele Carlson,480000
+134240,Novel Misteri,7,4/30/2024,Michele Carlson,5390000
+134240,Buku Biografi,8,4/30/2024,Michele Carlson,1600000
+134240,Novel Romansa,7,4/30/2024,Michele Carlson,980000
+134241,Alat Tulis,7,4/30/2024,Melissa Thomas,7350000
+134241,Buku Anak-Anak,2,4/30/2024,Melissa Thomas,520000
+134241,Buku Fiksi,4,4/30/2024,Melissa Thomas,80000
+134241,Buku Biografi,2,4/30/2024,Melissa Thomas,200000
+134241,Aksesoris Buku,8,4/30/2024,Melissa Thomas,7040000
+134242,Alat Tulis,1,4/30/2024,William Brown,50000
+134242,Buku Sejarah,8,4/30/2024,William Brown,5760000
+134242,Buku Anak-Anak,3,4/30/2024,William Brown,1350000
+134242,Majalah Fashion,6,4/30/2024,William Brown,3960000
+134242,Majalah Seni,9,4/30/2024,William Brown,1620000
+134242,Majalah Berita,6,4/30/2024,William Brown,3600000
+134242,Buku Biografi,7,4/30/2024,William Brown,980000
+134242,Aksesoris Buku,3,4/30/2024,William Brown,1350000
+134243,Majalah Fashion,7,4/30/2024,Christine King,140000
+134243,Novel Fiksi Ilmiah,1,4/30/2024,Christine King,110000
+134243,Novel Misteri,8,4/30/2024,Christine King,3200000
+134243,Buku Biografi,3,4/30/2024,Christine King,990000
+134243,Aksesoris Buku,2,4/30/2024,Christine King,200000
+134244,Alat Tulis,4,4/30/2024,Bonnie Ramos,960000
+134244,Buku Anak-Anak,1,4/30/2024,Bonnie Ramos,90000
+134244,Majalah Berita,5,4/30/2024,Bonnie Ramos,2500000
+134244,Buku Fiksi,4,4/30/2024,Bonnie Ramos,400000
+134244,Novel Misteri,4,4/30/2024,Bonnie Ramos,320000
+134244,Novel Romansa,8,4/30/2024,Bonnie Ramos,160000
+134245,Majalah Berita,2,4/30/2024,Amanda Thomas,600000
+134245,Buku Fiksi,9,4/30/2024,Amanda Thomas,4050000
+134245,Buku Sejarah,2,4/30/2024,Amanda Thomas,40000
+134245,Buku Biografi,4,4/30/2024,Amanda Thomas,2080000
+134246,Novel Romansa,2,4/30/2024,Audrey Allen,480000
+134246,Majalah Berita,9,4/30/2024,Audrey Allen,7290000
+134246,Novel Misteri,5,4/30/2024,Audrey Allen,2500000
+134246,Novel Fiksi Ilmiah,6,4/30/2024,Audrey Allen,4320000
+134247,Majalah Seni,6,4/30/2024,Ashley Bailey,3240000
+134247,Novel Misteri,1,4/30/2024,Ashley Bailey,90000
+134247,Aksesoris Buku,9,4/30/2024,Ashley Bailey,4050000
+134247,Majalah Fashion,2,4/30/2024,Ashley Bailey,480000
+134248,Alat Tulis,5,4/30/2024,Sarah Williams,1500000
+134248,Buku Sejarah,8,4/30/2024,Sarah Williams,1600000
+134248,Majalah Fashion,1,4/30/2024,Sarah Williams,60000
+134248,Majalah Berita,4,4/30/2024,Sarah Williams,960000
+134248,Novel Misteri,9,4/30/2024,Sarah Williams,4860000
+134248,Novel Romansa,7,4/30/2024,Sarah Williams,980000
+134248,Aksesoris Buku,4,4/30/2024,Sarah Williams,400000
+134249,Alat Tulis,8,4/30/2024,Shawna Romero,3200000
+134249,Buku Sejarah,1,4/30/2024,Shawna Romero,100000
+134249,Buku Anak-Anak,3,4/30/2024,Shawna Romero,1080000
+134249,Buku Fiksi,1,4/30/2024,Shawna Romero,130000
+134249,Aksesoris Buku,8,4/30/2024,Shawna Romero,1280000
+134250,Novel Romansa,5,4/30/2024,Ariel Garcia,2250000
+134250,Alat Tulis,2,4/30/2024,Ariel Garcia,100000
+134250,Buku Anak-Anak,8,4/30/2024,Ariel Garcia,3840000
+134250,Aksesoris Buku,6,4/30/2024,Ariel Garcia,5400000
+134251,Buku Sejarah,6,4/30/2024,Michael Jackson,3240000
+134251,Buku Anak-Anak,8,4/30/2024,Michael Jackson,7040000
+134251,Majalah Berita,3,4/30/2024,Michael Jackson,1080000
+134251,Novel Fiksi Ilmiah,1,4/30/2024,Michael Jackson,130000
+134251,Buku Fiksi,7,4/30/2024,Michael Jackson,140000
+134251,Novel Romansa,8,4/30/2024,Michael Jackson,1280000
+134251,Aksesoris Buku,7,4/30/2024,Michael Jackson,5390000
+134252,Majalah Fashion,6,4/30/2024,Marissa Wilson,4680000
+134252,Majalah Seni,9,4/30/2024,Marissa Wilson,1620000
+134252,Novel Fiksi Ilmiah,4,4/30/2024,Marissa Wilson,2080000
+134252,Buku Fiksi,6,4/30/2024,Marissa Wilson,4320000
+134252,Buku Biografi,2,4/30/2024,Marissa Wilson,440000
+134252,Novel Misteri,2,4/30/2024,Marissa Wilson,440000
+134252,Novel Romansa,8,4/30/2024,Marissa Wilson,9600000
+134252,Aksesoris Buku,3,4/30/2024,Marissa Wilson,990000
+134253,Alat Tulis,8,4/30/2024,Terry Oconnell,5760000
+134253,Buku Anak-Anak,6,4/30/2024,Terry Oconnell,5400000
+134253,Majalah Fashion,1,4/30/2024,Terry Oconnell,130000
+134253,Majalah Seni,9,4/30/2024,Terry Oconnell,4050000
+134253,Novel Fiksi Ilmiah,2,4/30/2024,Terry Oconnell,440000
+134253,Novel Misteri,8,4/30/2024,Terry Oconnell,8320000
+134253,Novel Romansa,5,4/30/2024,Terry Oconnell,1500000
+134253,Aksesoris Buku,2,4/30/2024,Terry Oconnell,360000
+134254,Alat Tulis,6,4/30/2024,Dr. Janet Richardson MD,4680000
+134254,Buku Anak-Anak,6,4/30/2024,Dr. Janet Richardson MD,1800000
+134254,Majalah Berita,3,4/30/2024,Dr. Janet Richardson MD,990000
+134254,Novel Misteri,3,4/30/2024,Dr. Janet Richardson MD,60000
+134254,Buku Biografi,4,4/30/2024,Dr. Janet Richardson MD,320000
+134254,Aksesoris Buku,1,4/30/2024,Dr. Janet Richardson MD,20000
+134255,Buku Sejarah,1,4/30/2024,Heather White,20000
+134255,Alat Tulis,1,4/30/2024,Heather White,20000
+134255,Buku Anak-Anak,7,4/30/2024,Heather White,140000
+134255,Majalah Fashion,3,4/30/2024,Heather White,1170000
+134255,Majalah Seni,7,4/30/2024,Heather White,7350000
+134255,Majalah Berita,5,4/30/2024,Heather White,2250000
+134255,Novel Fiksi Ilmiah,4,4/30/2024,Heather White,1920000
+134255,Buku Biografi,1,4/30/2024,Heather White,100000
+134255,Aksesoris Buku,9,4/30/2024,Heather White,4860000
+134256,Alat Tulis,7,4/30/2024,Nina Reyes,4900000
+134256,Majalah Seni,6,4/30/2024,Nina Reyes,3600000
+134256,Buku Fiksi,4,4/30/2024,Nina Reyes,1760000
+134256,Buku Biografi,4,4/30/2024,Nina Reyes,960000
+134256,Novel Romansa,5,4/30/2024,Nina Reyes,3250000
+134256,Aksesoris Buku,5,4/30/2024,Nina Reyes,500000
+134257,Alat Tulis,1,4/30/2024,Alicia Watkins,110000
+134257,Majalah Fashion,4,4/30/2024,Alicia Watkins,2400000
+134257,Novel Fiksi Ilmiah,9,4/30/2024,Alicia Watkins,10530000
+134257,Buku Fiksi,4,4/30/2024,Alicia Watkins,80000
+134257,Novel Misteri,2,4/30/2024,Alicia Watkins,80000
+134257,Buku Biografi,3,4/30/2024,Alicia Watkins,810000
+134257,Novel Romansa,5,4/30/2024,Alicia Watkins,2750000
+134258,Majalah Fashion,4,4/30/2024,Rebecca Bell,1920000
+134258,Majalah Seni,8,4/30/2024,Rebecca Bell,3200000
+134258,Majalah Berita,4,4/30/2024,Rebecca Bell,1600000
+134258,Novel Fiksi Ilmiah,8,4/30/2024,Rebecca Bell,3200000
+134258,Novel Misteri,6,4/30/2024,Rebecca Bell,120000
+134258,Novel Romansa,3,4/30/2024,Rebecca Bell,810000
+134258,Aksesoris Buku,7,4/30/2024,Rebecca Bell,4900000
+134259,Alat Tulis,9,4/30/2024,Belinda Powell,2025000
+134259,Majalah Fashion,5,4/30/2024,Belinda Powell,2250000
+134259,Majalah Seni,9,4/30/2024,Belinda Powell,12150000
+134259,Majalah Berita,4,4/30/2024,Belinda Powell,80000
+134259,Novel Fiksi Ilmiah,8,4/30/2024,Belinda Powell,7040000
+134259,Buku Fiksi,8,4/30/2024,Belinda Powell,7680000
+134259,Buku Biografi,5,4/30/2024,Belinda Powell,500000
+134259,Novel Romansa,2,4/30/2024,Belinda Powell,240000
+134260,Majalah Fashion,8,4/30/2024,Deanna Allen PhD,6400000
+134260,Majalah Berita,3,4/30/2024,Deanna Allen PhD,900000
+134260,Novel Fiksi Ilmiah,5,4/30/2024,Deanna Allen PhD,2750000
+134260,Buku Fiksi,6,4/30/2024,Deanna Allen PhD,5400000
+134260,Buku Biografi,6,4/30/2024,Deanna Allen PhD,120000
+134260,Novel Misteri,3,4/30/2024,Deanna Allen PhD,900000
+134260,Novel Romansa,1,4/30/2024,Deanna Allen PhD,25000
+134261,Alat Tulis,7,4/30/2024,Brandon Maldonado,7350000
+134261,Buku Anak-Anak,3,4/30/2024,Brandon Maldonado,540000
+134261,Majalah Fashion,3,4/30/2024,Brandon Maldonado,990000
+134261,Majalah Seni,5,4/30/2024,Brandon Maldonado,500000
+134261,Novel Fiksi Ilmiah,6,4/30/2024,Brandon Maldonado,3960000
+134261,Novel Misteri,9,4/30/2024,Brandon Maldonado,12150000
+134261,Buku Biografi,9,4/30/2024,Brandon Maldonado,9720000
+134261,Novel Romansa,1,4/30/2024,Brandon Maldonado,25000
+134262,Alat Tulis,4,4/30/2024,Kathryn James,800000
+134262,Buku Sejarah,4,4/30/2024,Kathryn James,960000
+134262,Buku Anak-Anak,6,4/30/2024,Kathryn James,720000
+134262,Buku Biografi,7,4/30/2024,Kathryn James,980000
+134262,Novel Romansa,1,4/30/2024,Kathryn James,25000
+134262,Aksesoris Buku,4,4/30/2024,Kathryn James,2400000
+134263,Alat Tulis,4,4/30/2024,Joshua Chavez,960000
+134263,Buku Anak-Anak,5,4/30/2024,Joshua Chavez,1500000
+134263,Buku Biografi,2,4/30/2024,Joshua Chavez,400000
+134263,Novel Romansa,1,4/30/2024,Joshua Chavez,20000
+134263,Aksesoris Buku,8,4/30/2024,Joshua Chavez,5760000
+134264,Alat Tulis,2,4/30/2024,Carolyn Zuniga,520000
+134264,Buku Sejarah,2,4/30/2024,Carolyn Zuniga,360000
+134264,Buku Anak-Anak,9,4/30/2024,Carolyn Zuniga,4860000
+134264,Novel Misteri,1,4/30/2024,Carolyn Zuniga,20000
+134264,Aksesoris Buku,6,4/30/2024,Carolyn Zuniga,5400000
+134265,Buku Sejarah,9,4/30/2024,Christopher Watts,9720000
+134265,Majalah Seni,1,4/30/2024,Christopher Watts,110000
+134265,Majalah Berita,4,4/30/2024,Christopher Watts,1920000
+134265,Novel Fiksi Ilmiah,8,4/30/2024,Christopher Watts,8320000
+134265,Buku Fiksi,5,4/30/2024,Christopher Watts,100000
+134265,Buku Biografi,1,4/30/2024,Christopher Watts,25000
+134265,Novel Romansa,2,4/30/2024,Christopher Watts,520000
+134266,Alat Tulis,7,4/30/2024,Bonnie Wilson,2450000
+134266,Buku Sejarah,4,4/30/2024,Bonnie Wilson,1600000
+134266,Buku Anak-Anak,6,4/30/2024,Bonnie Wilson,4320000
+134266,Majalah Fashion,4,4/30/2024,Bonnie Wilson,1760000
+134266,Majalah Berita,7,4/30/2024,Bonnie Wilson,6370000
+134266,Buku Fiksi,7,4/30/2024,Bonnie Wilson,2450000
+134266,Buku Biografi,2,4/30/2024,Bonnie Wilson,80000
+134266,Aksesoris Buku,6,4/30/2024,Bonnie Wilson,3240000
+134267,Alat Tulis,3,4/30/2024,Maria May,540000
+134267,Majalah Berita,9,4/30/2024,Maria May,1620000
+134267,Buku Fiksi,2,4/30/2024,Maria May,80000
+134267,Novel Romansa,2,4/30/2024,Maria May,240000
+134267,Aksesoris Buku,3,4/30/2024,Maria May,1350000
+134268,Alat Tulis,1,4/30/2024,David Pittman,120000
+134268,Buku Anak-Anak,6,4/30/2024,David Pittman,5400000
+134268,Majalah Fashion,3,4/30/2024,David Pittman,1350000
+134268,Majalah Seni,4,4/30/2024,David Pittman,320000
+134268,Majalah Berita,2,4/30/2024,David Pittman,40000
+134268,Aksesoris Buku,5,4/30/2024,David Pittman,3000000
+134269,Buku Sejarah,4,4/30/2024,Douglas Day,2400000
+134269,Majalah Fashion,5,4/30/2024,Douglas Day,1500000
+134269,Majalah Seni,1,4/30/2024,Douglas Day,25000
+134269,Novel Fiksi Ilmiah,5,4/30/2024,Douglas Day,625000
+134269,Novel Romansa,8,4/30/2024,Douglas Day,3840000
+134270,Alat Tulis,9,4/30/2024,Diana Long,7290000
+134270,Buku Sejarah,9,4/30/2024,Diana Long,4860000
+134270,Buku Anak-Anak,7,4/30/2024,Diana Long,140000
+134270,Majalah Fashion,5,4/30/2024,Diana Long,3000000
+134270,Majalah Seni,5,4/30/2024,Diana Long,1500000
+134270,Majalah Berita,3,4/30/2024,Diana Long,1170000
+134270,Buku Fiksi,6,4/30/2024,Diana Long,720000
+134270,Aksesoris Buku,8,4/30/2024,Diana Long,9600000
+134271,Buku Sejarah,7,4/30/2024,Michael Russell,6370000
+134271,Majalah Fashion,1,4/30/2024,Michael Russell,20000
+134271,Majalah Seni,9,4/30/2024,Michael Russell,8910000
+134271,Majalah Berita,9,4/30/2024,Michael Russell,8910000
+134271,Buku Fiksi,3,4/30/2024,Michael Russell,540000
+134271,Buku Biografi,3,4/30/2024,Michael Russell,180000
+134271,Novel Romansa,4,4/30/2024,Michael Russell,320000
+134271,Aksesoris Buku,2,4/30/2024,Michael Russell,600000
+134272,Buku Sejarah,4,4/30/2024,Katie Finley,800000
+134272,Alat Tulis,6,4/30/2024,Katie Finley,120000
+134272,Buku Anak-Anak,3,4/30/2024,Katie Finley,540000
+134272,Majalah Berita,8,4/30/2024,Katie Finley,1280000
+134272,Novel Fiksi Ilmiah,6,4/30/2024,Katie Finley,1800000
+134272,Novel Romansa,4,4/30/2024,Katie Finley,1920000
+134273,Alat Tulis,6,4/30/2024,Connie Burke,5400000
+134273,Buku Sejarah,5,4/30/2024,Connie Burke,3750000
+134273,Majalah Seni,1,4/30/2024,Connie Burke,60000
+134273,Buku Fiksi,9,4/30/2024,Connie Burke,1620000
+134273,Novel Misteri,1,4/30/2024,Connie Burke,130000
+134273,Aksesoris Buku,7,4/30/2024,Connie Burke,980000
+134274,Alat Tulis,8,4/30/2024,Cristian Green,1280000
+134274,Buku Anak-Anak,5,4/30/2024,Cristian Green,1500000
+134274,Majalah Fashion,7,4/30/2024,Cristian Green,1225000
+134274,Majalah Seni,2,4/30/2024,Cristian Green,480000
+134274,Majalah Berita,8,4/30/2024,Cristian Green,6400000
+134274,Novel Fiksi Ilmiah,4,4/30/2024,Cristian Green,2080000
+134274,Aksesoris Buku,3,4/30/2024,Cristian Green,1170000
+134275,Alat Tulis,5,4/30/2024,Shane Hart,2750000
+134275,Majalah Fashion,8,4/30/2024,Shane Hart,1280000
+134275,Majalah Seni,4,4/30/2024,Shane Hart,960000
+134275,Majalah Berita,8,4/30/2024,Shane Hart,8320000
+134275,Novel Fiksi Ilmiah,9,4/30/2024,Shane Hart,4860000
+134275,Novel Romansa,4,4/30/2024,Shane Hart,1440000
+134276,Alat Tulis,5,4/30/2024,Timothy Martinez,500000
+134276,Buku Anak-Anak,4,4/30/2024,Timothy Martinez,400000
+134276,Majalah Fashion,6,4/30/2024,Timothy Martinez,4680000
+134276,Majalah Berita,9,4/30/2024,Timothy Martinez,180000
+134276,Buku Fiksi,5,4/30/2024,Timothy Martinez,3000000
+134276,Buku Biografi,5,4/30/2024,Timothy Martinez,3750000
+134276,Novel Romansa,3,4/30/2024,Timothy Martinez,810000
+134276,Aksesoris Buku,8,4/30/2024,Timothy Martinez,160000
+134277,Alat Tulis,7,4/30/2024,Sheryl Cline,1225000
+134277,Buku Anak-Anak,8,4/30/2024,Sheryl Cline,3200000
+134277,Majalah Fashion,9,4/30/2024,Sheryl Cline,8100000
+134277,Majalah Seni,3,4/30/2024,Sheryl Cline,540000
+134277,Buku Fiksi,2,4/30/2024,Sheryl Cline,600000
+134277,Buku Biografi,9,4/30/2024,Sheryl Cline,7290000
+134278,Buku Sejarah,3,4/30/2024,Cynthia Fletcher,1080000
+134278,Buku Fiksi,7,4/30/2024,Cynthia Fletcher,7350000
+134278,Alat Tulis,5,4/30/2024,Cynthia Fletcher,3750000
+134278,Novel Fiksi Ilmiah,3,4/30/2024,Cynthia Fletcher,1350000
+134279,Alat Tulis,7,4/30/2024,Jimmy Williams,4410000
+134279,Buku Sejarah,6,4/30/2024,Jimmy Williams,3960000
+134279,Buku Anak-Anak,8,4/30/2024,Jimmy Williams,1600000
+134279,Majalah Seni,4,4/30/2024,Jimmy Williams,1440000
+134279,Novel Fiksi Ilmiah,4,4/30/2024,Jimmy Williams,80000
+134279,Novel Misteri,6,4/30/2024,Jimmy Williams,900000
+134279,Buku Biografi,6,4/30/2024,Jimmy Williams,3960000
+134279,Aksesoris Buku,6,4/30/2024,Jimmy Williams,4320000
+134280,Alat Tulis,4,4/30/2024,Joseph Sanchez,400000
+134280,Buku Sejarah,4,4/30/2024,Joseph Sanchez,1440000
+134280,Majalah Fashion,2,4/30/2024,Joseph Sanchez,440000
+134280,Majalah Seni,7,4/30/2024,Joseph Sanchez,4410000
+134280,Novel Fiksi Ilmiah,1,4/30/2024,Joseph Sanchez,90000
+134280,Buku Biografi,1,4/30/2024,Joseph Sanchez,150000
+134280,Novel Romansa,2,4/30/2024,Joseph Sanchez,80000
+134280,Aksesoris Buku,6,4/30/2024,Joseph Sanchez,900000
+134281,Alat Tulis,7,4/30/2024,Beth Fitzpatrick,1225000
+134281,Novel Misteri,2,4/30/2024,Beth Fitzpatrick,80000
+134281,Buku Anak-Anak,3,4/30/2024,Beth Fitzpatrick,1170000
+134281,Majalah Fashion,6,4/30/2024,Beth Fitzpatrick,3600000
+134282,Buku Anak-Anak,1,4/30/2024,Julie Franco,100000
+134282,Majalah Seni,1,4/30/2024,Julie Franco,110000
+134282,Majalah Berita,6,4/30/2024,Julie Franco,120000
+134282,Buku Fiksi,9,4/30/2024,Julie Franco,2025000
+134282,Novel Misteri,5,4/30/2024,Julie Franco,2250000
+134283,Majalah Seni,6,4/30/2024,Jane Fisher,3600000
+134283,Buku Sejarah,5,4/30/2024,Jane Fisher,2250000
+134283,Novel Misteri,8,4/30/2024,Jane Fisher,9600000
+134283,Buku Biografi,2,4/30/2024,Jane Fisher,360000
+134284,Alat Tulis,3,4/30/2024,Amanda Byrd,900000
+134284,Buku Sejarah,2,4/30/2024,Amanda Byrd,80000
+134284,Majalah Fashion,5,4/30/2024,Amanda Byrd,100000
+134284,Majalah Seni,8,4/30/2024,Amanda Byrd,7680000
+134284,Novel Fiksi Ilmiah,1,4/30/2024,Amanda Byrd,100000
+134284,Buku Biografi,5,4/30/2024,Amanda Byrd,2750000
+134284,Novel Misteri,3,4/30/2024,Amanda Byrd,900000
+134284,Novel Romansa,2,4/30/2024,Amanda Byrd,520000
+134285,Buku Sejarah,7,4/30/2024,Mary Andrade,5390000
+134285,Majalah Fashion,2,4/30/2024,Mary Andrade,80000
+134285,Majalah Berita,2,4/30/2024,Mary Andrade,240000
+134285,Buku Fiksi,3,4/30/2024,Mary Andrade,180000
+134285,Novel Misteri,2,4/30/2024,Mary Andrade,440000
+134285,Novel Romansa,7,4/30/2024,Mary Andrade,5390000
+134285,Aksesoris Buku,9,4/30/2024,Mary Andrade,1620000
+134286,Alat Tulis,9,4/30/2024,William White,1620000
+134286,Buku Anak-Anak,1,4/30/2024,William White,120000
+134286,Majalah Berita,8,4/30/2024,William White,3840000
+134286,Novel Fiksi Ilmiah,8,4/30/2024,William White,1600000
+134286,Buku Fiksi,2,4/30/2024,William White,40000
+134286,Novel Misteri,4,4/30/2024,William White,1600000
+134286,Novel Romansa,3,4/30/2024,William White,1350000
+134287,Buku Sejarah,5,4/30/2024,Jessica Roberts,3250000
+134287,Majalah Seni,4,4/30/2024,Jessica Roberts,80000
+134287,Majalah Berita,4,4/30/2024,Jessica Roberts,800000
+134287,Novel Fiksi Ilmiah,5,4/30/2024,Jessica Roberts,1250000
+134287,Buku Fiksi,9,4/30/2024,Jessica Roberts,1620000
+134287,Buku Biografi,9,4/30/2024,Jessica Roberts,180000
+134287,Novel Romansa,3,4/30/2024,Jessica Roberts,180000
+134288,Alat Tulis,7,4/30/2024,David Beasley,5390000
+134288,Buku Sejarah,1,4/30/2024,David Beasley,90000
+134288,Buku Anak-Anak,7,4/30/2024,David Beasley,6370000
+134288,Majalah Seni,9,4/30/2024,David Beasley,8910000
+134288,Majalah Berita,8,4/30/2024,David Beasley,6400000
+134288,Buku Fiksi,9,4/30/2024,David Beasley,2025000
+134288,Buku Biografi,3,4/30/2024,David Beasley,180000
+134288,Novel Misteri,5,4/30/2024,David Beasley,1250000
+134289,Alat Tulis,2,4/30/2024,Molly Buckley,520000
+134289,Majalah Fashion,3,4/30/2024,Molly Buckley,180000
+134289,Buku Fiksi,5,4/30/2024,Molly Buckley,3750000
+134289,Novel Misteri,2,4/30/2024,Molly Buckley,240000
+134289,Aksesoris Buku,3,4/30/2024,Molly Buckley,225000
+134290,Buku Sejarah,8,4/30/2024,Christopher Gonzalez,9600000
+134290,Alat Tulis,2,4/30/2024,Christopher Gonzalez,520000
+134290,Buku Anak-Anak,9,4/30/2024,Christopher Gonzalez,8910000
+134290,Majalah Berita,4,4/30/2024,Christopher Gonzalez,2400000
+134290,Novel Fiksi Ilmiah,2,4/30/2024,Christopher Gonzalez,40000
+134291,Buku Fiksi,2,4/30/2024,Nicholas Smith,240000
+134291,Buku Biografi,5,4/30/2024,Nicholas Smith,2250000
+134291,Aksesoris Buku,9,4/30/2024,Nicholas Smith,1620000
+134291,Novel Fiksi Ilmiah,4,4/30/2024,Nicholas Smith,800000
+134292,Alat Tulis,2,4/30/2024,Christine Frazier,100000
+134292,Majalah Seni,4,4/30/2024,Christine Frazier,400000
+134292,Buku Fiksi,6,4/30/2024,Christine Frazier,120000
+134292,Novel Misteri,7,4/30/2024,Christine Frazier,5390000
+134292,Novel Romansa,3,4/30/2024,Christine Frazier,990000
+134293,Alat Tulis,1,4/30/2024,Frances Pacheco,20000
+134293,Majalah Seni,8,4/30/2024,Frances Pacheco,7680000
+134293,Majalah Berita,3,4/30/2024,Frances Pacheco,225000
+134293,Novel Fiksi Ilmiah,9,4/30/2024,Frances Pacheco,12150000
+134293,Buku Fiksi,5,4/30/2024,Frances Pacheco,100000
+134293,Novel Misteri,6,4/30/2024,Frances Pacheco,720000
+134294,Alat Tulis,3,4/30/2024,Richard Jones,180000
+134294,Buku Sejarah,4,4/30/2024,Richard Jones,2400000
+134294,Buku Anak-Anak,2,4/30/2024,Richard Jones,80000
+134294,Majalah Fashion,9,4/30/2024,Richard Jones,1620000
+134294,Majalah Berita,4,4/30/2024,Richard Jones,320000
+,,7,4/30/2024,,4410000
+,,6,4/30/2024,,720000
+,,6,4/30/2024,,1800000
+,,8,4/30/2024,,1600000
+,,8,4/30/2024,,1280000
+,,1,4/30/2024,,130000
+,,7,4/30/2024,,1225000
+,,4,4/30/2024,,800000
+,,8,4/30/2024,,1280000
+,,7,4/30/2024,,4410000
+,,9,4/30/2024,,8100000
+,,5,4/30/2024,,3000000
+,,9,4/30/2024,,8100000
+,,2,4/30/2024,,600000
+,,8,4/30/2024,,1280000
+,,3,4/30/2024,,990000
+,,5,4/30/2024,,2750000
+,,1,4/30/2024,,100000
+,,3,4/30/2024,,900000
+,,8,4/30/2024,,6400000
+,,7,4/30/2024,,1225000
+,,7,4/30/2024,,6370000
+,,8,4/30/2024,,3840000
+,,8,4/30/2024,,9600000
+,,8,4/30/2024,,1600000
+,,8,4/30/2024,,3200000
+,,5,4/30/2024,,2750000
+,,2,4/30/2024,,100000
+,,8,4/30/2024,,5760000
+,,1,4/30/2024,,90000
+,,4,4/30/2024,,1760000
+,,4,4/30/2024,,320000
+,,3,4/30/2024,,225000
+,,2,4/30/2024,,520000
+,,2,4/30/2024,,440000
+,,1,4/30/2024,,130000
+,,8,4/30/2024,,3200000
+,,6,4/30/2024,,3600000
+,,4,4/30/2024,,800000
+,,2,4/30/2024,,360000
+,,9,4/30/2024,,9720000
+,,5,4/30/2024,,2250000
+,,8,4/30/2024,,7040000
+,,4,4/30/2024,,1440000
+,,5,4/30/2024,,1250000
+,,8,4/30/2024,,6400000
+,,5,4/30/2024,,100000
+,,4,4/30/2024,,320000
+,,7,4/30/2024,,2940000
+,,8,4/30/2024,,6400000
+,,2,4/30/2024,,80000
+,,4,4/30/2024,,400000
+,,2,4/30/2024,,360000
+,,5,4/30/2024,,3250000
+,,3,4/30/2024,,1080000
+,,7,4/30/2024,,4410000
+,,2,4/30/2024,,240000
+,,1,4/30/2024,,60000
+,,8,4/30/2024,,1280000
+,,4,4/30/2024,,2400000
+,,9,4/30/2024,,4860000
+,,3,4/30/2024,,180000
+,,1,4/30/2024,,20000
+,,9,4/30/2024,,8100000
+,,5,4/30/2024,,100000
+,,3,4/30/2024,,540000
+,,1,4/30/2024,,150000
+,,6,4/30/2024,,2160000
+,,9,4/30/2024,,8910000
+,,5,4/30/2024,,2500000
+,,6,4/30/2024,,3600000
+,,9,4/30/2024,,180000
+,,9,4/30/2024,,10530000
+,,2,4/30/2024,,440000
+,,1,4/30/2024,,20000
+,,9,4/30/2024,,2025000
+,,3,4/30/2024,,225000
+,,6,4/30/2024,,720000
+,,3,4/30/2024,,900000
+,,8,4/30/2024,,6400000
+,,1,4/30/2024,,100000
+,,2,4/30/2024,,80000
+,,6,4/30/2024,,3600000
+,,1,4/30/2024,,100000
+,,2,4/30/2024,,40000
+,,6,4/30/2024,,1800000
+,,4,4/30/2024,,800000
+,,2,4/30/2024,,600000
+,,4,4/30/2024,,800000
+,,2,4/30/2024,,40000
+,,9,4/30/2024,,4050000
+,,7,4/30/2024,,140000
+,,8,4/30/2024,,160000
+,,4,4/30/2024,,320000
+,,4,4/30/2024,,960000
+,,2,4/30/2024,,400000
+,,5,4/30/2024,,3750000
+,,5,4/30/2024,,2500000
+,,3,4/30/2024,,900000
+,,3,4/30/2024,,1080000
+,,3,4/30/2024,,900000
+,,6,4/30/2024,,720000
+,,4,4/30/2024,,400000
+,,8,4/30/2024,,3200000
+,,6,4/30/2024,,2160000
+,,6,4/30/2024,,120000
+,,7,4/30/2024,,980000
+,,1,4/30/2024,,120000
+,,4,4/30/2024,,2400000
+,,6,4/30/2024,,120000
+,,5,4/30/2024,,2250000
+,,9,4/30/2024,,1620000
+,,1,4/30/2024,,20000
+,,7,4/30/2024,,5390000
+,,3,4/30/2024,,450000
+,,7,4/30/2024,,6370000
+,,3,4/30/2024,,225000
+,,3,4/30/2024,,60000
+,,5,4/30/2024,,2500000
+,,7,4/30/2024,,140000
+,,9,4/30/2024,,1620000
+,,9,4/30/2024,,4860000
+,,1,4/30/2024,,20000
+,,7,4/30/2024,,6370000
+,,1,4/30/2024,,120000
+,,4,4/30/2024,,1760000
+,,8,4/30/2024,,9600000
+,,3,4/30/2024,,1350000
+,,7,4/30/2024,,7350000
+,,8,4/30/2024,,1280000
+,,4,4/30/2024,,80000
+,,1,4/30/2024,,130000
+,,4,4/30/2024,,1760000
+,,9,4/30/2024,,1620000
+,,8,4/30/2024,,3200000
+,,3,4/30/2024,,1080000
+,,4,4/30/2024,,800000
+,,9,4/30/2024,,4050000
+,,3,4/30/2024,,900000
+,,9,4/30/2024,,7290000
+,,8,4/30/2024,,160000
+,,9,4/30/2024,,1620000
+,,9,4/30/2024,,9720000
+,,2,4/30/2024,,100000
+,,2,4/30/2024,,200000
+,,2,4/30/2024,,80000
+,,3,4/30/2024,,1170000
+,,5,4/30/2024,,2750000
+,,3,4/30/2024,,450000
+,,3,4/30/2024,,900000
+,,5,4/30/2024,,3750000
+,,9,4/30/2024,,7290000
+,,9,4/30/2024,,8910000
+,,8,4/30/2024,,3200000
+,,9,4/30/2024,,1620000
+,,6,4/30/2024,,4680000
+,,2,4/30/2024,,600000
+,,6,4/30/2024,,720000
+,,9,4/30/2024,,2025000
+,,7,4/30/2024,,5390000
+,,1,4/30/2024,,50000
+,,7,4/30/2024,,7350000
+,,5,4/30/2024,,100000
+,,7,4/30/2024,,2450000
+,,2,4/30/2024,,40000
+,,4,4/30/2024,,80000
+,,8,4/30/2024,,1280000
+,,7,4/30/2024,,5390000
+,,5,4/30/2024,,3250000
+,,8,4/30/2024,,160000
+,,1,4/30/2024,,120000
+,,9,4/30/2024,,9720000
+,,8,4/30/2024,,160000
+,,6,4/30/2024,,720000
+,,5,4/30/2024,,3750000
+,,4,4/30/2024,,1440000
+,,2,4/30/2024,,400000
+,,2,4/30/2024,,400000
+,,1,4/30/2024,,150000
+,,3,4/30/2024,,1080000
+,,1,4/30/2024,,90000
+,,6,4/30/2024,,720000
+,,9,4/30/2024,,180000
+,,1,4/30/2024,,60000
+,,1,4/30/2024,,50000
+,,1,4/30/2024,,20000
+,,1,4/30/2024,,130000
+,,5,4/30/2024,,100000
+,,8,4/30/2024,,1280000
+,,4,4/30/2024,,320000
+,,4,4/30/2024,,2400000
+,,6,4/30/2024,,4320000
+,,9,4/30/2024,,7290000
+,,4,4/30/2024,,2400000
+,,4,4/30/2024,,1760000
+,,8,4/30/2024,,8320000
+,,4,4/30/2024,,320000
+,,7,4/30/2024,,980000
+,,8,4/30/2024,,3200000
+,,4,4/30/2024,,1440000
+,,9,4/30/2024,,7290000
+,,8,4/30/2024,,1280000
+,,1,4/30/2024,,20000
+,,2,4/30/2024,,440000
+,,2,4/30/2024,,440000
+,,1,4/30/2024,,90000
+,,2,4/30/2024,,360000
+,,8,4/30/2024,,1600000
+,,4,4/30/2024,,1760000
+,,3,4/30/2024,,225000
+,,3,4/30/2024,,1170000
+,,7,4/30/2024,,140000
+,,3,4/30/2024,,180000
+,,2,4/30/2024,,100000
+,,3,4/30/2024,,540000
+,,6,4/30/2024,,4680000
+,,2,4/30/2024,,80000
+,,1,4/30/2024,,25000
+,,3,4/30/2024,,450000
+,,4,4/30/2024,,960000
+,,3,4/30/2024,,810000
+,,5,4/30/2024,,1250000
+,,6,4/30/2024,,720000
+,,2,4/30/2024,,440000
+,,8,4/30/2024,,160000
+,,7,4/30/2024,,980000
+,,8,4/30/2024,,1280000
+,,2,4/30/2024,,400000
+,,5,4/30/2024,,3000000
+,,2,4/30/2024,,440000
+,,2,4/30/2024,,80000
+,,5,4/30/2024,,3250000
+,,1,4/30/2024,,130000
+,,9,4/30/2024,,7290000
+,,4,4/30/2024,,1920000
+,,2,4/30/2024,,400000
+,,5,4/30/2024,,500000
+,,3,4/30/2024,,990000
+,,2,4/30/2024,,80000
+,,4,4/30/2024,,1920000
+,,8,4/30/2024,,6400000
+,,4,4/30/2024,,320000
+,,3,4/30/2024,,900000
+,,8,4/30/2024,,9600000
+,,7,4/30/2024,,980000
+,,9,4/30/2024,,8910000
+,,7,4/30/2024,,1225000
+,,1,4/30/2024,,25000
+,,8,4/30/2024,,9600000
+,,6,4/30/2024,,5400000
+,,8,4/30/2024,,6400000
+,,8,4/30/2024,,7680000
+,,7,4/30/2024,,2940000
+,,7,4/30/2024,,4900000
+,,3,4/30/2024,,180000
+,,5,4/30/2024,,3000000
+,,7,4/30/2024,,2940000
+,,5,4/30/2024,,3250000
+,,4,4/30/2024,,960000
+,,5,4/30/2024,,2500000
+,,2,4/30/2024,,200000
+,,3,4/30/2024,,1170000
+,,1,4/30/2024,,60000
+,,3,4/30/2024,,60000
+,,2,4/30/2024,,480000
+,,5,4/30/2024,,3250000
+,,8,4/30/2024,,3840000
+,,6,4/30/2024,,720000
+,,4,4/30/2024,,2400000
+,,5,4/30/2024,,500000
+,,7,4/30/2024,,980000
+,,7,4/30/2024,,4900000
+,,3,4/30/2024,,1170000
+,,4,4/30/2024,,1600000
+,,6,4/30/2024,,720000
+,,2,4/30/2024,,100000
+,,5,4/30/2024,,100000
+,,6,4/30/2024,,4320000
+,,7,4/30/2024,,4900000
+,,7,4/30/2024,,980000
+,,3,4/30/2024,,450000
+,,4,4/30/2024,,2080000
+,,9,4/30/2024,,1620000
+,,9,4/30/2024,,2025000
+,,1,4/30/2024,,90000
+,,3,4/30/2024,,180000
+,,4,4/30/2024,,2080000
+,,2,4/30/2024,,100000
+,,2,4/30/2024,,520000
+,,5,4/30/2024,,100000
+,,9,4/30/2024,,10530000
+,,7,4/30/2024,,140000
+,,2,4/30/2024,,440000
+,,3,4/30/2024,,180000
+,,9,4/30/2024,,8910000
+,,9,4/30/2024,,12150000
+,,3,4/30/2024,,180000
+,,1,4/30/2024,,20000
+,,1,4/30/2024,,120000
+,,2,4/30/2024,,480000
+,,5,4/30/2024,,2250000
+,,5,4/30/2024,,3250000
+,,7,4/30/2024,,6370000
+,,3,4/30/2024,,180000
+,,8,4/30/2024,,7680000
+,,6,4/30/2024,,3960000
+,,4,4/30/2024,,80000
+,,8,4/30/2024,,160000
+,,6,4/30/2024,,4680000
+,,5,4/30/2024,,625000
+,,7,4/30/2024,,6370000
+,,6,4/30/2024,,2160000
+,,7,4/30/2024,,980000
+,,8,4/30/2024,,3840000
+,,5,4/30/2024,,1250000
+,,2,4/30/2024,,100000
+,,3,4/30/2024,,225000
+,,7,4/30/2024,,2940000
+,,5,4/30/2024,,2750000
+,,3,4/30/2024,,1170000
+,,4,4/30/2024,,320000
+,,7,4/30/2024,,980000
+,,9,4/30/2024,,9720000
+,,6,4/30/2024,,4320000
+,,4,4/30/2024,,1600000
+,,7,4/30/2024,,140000
+,,7,4/30/2024,,980000
+,,3,4/30/2024,,900000
+,,6,4/30/2024,,120000
+,,9,4/30/2024,,10530000
+,,4,4/30/2024,,800000
+,,7,4/30/2024,,980000
+,,6,4/30/2024,,900000
+,,1,4/30/2024,,130000
+,,9,4/30/2024,,8100000
+,,2,4/30/2024,,600000
+,,2,4/30/2024,,360000
+,,6,4/30/2024,,3240000
+,,2,4/30/2024,,600000
+,,8,4/30/2024,,7040000
+,,1,4/30/2024,,130000
+,,1,4/30/2024,,20000
+,,9,4/30/2024,,9720000
+,,2,4/30/2024,,40000
+,,5,4/30/2024,,100000
+,,6,4/30/2024,,720000
+,,4,4/30/2024,,1920000
+,,9,4/30/2024,,1620000
+,,2,4/30/2024,,40000
+,,3,4/30/2024,,450000
+,,9,4/30/2024,,7290000
+,,7,4/30/2024,,5880000
+,,2,4/30/2024,,100000
+,,5,4/30/2024,,3250000
+,,3,4/30/2024,,225000
+,,3,4/30/2024,,60000
+,,5,4/30/2024,,3000000
+,,5,4/30/2024,,2250000
+,,8,4/30/2024,,1280000
+,,8,4/30/2024,,7680000
+,,4,4/30/2024,,2400000
+,,7,4/30/2024,,5390000
+,,4,4/30/2024,,320000
+,,3,4/30/2024,,1350000
+,,2,4/30/2024,,400000
+,,5,4/30/2024,,1250000
+,,2,4/30/2024,,440000
+,,9,4/30/2024,,12150000
+,,8,4/30/2024,,3840000
+,,8,4/30/2024,,9600000
+,,4,4/30/2024,,400000
+,,3,4/30/2024,,60000
+,,5,4/30/2024,,2500000
+,,9,4/30/2024,,12150000
+,,5,4/30/2024,,500000
+,,2,4/30/2024,,200000
+,,9,4/30/2024,,1620000
+,,2,4/30/2024,,600000
+,,4,4/30/2024,,2080000
+,,7,4/30/2024,,7350000
+,,2,4/30/2024,,440000
+,,8,4/30/2024,,8320000
+,,4,4/30/2024,,1920000
+,,2,4/30/2024,,80000
+,,8,4/30/2024,,3840000
+,,9,4/30/2024,,1620000
+,,2,4/30/2024,,80000
+,,1,4/30/2024,,20000
+,,2,4/30/2024,,440000
+,,8,4/30/2024,,8320000
+,,5,4/30/2024,,100000
+,,1,4/30/2024,,20000
+,,4,4/30/2024,,800000
+,,9,4/30/2024,,10530000
+,,5,4/30/2024,,1250000
+,,6,4/30/2024,,720000
+,,6,4/30/2024,,900000
+,,2,4/30/2024,,480000
+,,7,4/30/2024,,140000
+,,5,4/30/2024,,625000
+,,7,4/30/2024,,4410000
+,,5,4/30/2024,,500000
+,,7,4/30/2024,,2940000
+,,9,4/30/2024,,4050000
+,,3,4/30/2024,,1350000
+,,3,4/30/2024,,450000
+,,5,4/30/2024,,500000
+,,7,4/30/2024,,2450000
+,,1,4/30/2024,,60000
+,,5,4/30/2024,,3250000
+,,8,4/30/2024,,7680000
+,,9,4/30/2024,,8910000
+,,8,4/30/2024,,5760000
+,,6,4/30/2024,,3600000
+,,3,4/30/2024,,900000
+,,2,4/30/2024,,400000
+,,5,4/30/2024,,2500000
+,,4,4/30/2024,,1760000
+,,5,4/30/2024,,3000000
+,,9,4/30/2024,,10530000
+,,3,4/30/2024,,540000
+,,8,4/30/2024,,1280000
+,,3,4/30/2024,,1080000
+,,9,4/30/2024,,4860000
+,,2,4/30/2024,,440000
+,,2,4/30/2024,,200000
+,,6,4/30/2024,,120000
+,,2,4/30/2024,,200000
+,,3,4/30/2024,,1350000
+,,2,4/30/2024,,440000
+,,7,4/30/2024,,4900000
+,,1,4/30/2024,,20000
+,,7,4/30/2024,,7350000
+,,2,4/30/2024,,360000
+,,9,4/30/2024,,7290000
+,,7,4/30/2024,,2940000
+,,1,4/30/2024,,60000
+,,2,4/30/2024,,100000
+,,6,4/30/2024,,1800000
+,,8,4/30/2024,,7040000
+,,1,4/30/2024,,20000
+,,3,4/30/2024,,1350000
+,,4,4/30/2024,,320000
+,,7,4/30/2024,,4410000
+,,7,4/30/2024,,980000
+,,1,4/30/2024,,25000
+,,8,4/30/2024,,8320000
+,,5,4/30/2024,,2250000
+,,2,4/30/2024,,440000
+,,6,4/30/2024,,720000
+,,8,4/30/2024,,1280000
+,,6,4/30/2024,,5400000
+,,9,4/30/2024,,180000
+,,2,4/30/2024,,440000
+,,6,4/30/2024,,4320000
+,,5,4/30/2024,,3000000
+,,1,4/30/2024,,130000
+,,5,4/30/2024,,500000
+,,8,4/30/2024,,5760000
+,,6,4/30/2024,,2160000
+,,7,4/30/2024,,140000
+,,2,4/30/2024,,360000
+,,1,4/30/2024,,20000
+,,9,4/30/2024,,4050000
+,,4,4/30/2024,,1600000
+,,8,4/30/2024,,3840000
+,,6,4/30/2024,,4320000
+,,2,4/30/2024,,40000
+,,8,4/30/2024,,3200000
+,,5,4/30/2024,,1250000
+,,6,4/30/2024,,3240000
+,,3,4/30/2024,,810000
+,,7,4/30/2024,,140000
+,,5,4/30/2024,,1500000
+,,1,4/30/2024,,120000
+,,4,4/30/2024,,1760000
+,,2,4/30/2024,,480000
+,,7,4/30/2024,,2450000
+,,3,4/30/2024,,180000
+,,9,4/30/2024,,8100000
+,,6,4/30/2024,,120000
+,,6,4/30/2024,,900000
+,,5,4/30/2024,,1250000
+,,2,4/30/2024,,480000
+,,5,4/30/2024,,1500000
+,,7,4/30/2024,,1225000
+,,4,4/30/2024,,320000
+,,5,4/30/2024,,1500000
+,,9,4/30/2024,,9720000
+,,9,4/30/2024,,8910000
+,,2,4/30/2024,,100000
+,,3,4/30/2024,,180000
+,,8,4/30/2024,,9600000
+,,1,4/30/2024,,130000
+,,8,4/30/2024,,5760000
+,,1,4/30/2024,,110000
+,,6,4/30/2024,,900000
+,,1,4/30/2024,,50000
+,,2,4/30/2024,,200000
+,,5,4/30/2024,,100000
+,,2,4/30/2024,,80000
+,,3,4/30/2024,,1170000
+,,8,4/30/2024,,9600000
+,,1,4/30/2024,,90000
+,,6,4/30/2024,,720000
+,,9,4/30/2024,,10530000
+,,8,4/30/2024,,160000
+,,5,4/30/2024,,2250000
+,,3,4/30/2024,,180000
+,,3,4/30/2024,,1170000
+,,2,4/30/2024,,80000
+,,2,4/30/2024,,40000
+,,3,4/30/2024,,180000
+,,8,4/30/2024,,1280000
+,,6,4/30/2024,,1800000
+,,4,4/30/2024,,1600000
+,,1,4/30/2024,,120000
+,,4,4/30/2024,,960000
+,,7,4/30/2024,,5880000
+,,7,4/30/2024,,4900000
+,,3,4/30/2024,,990000
+,,2,4/30/2024,,440000
+,,1,4/30/2024,,110000
+,,1,4/30/2024,,150000
+,,3,4/30/2024,,1170000
+,,9,4/30/2024,,7290000
+,,7,4/30/2024,,6370000
+,,6,4/30/2024,,4320000
+,,4,4/30/2024,,400000
+,,2,4/30/2024,,200000
+,,8,4/30/2024,,5760000
+,,3,4/30/2024,,810000
+,,4,4/30/2024,,1760000
+,,1,4/30/2024,,20000
+,,1,4/30/2024,,130000
+,,2,4/30/2024,,520000
+,,3,4/30/2024,,540000
+,,3,4/30/2024,,810000
+,,1,4/30/2024,,150000
+,,4,4/30/2024,,320000
+,,9,4/30/2024,,180000
+,,1,4/30/2024,,120000
+,,2,4/30/2024,,200000
+,,5,4/30/2024,,500000
+,,9,4/30/2024,,1620000
+,,3,4/30/2024,,540000
+,,9,4/30/2024,,8100000
+,,1,4/30/2024,,25000
+,,9,4/30/2024,,12150000
+,,1,4/30/2024,,130000
+,,7,4/30/2024,,5390000
+,,8,4/30/2024,,1280000
+,,2,4/30/2024,,200000
+,,3,4/30/2024,,900000
+,,6,4/30/2024,,4680000
+,,2,4/30/2024,,80000
+,,4,4/30/2024,,2400000
+,,2,4/30/2024,,100000
+,,1,4/30/2024,,20000
+,,8,4/30/2024,,1600000
+,,8,4/30/2024,,3840000
+,,9,4/30/2024,,4050000
+,,9,4/30/2024,,1620000
+,,6,4/30/2024,,4320000
+,,6,4/30/2024,,5400000
+,,8,4/30/2024,,5760000
+,,9,4/30/2024,,7290000
+,,2,4/30/2024,,40000
+,,8,4/30/2024,,6400000
+,,8,4/30/2024,,3200000
+,,5,4/30/2024,,500000
+,,5,4/30/2024,,3750000
+,,3,4/30/2024,,900000
+,,9,4/30/2024,,10530000
+,,4,4/30/2024,,1920000
+,,8,4/30/2024,,5760000
+,,9,4/30/2024,,10530000
+,,8,4/30/2024,,1280000
+,,7,4/30/2024,,980000
+,,2,4/30/2024,,200000
+,,1,4/30/2024,,20000
+,,5,4/30/2024,,3750000
+,,2,4/30/2024,,400000
+,,1,4/30/2024,,110000
+,,6,4/30/2024,,3600000
+,,3,4/30/2024,,180000
+,,7,4/30/2024,,2940000
+,,5,4/30/2024,,3250000
+,,6,4/30/2024,,3240000
+,,2,4/30/2024,,440000
+,,2,4/30/2024,,440000
+,,9,4/30/2024,,10530000
+,,5,4/30/2024,,3250000
+,,5,4/30/2024,,3000000
+,,1,4/30/2024,,110000
+,,8,4/30/2024,,5760000
+,,1,4/30/2024,,120000
+,,7,4/30/2024,,5390000
+,,6,4/30/2024,,3960000
+,,8,4/30/2024,,3200000
+,,2,4/30/2024,,360000
+,,9,4/30/2024,,1620000
+,,5,4/30/2024,,625000
+,,3,4/30/2024,,1170000
+,,3,4/30/2024,,180000
+,,7,4/30/2024,,980000
+,,3,4/30/2024,,900000
+,,1,4/30/2024,,20000
+,,4,4/30/2024,,1920000
+,,4,4/30/2024,,800000
+,,2,4/30/2024,,480000
+,,7,4/30/2024,,7350000
+,,5,4/30/2024,,3750000
+,,8,4/30/2024,,1280000
+,,2,4/30/2024,,440000
+,,1,4/30/2024,,60000
+,,9,4/30/2024,,8100000
+,,2,4/30/2024,,520000
+,,8,4/30/2024,,1600000
+,,3,4/30/2024,,180000
+,,3,4/30/2024,,225000
+,,6,4/30/2024,,1800000
+,,6,4/30/2024,,3600000
+,,9,4/30/2024,,1620000
+,,8,4/30/2024,,3840000
+,,2,4/30/2024,,360000
+,,5,4/30/2024,,3750000
+,,5,4/30/2024,,2250000
+,,8,4/30/2024,,9600000
+,,5,4/30/2024,,100000
+,,7,4/30/2024,,980000
+,,4,4/30/2024,,400000
+,,7,4/30/2024,,980000
+,,7,4/30/2024,,4410000
+,,8,4/30/2024,,160000
+,,7,4/30/2024,,2940000
+,,6,4/30/2024,,720000
+,,7,4/30/2024,,980000
+,,9,4/30/2024,,7290000
+,,1,4/30/2024,,20000
+,,8,4/30/2024,,9600000
+,,7,4/30/2024,,1225000
+,,4,4/30/2024,,1600000
+,,9,4/30/2024,,4050000
+,,1,4/30/2024,,20000
+,,3,4/30/2024,,1350000
+,,7,4/30/2024,,980000
+,,7,4/30/2024,,2940000
+,,6,4/30/2024,,3960000
+,,7,4/30/2024,,7350000
+,,7,4/30/2024,,140000
+,,3,4/30/2024,,1170000
+,,9,4/30/2024,,1620000
+,,6,4/30/2024,,2160000
+,,4,4/30/2024,,320000
+,,2,4/30/2024,,40000
+,,5,4/30/2024,,2250000
+,,4,4/30/2024,,800000
+,,9,4/30/2024,,2025000
+,,2,4/30/2024,,400000
+,,7,4/30/2024,,1225000
+,,8,4/30/2024,,1280000
+,,8,4/30/2024,,5760000
+,,7,4/30/2024,,4410000
+,,1,4/30/2024,,100000
+,,7,4/30/2024,,5880000
+,,2,4/30/2024,,360000
+,,3,4/30/2024,,900000
+,,8,4/30/2024,,7680000
+,,4,4/30/2024,,2400000
+,,7,4/30/2024,,4900000
+,,2,4/30/2024,,480000
+,,3,4/30/2024,,1170000
+,,1,4/30/2024,,120000
+,,8,4/30/2024,,160000
+,,5,4/30/2024,,3000000
+,,9,4/30/2024,,12150000
+,,5,4/30/2024,,2500000
+,,7,4/30/2024,,4900000
+,,9,4/30/2024,,8100000
+,,7,4/30/2024,,5880000
+,,4,4/30/2024,,1920000
+,,4,4/30/2024,,1600000
+,,6,4/30/2024,,120000
+,,3,4/30/2024,,540000
+,,3,4/30/2024,,225000
+,,7,4/30/2024,,7350000
+,,8,4/30/2024,,3840000
+,,5,4/30/2024,,2250000
+,,7,4/30/2024,,2450000
+,,2,4/30/2024,,100000
+,,3,4/30/2024,,1170000
+,,1,4/30/2024,,150000
+,,6,4/30/2024,,4680000
+,,1,4/30/2024,,90000
+,,7,4/30/2024,,2940000
+,,1,4/30/2024,,100000
+,,4,4/30/2024,,320000
+,,2,4/30/2024,,80000
+,,8,4/30/2024,,9600000
+,,9,4/30/2024,,1620000
+,,9,4/30/2024,,12150000
+,,3,4/30/2024,,540000
+,,2,4/30/2024,,240000
+,,2,4/30/2024,,600000
+,,4,4/30/2024,,1600000
+,,6,4/30/2024,,4680000
+,,6,4/30/2024,,3600000
+,,5,4/30/2024,,3000000
+,,6,4/30/2024,,3960000
+,,7,4/30/2024,,980000
+,,7,4/30/2024,,980000
+,,3,4/30/2024,,180000
+,,3,4/30/2024,,1080000
+,,5,4/30/2024,,625000
+,,9,4/30/2024,,9720000
+,,4,4/30/2024,,800000
+,,8,4/30/2024,,3840000
+,,2,4/30/2024,,360000
+,,8,4/30/2024,,3840000
+,,2,4/30/2024,,40000
+,,7,4/30/2024,,7350000
+,,9,4/30/2024,,10530000
+,,8,4/30/2024,,160000
+,,9,4/30/2024,,1620000
+,,2,4/30/2024,,40000
+,,2,4/30/2024,,80000
+,,2,4/30/2024,,80000
+,,3,4/30/2024,,1350000
+,,4,4/30/2024,,1760000
+,,3,4/30/2024,,540000
+,,6,4/30/2024,,3600000
+,,8,4/30/2024,,3840000
+,,2,4/30/2024,,200000
+,,2,4/30/2024,,40000
+,,1,4/30/2024,,120000
+,,1,4/30/2024,,25000
+,,1,4/30/2024,,110000
+,,6,4/30/2024,,120000
+,,7,4/30/2024,,140000
+,,4,4/30/2024,,1760000
+,,2,4/30/2024,,360000
+,,4,4/30/2024,,2080000
+,,1,4/30/2024,,20000
+,,1,4/30/2024,,110000
+,,8,4/30/2024,,3200000
+,,7,4/30/2024,,7350000
+,,6,4/30/2024,,4680000
+,,1,4/30/2024,,150000
+,,4,4/30/2024,,1440000
+,,3,4/30/2024,,1170000
+,,6,4/30/2024,,720000
+,,2,4/30/2024,,80000
+,,3,4/30/2024,,900000
+,,4,4/30/2024,,2400000
+,,7,4/30/2024,,2940000
+,,1,4/30/2024,,20000
+,,8,4/30/2024,,1280000
+,,3,4/30/2024,,180000
+,,9,4/30/2024,,7290000
+,,5,4/30/2024,,625000
+,,2,4/30/2024,,520000
+,,7,4/30/2024,,1225000
+,,6,4/30/2024,,1800000
+,,3,4/30/2024,,180000
+,,9,4/30/2024,,180000
+,,2,4/30/2024,,240000
+,,6,4/30/2024,,1800000
+,,1,4/30/2024,,90000
+,,9,4/30/2024,,180000
+,,1,4/30/2024,,100000
